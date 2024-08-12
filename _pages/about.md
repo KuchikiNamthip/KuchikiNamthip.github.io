@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Pharm.D | Ph.D. Candidate in [System Pharmacology at Siriraj](https://www.sisyspharm.org/), Thailand 🇹🇭
 
 profile:
   align: left
@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Department of Pharmacology</p>
-    <p>12ᵗʰ floor Srisavarindhira Building</p>
+    <p>12ᵗʰ fl. Srisavarindhira Bd.</p>
     <p>Faculty of Medicine Siriraj Hospital, Mahidol University</p>
     <p>2 Wanglang Road, Bangkok-Noi, Bangkok 10700, Thailand</p>
 
