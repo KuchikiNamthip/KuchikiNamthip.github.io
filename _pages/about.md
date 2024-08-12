@@ -9,9 +9,10 @@ profile:
   image: prof_pic_color.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Pharmacology</p>
+    <p>12ᵗʰ floor Srisavarindhira Building</p>
+    <p>Faculty of Medicine Siriraj Hospital, Mahidol University</p>
+    <p>2 Wanglang Road, Bangkok-Noi, Bangkok 10700, Thailand</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
