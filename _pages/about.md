@@ -9,6 +9,7 @@ profile:
   image: prof_pic_color.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p>Krittiyabhorn (Namthip) Kongtanawanich</p>
     <p>Pharm.D | Ph.D. Candidate</p>
     <p>in System Pharmacology</p>
     <p>at Siriraj, Thailand 🇹🇭</p>
@@ -17,7 +18,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<h> Krittiyabhorn (Namthip) Kongtanawanich </h>
+<center> Krittiyabhorn (Namthip) Kongtanawanich </center>
 As a Pharm.D. and Ph.D. candidate specializing in [Systems Pharmacology](https://www.sisyspharm.org/) and New Drug Developments at the Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand, supported by [the Royal Golden Jubilee Ph.D. Program (RGJ-Ph.D. Program)](https://rgj.trf.or.th/main/en/) and the Royal Scholarship from Professor Dr. Her Royal Highness Princess Chulabhorn via [the Chulabhorn Foundation](https://www.cri.or.th/chulabhorn-foundation-en/). 
 
 I am deeply passionate about precision oncology and cancer biology. Through my research, I delve into the fascinating world of cancer biology, exploring the intricate dynamics of cancer stem cells and cellular plasticity using both experimental and computational approaches.
