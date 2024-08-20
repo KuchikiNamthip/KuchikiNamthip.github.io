@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Krittiyabhorn (Namthip) Kongtanawanich
 permalink: /
 subtitle: Krittiyabhorn (Namthip) Kongtanawanich
 
