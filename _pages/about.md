@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: KuchikiNamthip.github.io /
+permalink: /
 subtitle: Krittiyabhorn (Namthip) Kongtanawanich
 
 profile:
