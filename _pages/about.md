@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Pharm.D | Ph.D. Candidate</p>
-    <p>in System Pharmacology at Siriraj, Thailand 🇹🇭</p>
+    <p>in System Pharmacology</p>
     <p>at Siriraj, Thailand 🇹🇭</p>
 
 news: true # includes a list of news items
