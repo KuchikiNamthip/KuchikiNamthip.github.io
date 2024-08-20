@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Krittiyabhorn (Namthip) Kongtanawanich
+title: about
 permalink: /
-subtitle: Krittiyabhorn (Namthip) Kongtanawanich
+subtitle: <h> Krittiyabhorn (Namthip) Kongtanawanich </h>
 
 profile:
   align: left
