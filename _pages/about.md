@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<center><h2>Krittiyabhorn (Namthip) Kongtanawanich</h2></center>
+<center><h3>Krittiyabhorn (Namthip) Kongtanawanich</h3></center>
 
 As a Pharm.D. and Ph.D. candidate specializing in [Systems Pharmacology](https://www.sisyspharm.org/) and New Drug Developments at the Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand, supported by [the Royal Golden Jubilee Ph.D. Program (RGJ-Ph.D. Program)](https://rgj.trf.or.th/main/en/) and the Royal Scholarship from Professor Dr. Her Royal Highness Princess Chulabhorn via [the Chulabhorn Foundation](https://www.cri.or.th/chulabhorn-foundation-en/). 
 
