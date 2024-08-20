@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Krittiyabhorn (Namthip) Kongtanawanich
+title: about
 permalink: KuchikiNamthip.github.io /
 subtitle: Krittiyabhorn (Namthip) Kongtanawanich
 
