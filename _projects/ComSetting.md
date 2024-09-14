@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Computer Workbench
+title: Computer Workbench Setting
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 1
 category: ComBioPortfolio
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
