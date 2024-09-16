@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cancer Stem Cell
+title: Cholangiocarcinoma Stem Cell
 description: with background image
 img: assets/img/12.jpg
 importance: 1
