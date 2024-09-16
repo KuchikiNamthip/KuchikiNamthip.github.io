@@ -9,4 +9,4 @@ giscus_comments: true
 ---
 
 Contents
-1. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/CompSetting.html">My Computer Workbench</a> system)
+1. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/CompSetting.html">My Computer Workbench</a> 
