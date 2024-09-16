@@ -2,7 +2,7 @@
 layout: page
 title: Transcriptomics
 description: My transcriptomics portfolio :)
-img:
+img: assets/img/3.jpg
 importance: 1
 category: ComBioPortfolio
 ---
