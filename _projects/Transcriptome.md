@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transcriptomics
-description: another without an image
+description: My transcriptomics portfolio :)
 img:
 importance: 1
 category: ComBioPortfolio
