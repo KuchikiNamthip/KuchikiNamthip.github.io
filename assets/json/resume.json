@@ -111,14 +111,14 @@
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Transcriptomics: Reference-based RNA-Seq data analysis",
+      "name": "Transcriptomics Analysis: Reference-based RNA-Seq data analysis",
       "date": "2022",
       "issuer": "Galaxy Training Network",
       "url": "https://training.galaxyproject.org/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Epigenetics (ATAC-Seq)",
+      "name": "Epigenetics Analysis: ATAC-Seq",
       "date": "2022",
       "issuer": "Galaxy Training Network",
       "url": "https://example.com",
