@@ -13,7 +13,7 @@ authors:
     affiliations:
       name: Siriraj, Mahidol University, Thailand
 
-2024-09-17-learn-program.md
+
 bibliography: 2018-12-22-distill.bib
 
 # Optionally, you can add a table of contents to your post.
