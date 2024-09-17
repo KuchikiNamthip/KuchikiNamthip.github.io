@@ -22,6 +22,17 @@
       }
     ]
   },
+  "work": [
+    {
+      "name": "Siriraj Center of Research Excellence for Systems Pharmacology, Mahidol University",
+      "position": "Ph.D. Candidate",
+      "url": "https://www.sisyspharm.org/",
+      "startDate": "2018-08-01",
+      "endDate": "",
+      "summary": "Ph.D. candidate under supervise of Assoc. Prof. Siwanon Jirawatnotai",
+      "highlights": ["Project: Cholangiocarcinoma stem cell mediated drug resistance"]
+    }
+  ],
   "volunteer": [
     {
       "organization": "Exercise Mania Patients THAILAND",
@@ -66,7 +77,7 @@
     },
     {
       "institution": "School of Pharmacy, Walailak University, Thailand",
-      "location": "Nakhon Si Thammarat, Thailand",
+      "location": "NST, Thailand",
       "url": "https://pharmacy.wu.ac.th/en",
       "area": "Pharmaceutical Science",
       "studyType": "Pharm.D.",
