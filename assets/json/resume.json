@@ -153,7 +153,7 @@
     {
       "name": "Computational Biology",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
         "Transcriptomics"
       ]
@@ -184,8 +184,19 @@
   ],
   "interests": [
     {
+      "name": "Cancer Biology",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "Cellular Plasticity",
+        "Cancer Stem Cell",
+        "Cancer Drug Resistance",
+        "Cancer Metastasis",
+        "Tumor Microenvironment"
+      ]
+    },
+    {
       "name": "Computational Biology",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
         "Transcriptomics",
         "Epigenetics"
