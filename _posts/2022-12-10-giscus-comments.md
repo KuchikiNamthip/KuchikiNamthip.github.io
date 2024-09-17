@@ -1,12 +1,12 @@
 ---
 layout: post
-title: a post with giscus comments
-date: 2022-12-10 11:59:00-0400
-description: an example of a blog post with giscus comments
-tags: comments
-categories: sample-posts external-services
+title: How to Learn Programming Languages 💻
+date: 2024-09-17 11:59:00-0400
+description: 
+tags: ProgrammingLanguage C R Python
+categories: ProgrammingLanguage 
 giscus_comments: true
 related_posts: false
 ---
 
-This post shows how to add GISCUS comments.
+This page is currently developed. Please visit us in the next few days. 🤓
