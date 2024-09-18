@@ -1,13 +1,23 @@
 ---
-layout: post
+layout: distill
 title: What is GO, msigDB, KEGG, ORA, and GSEA?
 description: What are those terms in transcriptomics analysis? 
 tags: R GSEA ORA RNA-seq
 giscus_comments: true
-date: 2023-03-17 11:59:00-0400
-featured: true
+date: 2024-09-18
 related_posts: false
 categories: Transcriptomics
+featured: false
+
+authors:
+  - name: Krittiyabhorn Kongtanawanich
+    url: "https://kuchikinamthip.github.io/"
+    affiliations:
+      name: Siriraj, Mahidol University, Thailand
+
+
+bibliography: 2018-12-22-distill.bib
+
 toc:
   sidebar: left
 ---
@@ -63,9 +73,25 @@ Other sources of gene set:
 #### 2.2 Gene Set Enrichment Analysis (GSEA)
 - GSEA evaluates whether predefined sets of genes show statistically significant differences between two biological states (e.g., treated vs. untreated). Unlike ORA, GSEA considers all genes in the dataset and ranks them based on expression levels, allowing it to detect subtle changes across entire gene sets. 
 - In GSEA, the entire list of ranked genes can be assessed against the same or similar sets from msigDB, allowing for a broader understanding of the biological implications of expression changes. 
+- For more information regarding GSEA issue, please read [a post from Ming (Tommy) Tang(https://github.com/crazyhottommy/RNA-seq-analysis/blob/master/GSEA_explained.md)].
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/post2024/ORAvsGSEA.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Overview of GSEA. [Credit pic](https://github.com/crazyhottommy/RNA-seq-analysis/blob/master/GSEA_explained.md)
+</div>
 
 ---
 
 ## Summary of the connections
 > In summary, GO provides functional annotations, KEGG offers pathway information, msigDB aggregates these resources into usable gene sets, while ORA and GSEA are methodologies that leverage these databases to interpret gene expression data in a biological context.
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/post2024/ORAvsGSEA.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The different between ORA and GSEA. [Credit pic](https://ntuhmc.ntuh.gov.tw/epaper-54th.htm)
+</div>
