@@ -18,4 +18,4 @@ giscus_comments: true
     2.2 From gene count matrix to visualization \
 
 ## Other related posts
-- [What is GO, msigDB, KEGG, ORA, and GSEA in transcriptomics analysis?](https://kuchikinamthip.github.io/blog/2024/msigDB_ORA_GSEA/)
+- [What are GO, msigDB, KEGG, ORA, and GSEA in transcriptomics analysis?](https://kuchikinamthip.github.io/blog/2024/msigDB_ORA_GSEA/)

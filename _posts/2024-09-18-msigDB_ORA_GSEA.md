@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: What is GO, msigDB, KEGG, ORA, and GSEA?
+title: What are GO, msigDB, KEGG, ORA, and GSEA?
 description: What are those terms in transcriptomics analysis? 
 tags: R GSEA ORA RNA-seq
 giscus_comments: true
