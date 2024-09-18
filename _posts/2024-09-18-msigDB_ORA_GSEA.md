@@ -6,7 +6,6 @@ tags: R GSEA ORA RNA-seq
 giscus_comments: true
 date: 2024-09-18
 featured: true
-categories: Transcriptomics
 
 authors:
   - name: Krittiyabhorn Kongtanawanich
@@ -16,24 +15,6 @@ authors:
 
 
 bibliography: 2018-12-22-distill.bib
-
-# Optionally, you can add a table of contents to your post.
-# NOTES:
-#   - make sure that TOC names match the actual section names
-#     for hyperlinks within the post to work correctly.
-#   - we may want to automate TOC generation in the future using
-#     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
-toc:
-  - name: Let's start with the full name of each
-    # if a section has subsections, you can add them as follows:
-    # subsections:
-    #   - name: Example Child Subsection 1
-    #   - name: Example Child Subsection 2
-  - name: Grouping according to the usage
-      subsections:
-        - name: Source of gene set -> GO, msigDB, and KEGG
-        - name: Application in Analyses -> ORA and GSEA
-  - name: Summary of the connections
 
 ---
 
@@ -45,18 +26,25 @@ toc:
  5. Gene Set Enrichment Analysis (GSEA) \
 
 --- 
+
 ## Grouping according to the usage
 ### 1. Source of gene set -> GO, msigDB, and KEGG
 #### 1.1 [Gene Ontology (GO)](http://geneontology.org/)
  - GO provides a structured vocabulary for annotating genes and gene products based on their biological processes, cellular components, and molecular functions. It is widely used to categorize genes into meaningful biological contexts.
  - GO includes BP, CC and MF
 
+--- 
+
 #### 1.2 [Kyoto Encyclopedia of Genes and Genomes (KEGG)](https://www.kegg.jp/kegg/)
 - KEGG is a database that provides information on biological pathways, diseases, and drugs. It includes curated pathways that represent molecular interactions and reactions in various biological systems. KEGG pathways are often used in conjunction with GO for pathway analysis.
 - KEGG includes pathway, module, enzyme, network, drug and disease
 
+--- 
+
 #### 1.3 [Molecular Signatures Database (msigDB)](https://www.gsea-msigdb.org/gsea/msigdb/)
 msigDB is a collection of annotated gene sets that can be used for gene set enrichment analyses. It includes gene sets derived from various sources, including GO terms, KEGG pathways, and other curated datasets. Researchers use msigDB to access predefined gene sets for enrichment analyses.
+
+--- 
 
 #### Other sources of gene set
 Other sources of gene set: 
@@ -69,14 +57,22 @@ Other sources of gene set:
  - [Network of Cancer Gene (NCG)](http://ncg.kcl.ac.uk/) (version 6 and v7)
  - [The COVID-19 Drug and Gene Set Library](https://maayanlab.cloud/covid19/).
 
+--- 
+
 ### 2. Application in Analyses -> ORA and GSEA
+
+--- 
+
 #### 2.1 Over-Representation Analysis (ORA)
 - ORA is a statistical method used to determine if a set of genes (e.g., differentially expressed genes) contains a higher proportion of genes associated with specific biological functions or pathways than would be expected by chance. This method often uses databases like GO and KEGG to assess enrichment. \
 - In ORA, researchers might input a list of differentially expressed genes to see if they are over-represented in specific GO terms or KEGG pathways. \
 
+--- 
+
 #### 2.2 Gene Set Enrichment Analysis (GSEA)
 - GSEA evaluates whether predefined sets of genes show statistically significant differences between two biological states (e.g., treated vs. untreated). Unlike ORA, GSEA considers all genes in the dataset and ranks them based on expression levels, allowing it to detect subtle changes across entire gene sets. \
 - In GSEA, the entire list of ranked genes can be assessed against the same or similar sets from msigDB, allowing for a broader understanding of the biological implications of expression changes. \
+
 ---
 
 ## Summary of the connections
