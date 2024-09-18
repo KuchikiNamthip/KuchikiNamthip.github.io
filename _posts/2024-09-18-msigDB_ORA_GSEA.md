@@ -25,9 +25,6 @@ toc:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
   - name: Grouping according to the usage
-      subsections:
-        - name: Source of gene set -> GO, msigDB, and KEGG
-        - name: Application in Analyses -> ORA and GSEA
   - name: Summary of the connections
 
 ---
