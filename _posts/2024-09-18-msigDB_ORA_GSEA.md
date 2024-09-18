@@ -25,6 +25,9 @@ toc:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
   - name: Grouping according to the usage
+      subsections:
+        - name: Source of gene set -> GO, msigDB, and KEGG
+        - name: Application in Analyses -> ORA and GSEA
   - name: Summary of the connections
 
 ---
@@ -51,7 +54,7 @@ toc:
 #### 1.3 [Molecular Signatures Database (msigDB)](https://www.gsea-msigdb.org/gsea/msigdb/)
 msigDB is a collection of annotated gene sets that can be used for gene set enrichment analyses. It includes gene sets derived from various sources, including GO terms, KEGG pathways, and other curated datasets. Researchers use msigDB to access predefined gene sets for enrichment analyses.
 
-#### Other sources of gene set
+#### 1.4 Other sources of gene set
 Other sources of gene set: 
  - [WikiPathway](https://wikipathways.org/)
  - [EnrichrDb](https://maayanlab.cloud/Enrichr/)
