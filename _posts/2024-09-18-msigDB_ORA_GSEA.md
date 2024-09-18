@@ -9,13 +9,6 @@ featured: true
 categories: Transcriptomics
 toc:
   sidebar: left
-
-authors:
-  - name: Krittiyabhorn Kongtanawanich
-    url: "https://kuchikinamthip.github.io/"
-    affiliations:
-      name: Siriraj, Mahidol University, Thailand
-
 ---
 
 ```yml
