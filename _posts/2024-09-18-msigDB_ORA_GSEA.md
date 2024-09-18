@@ -1,10 +1,10 @@
 ---
-layout: distill
+layout: pos
 title: What is GO, msigDB, KEGG, ORA, and GSEA?
 description: What are those terms in transcriptomics analysis? 
 tags: R GSEA ORA RNA-seq
 giscus_comments: true
-date: 2024-09-19
+date: 2024-09-18
 featured: true
 categories: Transcriptomics
 toc:
@@ -16,21 +16,19 @@ authors:
     affiliations:
       name: Siriraj, Mahidol University, Thailand
 
-
-bibliography: 2018-12-22-distill.bib
-
 ---
+
 ```yml
 toc:
   sidebar: left
 ```
 
 ## Let's start with the full name of each
- 1. Gene Ontology (GO) \
- 2. Molecular Signatures Database (msigDB) \
- 3. Kyoto Encyclopedia of Genes and Genomes (KEGG) \
- 4. Over-Representation Analysis (ORA) \
- 5. Gene Set Enrichment Analysis (GSEA) \
+ 1. Gene Ontology (GO) 
+ 2. Molecular Signatures Database (msigDB) 
+ 3. Kyoto Encyclopedia of Genes and Genomes (KEGG) 
+ 4. Over-Representation Analysis (ORA) 
+ 5. Gene Set Enrichment Analysis (GSEA) 
 
 --- 
 
@@ -62,14 +60,15 @@ Other sources of gene set:
 
 ### 2. Application in Analyses -> ORA and GSEA
 #### 2.1 Over-Representation Analysis (ORA)
-- ORA is a statistical method used to determine if a set of genes (e.g., differentially expressed genes) contains a higher proportion of genes associated with specific biological functions or pathways than would be expected by chance. This method often uses databases like GO and KEGG to assess enrichment. \
-- In ORA, researchers might input a list of differentially expressed genes to see if they are over-represented in specific GO terms or KEGG pathways. \
+- ORA is a statistical method used to determine if a set of genes (e.g., differentially expressed genes) contains a higher proportion of genes associated with specific biological functions or pathways than would be expected by chance. This method often uses databases like GO and KEGG to assess enrichment. 
+- In ORA, researchers might input a list of differentially expressed genes to see if they are over-represented in specific GO terms or KEGG pathways. 
 
 #### 2.2 Gene Set Enrichment Analysis (GSEA)
-- GSEA evaluates whether predefined sets of genes show statistically significant differences between two biological states (e.g., treated vs. untreated). Unlike ORA, GSEA considers all genes in the dataset and ranks them based on expression levels, allowing it to detect subtle changes across entire gene sets. \
-- In GSEA, the entire list of ranked genes can be assessed against the same or similar sets from msigDB, allowing for a broader understanding of the biological implications of expression changes. \
+- GSEA evaluates whether predefined sets of genes show statistically significant differences between two biological states (e.g., treated vs. untreated). Unlike ORA, GSEA considers all genes in the dataset and ranks them based on expression levels, allowing it to detect subtle changes across entire gene sets. 
+- In GSEA, the entire list of ranked genes can be assessed against the same or similar sets from msigDB, allowing for a broader understanding of the biological implications of expression changes. 
+
 ---
+
 ## Summary of the connections
 > In summary, GO provides functional annotations, KEGG offers pathway information, msigDB aggregates these resources into usable gene sets, while ORA and GSEA are methodologies that leverage these databases to interpret gene expression data in a biological context.
----
 
