@@ -18,15 +18,6 @@ authors:
 
 bibliography: 2018-12-22-distill.bib
 
-toc:
-  - name: Let's start with the full name of each
-    # if a section has subsections, you can add them as follows:
-    # subsections:
-    #   - name: Example Child Subsection 1
-    #   - name: Example Child Subsection 2
-  - name: Grouping according to the usage
-  - name: Summary of the connections
-
 ---
 
 ## Let's start with the full name of each
