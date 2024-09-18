@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: The relationship between GO, msigDB, KEGG, ORA, and GSEA in transcriptomics analysis
-description: What is it in transcriptomics analysis? 
+description: What is those terms in transcriptomics analysis? 
 tags: distill formatting
 giscus_comments: true
 date: 2024-09-18
@@ -30,8 +30,8 @@ toc:
     #   - name: Example Child Subsection 2
   - name: Grouping according to the usage
       subsections:
-        - name: Source of gene set: GO, msigDB, and KEGG
-        - name: Application in Analyses: ORA and GSEA
+        - name: Source of gene set -> GO, msigDB, and KEGG
+        - name: Application in Analyses -> ORA and GSEA
   - name: Summary of the connections
 
 
@@ -63,7 +63,7 @@ _styles: >
 
 --- 
 ## Grouping according to the usage
-### 1. Source of gene set: GO, msigDB, and KEGG
+### 1. Source of gene set -> GO, msigDB, and KEGG
 #### 1.1 [Gene Ontology (GO)](http://geneontology.org/)
  - GO provides a structured vocabulary for annotating genes and gene products based on their biological processes, cellular components, and molecular functions. It is widely used to categorize genes into meaningful biological contexts.
  - GO includes BP, CC and MF
@@ -86,7 +86,7 @@ Other sources of gene set:
  - [Network of Cancer Gene (NCG)](http://ncg.kcl.ac.uk/) (version 6 and v7)
  - [The COVID-19 Drug and Gene Set Library](https://maayanlab.cloud/covid19/).
 
-### 2. Application in Analyses: ORA and GSEA
+### 2. Application in Analyses -> ORA and GSEA
 #### 2.1 Over-Representation Analysis (ORA)
 - ORA is a statistical method used to determine if a set of genes (e.g., differentially expressed genes) contains a higher proportion of genes associated with specific biological functions or pathways than would be expected by chance. This method often uses databases like GO and KEGG to assess enrichment. \
 - In ORA, researchers might input a list of differentially expressed genes to see if they are over-represented in specific GO terms or KEGG pathways. \
