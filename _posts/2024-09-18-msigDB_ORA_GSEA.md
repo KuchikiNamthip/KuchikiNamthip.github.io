@@ -1,11 +1,12 @@
 ---
 layout: distill
-title: The relationship between GO, msigDB, KEGG, ORA, and GSEA in transcriptomics analysis
+title: What is GO, msigDB, KEGG, ORA, and GSEA?
 description: What is those terms in transcriptomics analysis? 
-tags: distill formatting
+tags: R GSEA ORA RNA-seq
 giscus_comments: true
 date: 2024-09-18
 featured: true
+categories: Transcriptomics
 
 authors:
   - name: Krittiyabhorn Kongtanawanich
@@ -34,24 +35,6 @@ toc:
         - name: Application in Analyses -> ORA and GSEA
   - name: Summary of the connections
 
-
-# Below is an example of injecting additional post-specific styles.
-# If you use this post as a template, delete this _styles block.
-_styles: >
-  .fake-img {
-    background: #bbb;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 12px;
-  }
-  .fake-img p {
-    font-family: monospace;
-    color: white;
-    text-align: left;
-    margin: 12px 0;
-    text-align: center;
-    font-size: 16px;
-  }
 ---
 
 ## Let's start with the full name of each
@@ -97,7 +80,7 @@ Other sources of gene set:
 ---
 
 ## Summary of the connections
-In summary, GO provides functional annotations, KEGG offers pathway information, msigDB aggregates these resources into usable gene sets, while ORA and GSEA are methodologies that leverage these databases to interpret gene expression data in a biological context.
+> In summary, GO provides functional annotations, KEGG offers pathway information, msigDB aggregates these resources into usable gene sets, while ORA and GSEA are methodologies that leverage these databases to interpret gene expression data in a biological context.
 
 ---
 
