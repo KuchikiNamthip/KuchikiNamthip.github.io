@@ -8,6 +8,7 @@ date: 2024-09-18
 related_posts: false
 categories: Transcriptomics
 featured: false
+thumbnail: assets/img/post2024/GSEAcover.png
 
 authors:
   - name: Krittiyabhorn Kongtanawanich
@@ -35,6 +36,11 @@ toc:
  3. Kyoto Encyclopedia of Genes and Genomes (KEGG) 
  4. Over-Representation Analysis (ORA) 
  5. Gene Set Enrichment Analysis (GSEA) 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/post2024/GSEAcover.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 --- 
 
