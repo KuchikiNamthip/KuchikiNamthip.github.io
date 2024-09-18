@@ -12,11 +12,6 @@ toc:
   sidebar: left
 ---
 
-```yml
-toc:
-  sidebar: left
-```
-
 ## Let's start with the full name of each
  1. Gene Ontology (GO) 
  2. Molecular Signatures Database (msigDB) 
@@ -56,6 +51,14 @@ Other sources of gene set:
 #### 2.1 Over-Representation Analysis (ORA)
 - ORA is a statistical method used to determine if a set of genes (e.g., differentially expressed genes) contains a higher proportion of genes associated with specific biological functions or pathways than would be expected by chance. This method often uses databases like GO and KEGG to assess enrichment. 
 - In ORA, researchers might input a list of differentially expressed genes to see if they are over-represented in specific GO terms or KEGG pathways. 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/post2024/ORA.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    How the genes in ORA were defined. [Credit pic](https://ntuhmc.ntuh.gov.tw/epaper-54th.htm)
+</div>
 
 #### 2.2 Gene Set Enrichment Analysis (GSEA)
 - GSEA evaluates whether predefined sets of genes show statistically significant differences between two biological states (e.g., treated vs. untreated). Unlike ORA, GSEA considers all genes in the dataset and ranks them based on expression levels, allowing it to detect subtle changes across entire gene sets. 
