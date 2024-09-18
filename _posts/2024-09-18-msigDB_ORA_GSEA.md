@@ -19,7 +19,14 @@ authors:
 bibliography: 2018-12-22-distill.bib
 
 toc:
-  sidebar: left
+  - name: Let's start with the full name of each
+    # if a section has subsections, you can add them as follows:
+    # subsections:
+    #   - name: Example Child Subsection 1
+    #   - name: Example Child Subsection 2
+  - name: Grouping according to the usage
+  - name: Summary of the connections
+
 ---
 
 ## Let's start with the full name of each
@@ -67,20 +74,20 @@ Other sources of gene set:
     </div>
 </div>
 <div class="caption">
-    How the genes in ORA were defined. [Credit pic](https://ntuhmc.ntuh.gov.tw/epaper-54th.htm)
+    How the genes in ORA were defined. <a href="https://ntuhmc.ntuh.gov.tw/epaper-54th.htm" target="_blank">Credit pic</a>
 </div>
 
 #### 2.2 Gene Set Enrichment Analysis (GSEA)
 - GSEA evaluates whether predefined sets of genes show statistically significant differences between two biological states (e.g., treated vs. untreated). Unlike ORA, GSEA considers all genes in the dataset and ranks them based on expression levels, allowing it to detect subtle changes across entire gene sets. 
 - In GSEA, the entire list of ranked genes can be assessed against the same or similar sets from msigDB, allowing for a broader understanding of the biological implications of expression changes. 
-- For more information regarding GSEA issue, please read [a post from Ming (Tommy) Tang(https://github.com/crazyhottommy/RNA-seq-analysis/blob/master/GSEA_explained.md)].
+- For more information regarding GSEA issue, please read [a post from Ming (Tommy) Tang](https://github.com/crazyhottommy/RNA-seq-analysis/blob/master/GSEA_explained.md).
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/post2024/ORAvsGSEA.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Overview of GSEA. [Credit pic](https://github.com/crazyhottommy/RNA-seq-analysis/blob/master/GSEA_explained.md)
+    Overview of GSEA. <a href="https://github.com/crazyhottommy/RNA-seq-analysis/blob/master/GSEA_explained.md" target="_blank">Credit pic</a>
 </div>
 
 ---
@@ -93,5 +100,5 @@ Other sources of gene set:
     </div>
 </div>
 <div class="caption">
-    The different between ORA and GSEA. [Credit pic](https://ntuhmc.ntuh.gov.tw/epaper-54th.htm)
+    The different between ORA and GSEA. <a href="https://ntuhmc.ntuh.gov.tw/epaper-54th.htm" target="_blank">Credit pic</a>
 </div>
