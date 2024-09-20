@@ -6,7 +6,8 @@ img: assets/img/3.jpg
 importance: 1
 category: ComBioPortfolio
 giscus_comments: true
-
+toc:
+  sidebar: left
 ---
 ## Introduction
 I began learning transcriptomics analysis as my first step into computational biology, aiming to explore the world of cancer biology through non-hypothesis-driven research. I hope that transcriptomics will whisper me toward a fulfilling and exciting journey in the field of oncology. 
