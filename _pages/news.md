@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recent Computational Biology Portfolio
+title: news
 permalink: /news/
 ---
 
