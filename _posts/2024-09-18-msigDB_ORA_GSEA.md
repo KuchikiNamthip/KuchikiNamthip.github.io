@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: What are GO, msigDB, KEGG, ORA, and GSEA?
+title: What are GO, MSigDB, KEGG, ORA, and GSEA?
 description: What are those terms in transcriptomics analysis? 
 tags: R GSEA ORA RNA-seq
 giscus_comments: true
@@ -32,7 +32,7 @@ toc:
 
 ## Let's start with the full name of each
  1. Gene Ontology (GO) 
- 2. Molecular Signatures Database (msigDB) 
+ 2. Molecular Signatures Database (MSigDB) 
  3. Kyoto Encyclopedia of Genes and Genomes (KEGG) 
  4. Over-Representation Analysis (ORA) 
  5. Gene Set Enrichment Analysis (GSEA) 
@@ -56,8 +56,8 @@ toc:
 - KEGG is a database that provides information on biological pathways, diseases, and drugs. It includes curated pathways that represent molecular interactions and reactions in various biological systems. KEGG pathways are often used in conjunction with GO for pathway analysis.
 - KEGG includes pathway, module, enzyme, network, drug and disease
 
-#### 1.3 [Molecular Signatures Database (msigDB)](https://www.gsea-msigdb.org/gsea/msigdb/)
-msigDB is a collection of annotated gene sets that can be used for gene set enrichment analyses. It includes gene sets derived from various sources, including GO terms, KEGG pathways, and other curated datasets. Researchers use msigDB to access predefined gene sets for enrichment analyses.
+#### 1.3 [Molecular Signatures Database (MSigDB)](https://www.gsea-msigdb.org/gsea/msigdb/)
+MSigDB is a collection of annotated gene sets that can be used for gene set enrichment analyses. It includes gene sets derived from various sources, including GO terms, KEGG pathways, and other curated datasets. Researchers use MSigDB to access predefined gene sets for enrichment analyses.
 
 #### 1.4 Other sources of gene set
 Other sources of gene set: 
