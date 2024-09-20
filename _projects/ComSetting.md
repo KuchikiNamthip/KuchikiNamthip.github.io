@@ -7,7 +7,8 @@ importance: 1
 category: ComBioPortfolio
 tags: R Unix Docker Nextflow nf-core
 giscus_comments: true
-
+toc:
+  sidebar: left
 ---
 
 ## Introduction
