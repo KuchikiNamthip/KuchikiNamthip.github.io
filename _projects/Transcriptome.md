@@ -17,7 +17,7 @@ My heart shakes when analyzing wet lab data, and now it also shakes when I press
 ### 1. Data set 1: GSE197576
 #### 1.1 Analysis overview:
 ##### 1.1.1 Analysis set 1: From FASTQ file to visualization 
-1.1 <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/nf/nfcore_Upstream.html">From FASTQ file to gene counts</a> 
+1.1 <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/nf/nfcore_Upstream.html">From FASTQ file to gene counts</a> \
 1.2 <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/nf/nfcore_Count_ToDESeq2.html">From gene count matrix analyzed to differentially expressed genes by DESeq2 for functional analysis and visualization including</a>  
 1. Volcano plot 
 2. PCA 
