@@ -25,5 +25,6 @@ I am deeply passionate about precision oncology and cancer biology. Through my r
 
   🌸 ["NO CANCER THAILAND"](https://www.facebook.com/nocancerTH/): Founder of a Facebook page simplifying cancer science for the public, promoting understanding of cancer biology and precision medicine. \
   🌸 ["Exercise Mania Patients"](https://www.facebook.com/share/g/8duUkQvoX8EXRZV6/): Established a Facebook group uniting 800+ members across diseases, advocating for physical activity and mutual support.
+  🌸 ["Miss Asthma THAILAND"](https://www.facebook.com/profile.php?id=61554265143399): Founder of a Facebook page helping as an asthmatic friend for fostering a supportive environment and promoting asthma awareness.
 
 
