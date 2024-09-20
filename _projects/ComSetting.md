@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Computer Workbench Setting
 description: How my computers are set
 img: assets/img/1.jpg

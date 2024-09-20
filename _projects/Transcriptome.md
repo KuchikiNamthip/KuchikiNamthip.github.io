@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Transcriptomics
 description: My transcriptomics portfolio :)
 img: assets/img/3.jpg
