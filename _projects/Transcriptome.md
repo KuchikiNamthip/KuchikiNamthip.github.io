@@ -10,7 +10,7 @@ giscus_comments: true
 toc:
   beginning: true
 ---
-
+## Introduction
 I began learning transcriptomics analysis as my first step into computational biology, aiming to explore the world of cancer biology through non-hypothesis-driven research. I hope that transcriptomics will whisper me toward a fulfilling and exciting journey in the field of oncology. \
 My heart shakes when analyzing wet lab data, and now it also shakes when I press Enter while analyzing dry lab data.
 
@@ -20,11 +20,11 @@ My heart shakes when analyzing wet lab data, and now it also shakes when I press
 1.1.1 Analysis set 1: From FASTQ file to visualization \
         1.1 <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/nf/nfcore_Upstream.html">From FASTQ file to gene counts</a>  \
         1.2 <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/nf/nfcore_Count_ToDESeq2.html">From gene count matrix analyzed to differentially expressed genes by DESeq2 for functional analysis and visualization including</a>  \
-                1. Volcano plot \
-                2. PCA \
-                3. Heatmap \
-                4. Over-Representation Analysis (ORA) using GO term and MSigDB \
-                5. Gene Set Enrichment Analysis (GSEA) using fast GSEA 
+            1. Volcano plot \
+            2. PCA \
+            3. Heatmap \
+            4. Over-Representation Analysis (ORA) using GO term and MSigDB \
+            5. Gene Set Enrichment Analysis (GSEA) using fast GSEA 
 
 1.1.2. Analysis set 2: From gene count matrix (download from GEO) to visualization \
         2.1 <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/count_GEO/GEO_Count_ToTPM.html">From gene count matrix to transcripts per Million (TPM)</a>  \
@@ -58,3 +58,8 @@ One unique aspect of this data set is the data filtering process. The p-value di
 - I would like to thank my Ph.D. advisor. Without him, I would not have discovered the exciting world of cancer biology. From that point, I expanded my interest to the -omic fields for a deeper understanding. \
 
 - I would like to thank all my colleagues for their comments, suggestions, and assistance.
+
+---
+I'm very happy 🥰 that you are visiting my computational biology portfolio and would be even happier if you could provide suggestions or feedback 🤩. \
+
+You can contact me through various online platforms [here 📬](https://kuchikinamthip.github.io/) or leave a comment below using GitHub account. 👇🏼
