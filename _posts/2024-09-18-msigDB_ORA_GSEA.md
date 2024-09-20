@@ -11,10 +11,10 @@ featured: false
 thumbnail: assets/img/post2024/GSEAcover.png
 
 authors:
-  - name: Krittiyabhorn Kongtanawanich
+  - name: Krittiyabhorn (Namthip) Kongtanawanich
     url: "https://kuchikinamthip.github.io/"
     affiliations:
-      name: Siriraj, Mahidol University, Thailand
+      name: Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand
 
 
 bibliography: 2018-12-22-distill.bib
