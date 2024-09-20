@@ -7,8 +7,7 @@ importance: 1
 category: ComBioPortfolio Transctiptomics Unix R
 tags: R Unix Docker Nextflow nf-core
 giscus_comments: true
-toc:
-  beginning: true
+
 ---
 ## Introduction
 I began learning transcriptomics analysis as my first step into computational biology, aiming to explore the world of cancer biology through non-hypothesis-driven research. I hope that transcriptomics will whisper me toward a fulfilling and exciting journey in the field of oncology. \

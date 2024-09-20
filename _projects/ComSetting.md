@@ -7,8 +7,7 @@ importance: 1
 category: ComBioPortfolio Transctiptomics Unix R
 tags: R Unix Docker Nextflow nf-core
 giscus_comments: true
-toc:
-  beginning: true
+
 ---
 
 ## Introduction
