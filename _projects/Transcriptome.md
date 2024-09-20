@@ -50,13 +50,13 @@ One unique aspect of this data set is the data filtering process. The p-value di
 ---
 
 ## Acknowledgment
-- I would like to acknowledge Ming Tang (Tommy) for his encouragement and the valuable knowledge he provided through various online platforms. 
+- I would like to acknowledge [Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. 
 
 - I would like to thank Dr. Patipark Kueanjinda, who kindly supported my learning in transcriptomics. 
 
-- I would like to thank my Ph.D. advisor. Without him, I would not have discovered the exciting world of cancer biology. From that point, I expanded my interest to the -omic fields for a deeper understanding. 
-
 - I would like to thank all my colleagues for their comments, suggestions, and assistance.
+
+- Lastly, I would like to thank my Ph.D. advisor. Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
 
 ---
 I'm very happy 🥰 that you are visiting my computational biology portfolio and would be even happier if you could provide suggestions or feedback 🤩. 
