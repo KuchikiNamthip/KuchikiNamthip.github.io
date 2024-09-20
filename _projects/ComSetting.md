@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computer Workbench Setting
-description: How my computers are set
+description: How my computers are set up with reproducibility in mind.
 img: assets/img/1.jpg
 importance: 1
 category: ComBioPortfolio
