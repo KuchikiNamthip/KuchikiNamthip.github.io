@@ -5,7 +5,6 @@ description: My transcriptomics portfolio :)
 img: assets/img/3.jpg
 importance: 1
 category: ComBioPortfolio Transctiptomics Unix R
-tags: R Unix Docker Nextflow nf-core
 giscus_comments: true
 
 ---
