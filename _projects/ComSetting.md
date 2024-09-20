@@ -17,7 +17,12 @@ For the purpose of practicing computational biology and my passionate for epigen
 This project is a big challenge for me as a pharmacist. Without good friends and great suggestions, I would not have been able to develop myself to this point. I would like to acknowledge them for their support in setting up this computer workbench.
 
 ## Contents
-1. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/CompSetting.html">My Computer Workbench</a> 
+1. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/1_OS.html">Operating System using Linux</a> 
+       - Unix Trick: <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/Unix1_screen.html">`Screen` to Maintain Terminal Screen</a> 
+2. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/2_Docker.html">Containerization using Docker</a> 
+3. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/3_nf.html">Reproducible Computational Biology Workflow by nf-core</a> 
+4. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/4_R.html">Popular Computational Biology Language with R and R Studio</a> 
+5. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/5_Git.html">Tracking version of code with Git Version Control</a> 
 
 --------------
 ## Acknowledgment
