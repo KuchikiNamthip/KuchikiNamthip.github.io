@@ -28,7 +28,7 @@ This project is a big challenge for me as a pharmacist. Without good friends and
 ## Acknowledgment
 - I would like to acknowledge Ming Tang (Tommy) for his encouragement and the valuable knowledge he provided through various online platforms. 
 
-- I would like to thank my software engineer friends who kindly supported my learning in Unix and answered my funny questions. My very first question were, "What is this black screen from a computational biology course 🖥?" and "How to understand those alien syntax" 
+- I would like to thank my software engineer friends who kindly supported my learning in Unix and answered my funny questions. My very first question were, "What is this black screen🖥 from a computational biology course ?" and "How to understand those alien syntax" 
 It's a terminal and unix command line. 🤣🤣 
 
 - I would like to thank my Ph.D. advisor. Without him, I would not have discovered the exciting world of cancer biology. From that point, I expanded my interest to the -omic fields for a deeper understanding. 
