@@ -2,7 +2,7 @@
 layout: page
 title: Transcriptomics
 description: My transcriptomics portfolio :)
-img: assets/img/3.jpg
+img: assets/img/DancingRNA.jpeg
 importance: 1
 category: ComBioPortfolio
 giscus_comments: true

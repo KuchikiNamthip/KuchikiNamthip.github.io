@@ -2,7 +2,7 @@
 layout: page
 title: Computer Workbench Setting
 description: How my computers are set up with reproducibility in mind.
-img: assets/img/1.jpg
+img: assets/img/post2024/GSEAcover.png
 importance: 1
 category: ComBioPortfolio
 tags: R Unix Docker Nextflow nf-core
