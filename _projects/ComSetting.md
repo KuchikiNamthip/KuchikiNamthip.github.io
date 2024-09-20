@@ -11,17 +11,17 @@ giscus_comments: true
 ---
 
 ## Introduction
-For the purpose of practicing computational biology and my passionate for epigenome analysis, I'm trying to follow Prof. Xiaole Shirley Liu's course (STAT115 from Harvard University). In the course, they use the Unix command line, R, and Python language. Therefore, I am building the necessary skills from scratch though practice and randomly learning from online courses. I would like to acknowledge Tommy (Ming Tang) for his suggestions and role model. \
+For the purpose of practicing computational biology and my passionate for epigenome analysis, I'm trying to follow Prof. Xiaole Shirley Liu's course (STAT115 from Harvard University). In the course, they use the Unix command line, R, and Python language. Therefore, I am building the necessary skills from scratch though practice and randomly learning from online courses. I would like to acknowledge Tommy (Ming Tang) for his suggestions and role model. 
 
 This project is a big challenge for me as a pharmacist. Without good friends and great suggestions, I would not have been able to develop myself to this point. I would like to acknowledge them for their support in setting up this computer workbench.
 
 ## Contents
 1. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/1_OS.html">Operating System using Linux</a> 
-       - Unix Trick: <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/Unix1_screen.html">`Screen` to Maintain Terminal Screen</a> 
+       1. Unix Trick: <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/Unix1_screen.html">`Screen` to Maintain Terminal Screen</a> 
 2. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/2_Docker.html">Containerization using Docker</a> 
 3. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/3_nf.html">Reproducible Computational Biology Workflow by nf-core</a> 
 4. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/4_R.html">Popular Computational Biology Language with R and R Studio</a> 
-5. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/5_Git.html">Tracking version of code with Git Version Control</a> 
+5. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/ComSettingUp/5_Git.html">Tracking versions of code with Git Version Control</a> 
 
 --------------
 ## Acknowledgment
