@@ -12,7 +12,7 @@ toc:
 ---
 
 ## Introduction
-For the purpose of practicing computational biology and my passionate for epigenome analysis, I'm trying to follow Prof. Xiaole Shirley Liu's course (STAT115 from Harvard University). In the course, they use the Unix command line, R, and Python language. Therefore, I am building the necessary skills from scratch though practice and randomly learning from online courses. I would like to acknowledge Tommy (Ming Tang) for his suggestions and role model. 
+For the purpose of practicing computational biology and my passionate for epigenome analysis, I'm trying to follow Prof. Xiaole Shirley Liu's course (STAT115 from Harvard University). In the course, they use the Unix command line, R, and Python language. Therefore, I am building the necessary skills from scratch though practice and randomly learning from online courses. I would like to acknowledge Ming (Tommy) Tang for his suggestions and role model. 
 
 This project is a big challenge for me as a pharmacist. Without good friends and great suggestions, I would not have been able to develop myself to this point. I would like to acknowledge them for their support in setting up this computer workbench.
 
@@ -28,7 +28,7 @@ This project is a big challenge for me as a pharmacist. Without good friends and
 ## Acknowledgment
 - I would like to acknowledge [Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. 
 
-- I would like to thank my software engineer friends who kindly supported my learning in Unix and answered my funny questions. My very first question were, "What is this black screen🖥 from a computational biology course ?" and "How to understand those alien syntax" 
+- I would like to thank my software engineer friends (Bui Vinyunavan ang Guy Tongsan) who kindly supported my learning in Unix and answered my funny questions. My very first questions were, "What is this black screen🖥 from a computational biology course ?" and "How to understand those alien syntax" 
 It's a terminal and unix command line. 🤣🤣 
 
 - I would like to thank all my colleagues for their comments, suggestions, and assistance.
