@@ -2,7 +2,7 @@
 layout: distill
 title: Screen command to Maintain Terminal Screen - [Unix trick]
 description: 
-tags: R Rserver Docker Container
+tags: Unix Linux UnixTrick
 giscus_comments: true
 date: 2024-09-26
 related_posts: false
