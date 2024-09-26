@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> <html><body> <h2 id="introduction">Introduction</h2> <p>I found that one of the problems in cloud computing and remote HPC is the disconnection of the signal. Most of the processes on cloud and HPC are heavily worked and take a long analysis time. If the connection on your local computer is poor, the screen is lost, which means what you run on the remote computer stops. To solve this issue, I have tried many ways, such as using <code class="language-plaintext highlighter-rouge">snap</code> or running a Docker container in the background. However, the most convenient way is using the command <code class="language-plaintext highlighter-rouge">screen</code>.</p> <h2 id="setting-up-screen">Setting up <code class="language-plaintext highlighter-rouge">screen</code> </h2> <p>First, you need to install <code class="language-plaintext highlighter-rouge">screen</code> on your remote computer (either cloud computing or remote HPC). Now the screen can work properly just by calling the <code class="language-plaintext highlighter-rouge">screen</code> command. However, I want it to be easier to work with. Tommy suggested using the screen command and <code class="language-plaintext highlighter-rouge">.screenrc</code> file in <a href="https://www.youtube.com/watch?v=7t9LdMPPY7g&amp;t=231s" rel="external nofollow noopener" target="_blank">his video</a>. I followed his suggestion by doing the steps below.</p> <h3 id="1-install-screen">1. Install screen</h3> <p>First, install screen if it is available on your system. For HPC, if you can’t run the command below, it means that you are not an admin. The installation requires the system administrator (root).</p> <pre><code class="language-{bash}">sudo apt install screen
+</code></pre> <h3 id="2-create-a-screenrc-file-at-home">2. Create a <code class="language-plaintext highlighter-rouge">.screenrc</code> file at <code class="language-plaintext highlighter-rouge">$HOME</code> </h3> <p>Then, go to your home directory and create a <code class="language-plaintext highlighter-rouge">.screenrc</code> file using <code class="language-plaintext highlighter-rouge">nano</code>.</p> <pre><code class="language-{bash}"># Go to home directory
+cd ~
+
+# Create a `.screenrc` file using nano
+nano .screenrc
+</code></pre> <p>Put the script below to the <code class="language-plaintext highlighter-rouge">.screenrc</code> file.</p> <pre><code class="language-{bash}"># Script for `.screenrc` file on home directory
+startup_message off
+vbell off
+autodetach on
+shell -$SHELL
+
+bind c screen 1
+bind ^c screen 1
+bind 0 select 10                                                            
+screen 1
+
+term xterm-256color
+
+hardstatus alwayslastline 
+# Very nice tabbed colored hardstatus line
+hardstatus string '%{= kG}[ %{G}%H | %{R}%l %{g}][%= %{= kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{B} %d/%m %{W}%c %{g}]'
+ 
+# change command character from ctrl-a to ctrl-b (emacs users may want this)
+#escape ^Bb
+ 
+# Hide hardstatus: ctrl-a f 
+bind f eval "hardstatus ignore"
+# Show hardstatus: ctrl-a F
+bind F eval "hardstatus alwayslastline"
+</code></pre> <p>You can use the <code class="language-plaintext highlighter-rouge">ls</code> and <code class="language-plaintext highlighter-rouge">cat</code> commands to check it, then re-run the <code class="language-plaintext highlighter-rouge">screen</code> command again.</p> <pre><code class="language-{bash}"># To list all objects including hided object.
+ls -al
+
+# To obserse the `.screenrc` file
+cat .screenrc
+</code></pre> <h3 id="3-test-the-screen-command">3. Test the <code class="language-plaintext highlighter-rouge">screen</code> command</h3> <p>To start using screen, we run this command.</p> <pre><code class="language-{bash}">screen
+</code></pre> <p>This is the terminal after adding the <code class="language-plaintext highlighter-rouge">.screenrc</code> file and ran the <code class="language-plaintext highlighter-rouge">screen</code> command.</p> <center> ![](pic/screen_command.jpeg){width=50%} </center> <p>\</p> <h2 id="useful-command-and-shortcuts-for-screen">Useful command and shortcuts for screen</h2> <p>Here is the useful commands for using screen.</p> <pre><code class="language-{bash}"># list all screen
+screen -ls
+
+# resume the screen section
+screen -r # if you have only one screen
+screen -r &lt;screen no&gt; # if you have more than one screen, you will need to define which one you want to open
+</code></pre> <p>After you open the screen as shown in the picture, these are the useful commands that I often use. <br> <code class="language-plaintext highlighter-rouge">Ctrl+a</code> <code class="language-plaintext highlighter-rouge">c</code> : Create a new window (with shell). <br> <code class="language-plaintext highlighter-rouge">Ctrl+a</code> <code class="language-plaintext highlighter-rouge">0</code> : Switch to window 0 (by number). <br> <code class="language-plaintext highlighter-rouge">Ctrl+a</code> <code class="language-plaintext highlighter-rouge">X</code> : Close the current region. <br> <code class="language-plaintext highlighter-rouge">Ctrl+a</code> <code class="language-plaintext highlighter-rouge">d</code> : Detach the screen section. <br> <code class="language-plaintext highlighter-rouge">Ctrl+a</code> <code class="language-plaintext highlighter-rouge">k</code> : Kill the screen section. \</p> <p>Please note that after the computer is shut down, all screens will be terminated. If you are running something on the screen, such as Dockerized R Studio, don’t forget to close it properly. Otherwise, it might affect your files.</p> </body></html>
