@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: [Unix trick]- `Screen` to Maintain Terminal Screen
+title: `Screen` to Maintain Terminal Screen - [Unix trick]
 description: 
 tags: R Rserver Docker Container
 giscus_comments: true
