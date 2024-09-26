@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: `Screen` to Maintain Terminal Screen - [Unix trick]
+title: Screen command to Maintain Terminal Screen - [Unix trick]
 description: 
 tags: R Rserver Docker Container
 giscus_comments: true
@@ -20,7 +20,7 @@ bibliography: 2018-12-22-distill.bib
 
 toc:
   - name: Introduction
-  - name: Setting up `screen`
+  - name: Setting up screen
   - name: Useful command and shortcuts for screen
 
 ---
@@ -28,7 +28,7 @@ toc:
 
 I found that one of the problems in cloud computing and remote HPC is the disconnection of the signal. Most of the processes on cloud and HPC are heavily worked and take a long analysis time. If the connection on your local computer is poor, the screen is lost, which means what you run on the remote computer stops. To solve this issue, I have tried many ways, such as using `snap` or running a Docker container in the background. However, the most convenient way is using the command `screen`.
 
-## Setting up `screen`
+## Setting up screen
 First, you need to install `screen` on your remote computer (either cloud computing or remote HPC). Now the screen can work properly just by calling the `screen` command. However, I want it to be easier to work with. Tommy suggested using the screen command and `.screenrc` file in [his video](https://www.youtube.com/watch?v=7t9LdMPPY7g&t=231s). I followed his suggestion by doing the steps below.
 
 ### 1. Install screen
