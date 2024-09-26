@@ -194,7 +194,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 7 # leave blank to include all the blog posts
+  limit: 10 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -291,8 +291,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["R", "python", "programming", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["Transcriptomics"] # these categories will be displayed on the front page of your blog
+display_tags: ["R", "Unix", "RNA", "Git"] # these tags will be displayed on the front page of your blog
+display_categories: ["ComputerWorkbench", "Transcriptomics"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
