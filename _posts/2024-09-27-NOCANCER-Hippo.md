@@ -40,14 +40,14 @@ The Hippo signaling pathway is an evolutionarily conserved network that plays a 
 </div>
 
 ## Dysregulation and Disease Implications 
-Dysregulation of the Hippo pathway can lead to various diseases
-😱 Cancer
-💔 Cardiac Diseases
-🫁 Pulmonary Diseases
-🧪 Renal Diseases
-🍸 Hepatic Diseases
-👁️ Eye Diseases
-🛡️ Immune Dysfunction
+Dysregulation of the Hippo pathway can lead to various diseases \
+😱 Cancer \
+💔 Cardiac Diseases \
+🫁 Pulmonary Diseases \
+🧪 Renal Diseases \
+🍸 Hepatic Diseases \
+👁️ Eye Diseases \
+🛡️ Immune Dysfunction 
 	
 ## Key Roles of the Hippo Pathway in Cancer
 1. Tumor Suppression - The Hippo pathway acts as a critical tumor suppressor by inhibiting excessive cell proliferation and promoting apoptosis. Dysregulation of this pathway can lead to the uncontrolled growth characteristic of cancer.
@@ -56,5 +56,5 @@ Dysregulation of the Hippo pathway can lead to various diseases
 
 🔬💊 Given its significant role in health and disease, targeting the components of the Hippo pathway has emerged as a potential therapeutic strategy for treating various conditions, particularly cancers
 
-🌟 Reference: 
+🌟 Reference: \
 Fu, M., Hu, Y., Lan, T. et al. The Hippo signalling pathway and its implications in human health and diseases. Sig Transduct Target Ther 7, 376 (2022). https://doi.org/10.1038/s41392-022-01191-9
