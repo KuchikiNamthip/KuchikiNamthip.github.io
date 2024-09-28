@@ -292,7 +292,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["R", "Unix", "RNA"] # these tags will be displayed on the front page of your blog
-display_categories: ["ComputerWorkbench", "Transcriptomics", "NoCancer"] # these categories will be displayed on the front page of your blog
+display_categories: ["ComputerWorkbench", "Transcriptomics"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
