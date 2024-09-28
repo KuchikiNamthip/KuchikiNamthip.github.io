@@ -8,7 +8,7 @@ date: 2024-09-27
 related_posts: false
 categories: NoCancer
 featured: false
-thumbnail: assets/img/post2024/Moodeng_ENG.png
+#thumbnail: assets/img/post2024/Moodeng_ENG.png
 
 authors:
   - name: Krittiyabhorn (Namthip) Kongtanawanich
