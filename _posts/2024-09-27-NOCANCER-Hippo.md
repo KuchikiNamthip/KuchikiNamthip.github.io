@@ -8,7 +8,7 @@ date: 2024-09-27
 related_posts: false
 categories: NoCancer
 featured: true
-thumbnail: assets/img/post2024/Moodeng_ENG.png.jpeg
+thumbnail: assets/img/post2024/Moodeng_ENG.png
 
 authors:
   - name: Krittiyabhorn (Namthip) Kongtanawanich
@@ -33,7 +33,7 @@ The Hippo signaling pathway is an evolutionarily conserved network that plays a 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/post2024/Moodeng_ENG.png.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/post2024/Moodeng_ENG.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
