@@ -7,7 +7,7 @@ giscus_comments: true
 date: 2024-09-18
 related_posts: false
 categories: Transcriptomics
-featured: false
+featured: true
 thumbnail: assets/img/post2024/GSEAcover.png
 
 authors:
