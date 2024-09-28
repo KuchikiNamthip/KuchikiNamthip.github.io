@@ -7,7 +7,8 @@ giscus_comments: true
 date: 2024-09-27
 related_posts: false
 categories: NoCancer
-featured: false
+featured: true
+thumbnail: assets/img/post2024/Moodeng_ENG.png.jpeg
 
 authors:
   - name: Krittiyabhorn (Namthip) Kongtanawanich
