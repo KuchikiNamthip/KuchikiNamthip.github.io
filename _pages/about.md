@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  align: left
+  image: KK_pic.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Pharm.D | Ph.D. Candidate</p>
+    <p>in System Pharmacology</p>
+    <p>at Siriraj, Thailand 🇹🇭</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+<center><h3>Krittiyabhorn (Namthip) Kongtanawanich</h3></center>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a Pharm.D. and Ph.D. candidate specializing in [Systems Pharmacology](https://www.sisyspharm.org/) and New Drug Developments at the Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand, supported by [the Royal Golden Jubilee Ph.D. Program (RGJ-Ph.D. Program)](https://rgj.trf.or.th/main/en/) and the Royal Scholarship from Professor Dr. Her Royal Highness Princess Chulabhorn via [the Chulabhorn Foundation](https://www.cri.or.th/chulabhorn-foundation-en/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am deeply passionate about precision oncology and cancer biology. Through my research, I delve into the fascinating world of cancer biology, exploring the intricate dynamics of cancer stem cells and cellular plasticity using both experimental and computational approaches.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+  🌸 ["NO CANCER THAILAND"](https://www.facebook.com/nocancerTH/): Founder of a Facebook page simplifying cancer science for the public, promoting understanding of cancer biology and precision medicine. \
+  🌸 ["Exercise Mania Patients"](https://www.facebook.com/share/g/8duUkQvoX8EXRZV6/): Established a Facebook group uniting 800+ members across diseases, advocating for physical activity and mutual support. \
+  🌸 ["Miss Asthma THAILAND"](https://www.facebook.com/profile.php?id=61554265143399): Founder of a Facebook page helping as an asthmatic friend for fostering a supportive environment and promoting asthma awareness.
+
+
