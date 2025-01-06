@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-screen-command-to-maintain-terminal-screen-unix-trick",
+            },{id: "post-มิสหอบหืด-miss-asthma-thailand",
+      
+        title: 'มิสหอบหืด - MISS ASTHMA THAILAND <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://missasthmath.blogspot.com/", "_blank");
+        
+      },
+    },{id: "post-screen-command-to-maintain-terminal-screen-unix-trick",
       
         title: "Screen command to Maintain Terminal Screen - [Unix trick]",
       
@@ -140,17 +151,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/msigDB_ORA_GSEA/";
-        
-      },
-    },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-      
-        title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
     },{id: "news-my-combio-portfolio-my-computer-workbench-format-changes-smile-easy-to-read",
