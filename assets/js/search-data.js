@@ -76,6 +76,28 @@ ninja.data = [{
           window.open("https://missasthmath.blogspot.com/", "_blank");
         
       },
+    },{id: "post-ยาหอบหืดแบบฉีด-omalizumab",
+      
+        title: 'ยาหอบหืดแบบฉีด: Omalizumab <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "ยาหอบหืดแบบฉีด Omalizumabยาเข็มละ 20,000 แต่บางคนต้องฉีด 8 เข็ม = 80,000 บาทต่อเดือน.เท่าที่มิสถามหลายๆคนจากโพสก่อนหน้าหลายคนได้ใช้ยามุ่งเป้าสำหรับโรคหืดซึ่งส่วนใหญ่คือตัวนี้!!.ยานี้ชื่อสามัญคือ Omalizumab (โอมาริซูแมป)ชื่อทางการค้า Xolair® (โซแล)(งงมั้ยว่าทำไมยาเดียวมี 2 ชื่อ).ยานี้สำหรับคนไข้โรคหืดแบบขี้แพ้คือแพ้เยอะอ่ะ หมอจะต้องตรวจเลือดดูค่าภูมิแพ้ที่ชื่อ total IgE (ค่าไอจีชนิดอีทั้งหมด)ปล.ค่าภูมิแพ้มีหลายตัวมากกกกก.การใช้ยาว่าทำไมคนนี้ฉีด 1 เข็มแต่อีกคนปาไป 4 เข็มจะคำนวณจาก1. ค่าภูมิแพ้ total IgE 2. น้ำหนักตัว!!! .แพ้มาก อ้วนมากยิ่งแพงนะทุกคน.มิสเคยตรวจค่าภูมิแพ้ total IgE ตัวนี้พบว่าถ้าเลี่ยงสิ่งที่แพ้นะค่า total IgE มิสลดด้วยแหละ.เพราะงั้นอย่างนึงที่คนไข้ทำได้คือ1. เลี่ยงสิ่งที่ทำให้เราแพ้2. ลดน้ำหนัก.น้ำหนักเนี่ยมีผลต่อโรคหอบด้วยนะอ้วนก็ทำให้หอบเพิ่มขึ้นได้ด้วย .เพราะยามุ่งเป้าพวกนี้ราคาแพงมากกกกไม่ใช่ทุกคนที่จะจ่ายไหว/เบิกได้.โพสต่อๆมิสจะมาบอกข่าวดีเราอาจจะได้ใช้ยา omalizumab นี้ในราคาที่ถูกลง .อ้างอิงขนาดยา Xolair : https://www.xolairhcp.com/.../dosing-and.../dosing.htmlมาคุยกันได้ที่Facebook: มิสหอบหืด - Miss Asthma Thailand #หอบหืด #มิสหอบหืด #MissAsthma #MissAsthmaThailand",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://missasthmath.blogspot.com/2025/01/omalizumab.html", "_blank");
+        
+      },
+    },{id: "post-ตอนที่-1-คุณหมอดูแลเรายังไงแล้วเราดูแลตัวเองยังไงดี",
+      
+        title: 'ตอนที่ 1: คุณหมอดูแลเรายังไงแล้วเราดูแลตัวเองยังไงดี <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "ซีรี่แกะรอยวิธีคุมโรคหืดตามหนังสือของคุณหมอ ตอนที่ 1 คุณหมอดูแลเรายังไงแล้วเราดูแลตัวเองยังไงดีน๊าาาา .วันโรคหืดปีนี้เค้าเน้นเรื่องข้อมูลมากกกกอยากให้คนไข้โรคหอบหืดได้รับข้อมูลดีดีไว้ดูแลตัวเองกัน.มิสก็เลยขโมยข้อมูลในวงการคุณหมอมาให้คนไข้อย่างเราๆได้ดูกันนี่บุกหลังบ้านหมอฝุดๆ .คุณหมอดูแลเรายังไง ดูแลตัวเองยังไงได้บ้าง.ภาพนี้จะบอกเรื่องราวทั้งหมดดดดที่มิสจะเล่าทั้งซีรี่ ซึ่งคงจะยาวมากกกกกกกกก.คุณหมอดูเเลเราตาม 3 ส่วนใหญ่ๆคือป - ประเมินท - ทบวนป - ปรับ.ซึ่งแต่ละอันหัวข้อแยกย่อยเยอะมากๆเลยหล่ะ.แต่ส่วนที่เราดูแลตัวเองได้ และจะช่วยให้คุณหมอดุแลเราง่ายขึ้นไปด้วยก็คือเกือบทั้งหมดเช่นกันมิสได้แปะรูปสวยๆของมิสพร้อมขีดเส้นแดงๆไว้ให้แล้วเกือบทั้งหมดเลยจริงๆใช่มั้ยหล่ะ.ตอนหน้าอยากรู้ข้อมูลเส้นสีแดงเส้นไหนดีช่วยมิสโหวตกันหน่อยคอมเม้นไว้เล๊ยยยย.อ้างอิงภาพ- Guideline for adult asthma management in Thailand 2022 by Thai Asthma Councilมาคุยกันได้ที่Facebook: มิสหอบหืด - Miss Asthma Thailand#Asthma#WorldAsthmaDay#worldasthmaday2024#หอบหืด #มิสหอบหืด#MissAsthma #MissAsthmaThailand#คนไข้บ้าพลัง #ทีมหอบหื่น",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://missasthmath.blogspot.com/2025/01/blog-post.html", "_blank");
+        
+      },
     },{id: "post-screen-command-to-maintain-terminal-screen-unix-trick",
       
         title: "Screen command to Maintain Terminal Screen - [Unix trick]",
