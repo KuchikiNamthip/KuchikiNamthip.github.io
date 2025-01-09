@@ -124,18 +124,6 @@ disqus_shortname: Namthip  # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@kuchikinamthip/feed
-  - name: Miss Asthma Thailand
-    url: https://missasthmath.blogspot.com
-  - #name: Google Blog
-    #posts:
-    #  - url: https://missasthmath.blogspot.com/
-    #    published_date: 2025-01-05
-      #- url: https://nocancerth.blogspot.com/
-      #  published_date: 2025-01-05
-      #- url: https://exercisemaniapatient.blogspot.com/
-      #  published_date: 2025-01-05
-      #- url: https://writetothrivebykk.blogspot.com/
-      #  published_date: 2025-01-05
 
 # -----------------------------------------------------------------------------
 # Newsletter
