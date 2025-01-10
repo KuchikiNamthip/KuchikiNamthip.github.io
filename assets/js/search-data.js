@@ -160,7 +160,7 @@ ninja.data = [{
           title: 'My ComBio Portfolio: Transcriptome  is recently updated :sparkles: :sparkles:',
           description: "",
           section: "News",},{id: "news-miss-asthma-thailand-biologic-drug-omalizumab-updated",
-          title: 'Miss Asthma Thailand 🚑: Biologic drug 💉💉 (Omalizumab)  Updated!',
+          title: 'Miss Asthma Thailand 🚑: Biologic drug 💉💉 (Omalizumab) Updated!',
           description: "",
           section: "News",},{id: "projects-cholangiocarcinoma-stem-cell",
           title: 'Cholangiocarcinoma Stem Cell',
