@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Miss Asthma Thailand 🚑: Biologic drug 💉💉 (Omalizumab)](https://missasthmath.blogspot.com/)  Updated! 
+[Miss Asthma Thailand 🚑: Biologic drug 💉💉 (Omalizumab)](https://missasthmath.blogspot.com/) Updated! 
