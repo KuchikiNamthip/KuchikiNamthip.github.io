@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-screen-command-to-maintain-terminal-screen-unix-trick",
+            },{id: "post-namthip-ph-d-thesis-defense",
+      
+        title: "Namthip - Ph.D. Thesis Defense",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/KK_PhD-defense/";
+        
+      },
+    },{id: "post-screen-command-to-maintain-terminal-screen-unix-trick",
       
         title: "Screen command to Maintain Terminal Screen - [Unix trick]",
       
