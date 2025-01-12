@@ -76,6 +76,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/KK_PhD-defense/";
         
       },
+    },{id: "post-moo-deng-hippo-pathway-x-cancer-no-cancer",
+      
+        title: "Moo Deng - Hippo pathway x Cancer - [NO CANCER]",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/NOCANCER-Hippo/";
+        
+      },
     },{id: "post-screen-command-to-maintain-terminal-screen-unix-trick",
       
         title: "Screen command to Maintain Terminal Screen - [Unix trick]",
