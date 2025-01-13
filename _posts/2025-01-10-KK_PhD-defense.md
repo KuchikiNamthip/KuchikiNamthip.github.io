@@ -21,7 +21,7 @@ bibliography: 2018-12-22-distill.bib
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/post2025/KK-advisor_unofficial.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/post2025/KK-defense_FBpost.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
