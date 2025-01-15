@@ -39,7 +39,7 @@ I remain their student and will always respect them from the bottom of my heart.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="http://www.youtube.com/watch?v=85g5n17baI08" class="img-fluid rounded z-depth-1" %} 
+        {% include video.liquid path="https://www.youtube.com/embed/85g5n17baI0?si=OyOVa_gIeH5zjGY5" class="img-fluid rounded z-depth-1" %} 
     </div>
 </div>
 
