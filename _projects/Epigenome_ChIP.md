@@ -20,12 +20,17 @@ My next frontier is to delve into the world of methylation analysis, further exp
 ## 1. Data set 1: GSE66083 (CURRENTLY DEVELOP!)
 ### 1.1 Analysis overview:
 #### 1.1.1 Analysis set 1: From FASTQ file to visualization 
-1.1 <a href="...">From FASTQ file to peak (`.bed` file)</a> \
+1.1 <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Epigenome_ChIP-seq/2015-Zanconato/nfcore_Upstream.html">From FASTQ file to peak (`.bed` file)</a> \
 1.2 From peak data analyzed to visualization including 
-1. <a href="...">Figure 1a & 1b: Venn diagram show the overlapping peaks between each transcription factors.</a>   
-2. Figure 1c: 
-3. Figure 1f
-
+1. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Epigenome_ChIP-seq/2015-Zanconato/Downstream1_Fig1a_1b.html">Figure 1a & 1b:</a>  Venn diagram show the overlapping peaks between each transcription factors.  
+2. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Epigenome_ChIP-seq/2015-Zanconato/Downstream1_Fig1c.html">Figure 1c:</a> Peak density of TEAD4 relative to the summits of the overlapping YAP/TAZ peaks
+3. Figure 1d --> CURRENTLY DEVELOP
+4. Figure 1f --> CURRENTLY DEVELOP
+5. Figure 1g --> CURRENTLY DEVELOP
+6. Figure 1h --> CURRENTLY DEVELOP
+7. Figure 1i --> CURRENTLY DEVELOP
+8. Figure 1j --> CURRENTLY DEVELOP
+9. Figure 1k --> CURRENTLY DEVELOP
 
 ### 1.2 Result Discussion
 The differences in results and visualizations between original paper and my re-produced figures may arise from the points below:
@@ -39,7 +44,7 @@ This is the first epigenomics analysis. I picked ChIP-seq first because it is cl
 1. Peak calling mode: whether `narrowPeak` or `broadPeak` should be used for each transcription factor/histone modifier.
 2. Some configurations for single-end and paired-end `.fastq `files, such as `-no-model` and `-extend-size` in `macs3` software.
 3. Blacklisted regions that should always be excluded from our data.
-4. The reason that when `_norrow/boardPeak.bed` or `_summit.bed` should be used.
+4. The reason that when `_narrow/boardPeak.bed` or `_summit.bed` should be used.
 
 ---
 ## Other related posts
