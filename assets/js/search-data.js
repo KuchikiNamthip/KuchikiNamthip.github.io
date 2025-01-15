@@ -183,6 +183,11 @@ ninja.data = [{
           description: "How my computers are set up with reproducibility in mind.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ComSetting/";
+            },},{id: "projects-epigenomics-chip-seq",
+          title: 'Epigenomics (ChIP-seq)',
+          description: "My epigenomic (ChIP-seq) portfolio",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Epigenome_ChIP/";
             },},{id: "projects-transcriptomics",
           title: 'Transcriptomics',
           description: "My transcriptomics portfolio :)",
