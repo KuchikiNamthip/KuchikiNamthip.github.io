@@ -28,12 +28,14 @@ This project is a big challenge for me as a pharmacist. Without good friends and
 ## Acknowledgment
 - I would like to acknowledge [Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. 
 
+- I would like to thank [Xiaole Shirley Liu](https://liulab-dfci.github.io/). I'm not personally known her; however, STAT115 (a Harvard course) helped me love the basic principles of understanding epigenetics and computational analysis. I started learning Unix according to STAT115's first lab without knowing what it was and how it would help me in computational biology. Two years later, I have my website and can do many things related to computational biology.
+
 - I would like to thank my software engineer friends (Bui Vinyunavan ang Guy Tongsan) who kindly supported my learning in Unix and answered my funny questions. My very first questions were, "What is this black screen🖥 from a computational biology course ?" and "How to understand those alien syntax" 
 It's a terminal and unix command line. 🤣🤣 
 
 - I would like to thank all my colleagues for their comments, suggestions, and assistance.
 
-- Lastly, I would like to thank my Ph.D. advisor. Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
+- Lastly, I would like to thank my Ph.D. advisor, [Assoc. Prof. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
 
 ---
 I'm very happy 🥰 that you are visiting my computational biology portfolio and would be even happier if you could provide suggestions or feedback 🤩. 

@@ -32,20 +32,21 @@ My heart shakes when analyzing wet lab data, and now it also shakes when I press
 ### 1.2 Result Discussion
 [My analysis set 1](https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/nf/nfcore_Count_ToDESeq2.html) is derived from the same wet laboratory data. However, the differences in results and visualizations between [analysis set 1](https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/nf/nfcore_Count_ToDESeq2.html) and [analysis set 2](https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/count_GEO/GEO_Count_ToDESeq2.html) (this data set) may arise from two points:
 
-1. [The upstream processes I used upstream processes](https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/nf/nfcore_Upstream.html) did not employ the same tools as those used in the publication. This is the limitation of the HPC. The use of different tools and processes might lead to variations in gene count results. 
+1. [The upstream processes I used](https://kuchikinamthip.github.io/ComBio_Portfolio/Transcriptome/Hypox/nf/nfcore_Upstream.html) did not employ the same tools as those used in the publication. This is the limitation of the HPC. The use of different tools and processes might lead to variations in gene count results. 
 
 2. The gene count from GEO is presented as gene symbols, which can be duplicated. To manage these duplications, several methods can be employed, such as summation, averaging, or taking the maximum count. In this case, the gene counts from GEO have been processed to address duplicated genes, which may differ from my approach. 
 
 In my approach, I try to maintain the ENSEMBL ID from the upstream analysis and change them to gene symbols only for readability in visualizations. 
 
 ### 1.3 What I have learned from this data set
-This is the first transcriptomics analysis oin my computational biology portfolio, I think alwhere I reflect ong and explore every step I ran. Itook. I have mostly explained thoese steps in each file and wrote a blog which camepost that originated from a question while I didI had during the analysis: ["What are GO, msigDB, KEGG, ORA, and GSEA in transcriptomics analysis?"](https://kuchikinamthip.github.io/blog/2024/msigDB_ORA_GSEA/). 
+This transcriptomics analysis marks a significant milestone in my computational biology portfolio, representing a journey of deep exploration and reflection. I meticulously examined each step of the process, documenting my insights and rationale along the way. These detailed explanations can be found within the project files, providing a comprehensive guide to my analytical approach.
 
-One unique aspect of this data set is the data filtering process. The p-value distribution of the differentially expressed genes is not normally distributed. I learned how to filter the data from a post by [Ming (Tommy) Tang.](https://divingintogeneticsandgenomics.com/)
+Furthermore, a question that arose during the analysis sparked the creation of a blog post: ["What are GO, msigDB, KEGG, ORA, and GSEA in transcriptomics analysis?"](https://kuchikinamthip.github.io/blog/2024/msigDB_ORA_GSEA/) This post delves into the intricacies of these essential tools and concepts, offering a valuable resource for anyone navigating the world of transcriptomics.
 
 ---
 ## Other related posts
 - [What are GO, msigDB, KEGG, ORA, and GSEA in transcriptomics analysis?](https://kuchikinamthip.github.io/blog/2024/msigDB_ORA_GSEA/)
+- [My personal note about transcriptomics analysis](https://github.com/KuchikiNamthip/RNA-seq_Analysis)
 
 ---
 
@@ -56,7 +57,7 @@ One unique aspect of this data set is the data filtering process. The p-value di
 
 - I would like to thank all my colleagues for their comments, suggestions, and assistance.
 
-- Lastly, I would like to thank my Ph.D. advisor. Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
+- Lastly, I would like to thank my Ph.D. advisor, [Assoc. Prof. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
 
 ---
 I'm very happy 🥰 that you are visiting my computational biology portfolio and would be even happier if you could provide suggestions or feedback 🤩. 
