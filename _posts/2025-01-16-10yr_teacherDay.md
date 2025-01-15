@@ -29,14 +29,17 @@ We forever honor those who guided our path.
         {% include figure.liquid loading="eager" path="assets/img/post2025/2025TeacherDay.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-In Thai, January 16th of every year is Teachers' Day. \
+In Thai, January 16th of every year is Teachers' Day. 
+
 For ten years, I've sent Happy Teacher's Day cards to my teachers. 
-It began as a simple annual greeting. \
-Now, even though I've grown up, become a pharmacist, and (nearly) earned a Ph.D., \
+It began as a simple annual greeting. 
+
+Now, even though I've grown up, become a pharmacist, and (nearly) earned a Ph.D., 
 I remain their student and will always respect them from the bottom of my heart.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/85g5n17baI0" class="img-fluid rounded z-depth-1" %} 
+        {% include video.liquid path="http://www.youtube.com/watch?v=85g5n17baI08" class="img-fluid rounded z-depth-1" %} 
     </div>
 </div>
 
@@ -44,6 +47,6 @@ May the words 'Happy Teacher's Day' \
 be etched in our hearts for all teachers. 
 
 May the light of wisdom you have given us \
-illuminate and guide your students forever, \  
+illuminate and guide your students forever, 
 from now, ten years and for eternity.
 
