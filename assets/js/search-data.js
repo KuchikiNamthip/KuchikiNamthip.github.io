@@ -65,15 +65,37 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-namthip-ph-d-thesis-defense",
+            },{id: "post-happy-teachers-39-day-2025",
       
-        title: "Namthip - Ph.D. Thesis Defense",
+        title: "Happy Teachers&#39; Day 2025",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/10yr_teacherDay/";
+        
+      },
+    },{id: "post-namthip-ph-d-thesis-defense-announcement",
+      
+        title: "Namthip - Ph.D. Thesis Defense Announcement 🤓",
       
       description: "",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/KK_PhD-defense/";
+        
+      },
+    },{id: "post-namthip-the-best-poster-presentation-2021",
+      
+        title: "Namthip - The Best Poster Presentation 2021 🎉",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/KK_2021BestPoster/";
         
       },
     },{id: "post-moo-deng-hippo-pathway-x-cancer-no-cancer",
@@ -167,11 +189,14 @@ ninja.data = [{
     },{id: "news-my-combio-portfolio-my-computer-workbench-format-changes-smile-easy-to-read",
           title: 'My ComBio Portfolio: My Computer Workbench  format changes :smile: easy to read!',
           description: "",
-          section: "News",},{id: "news-my-combio-portfolio-transcriptome-is-recently-updated-sparkles-sparkles",
-          title: 'My ComBio Portfolio: Transcriptome  is recently updated :sparkles: :sparkles:',
+          section: "News",},{id: "news-my-combio-portfolio-transcriptome-dataset1-completed",
+          title: 'My ComBio Portfolio: Transcriptome dataset1 completed! 🧪',
           description: "",
           section: "News",},{id: "news-miss-asthma-thailand-biologic-drug-omalizumab-updated",
           title: 'Miss Asthma Thailand 🚑: Biologic drug 💉💉 (Omalizumab) Updated!',
+          description: "",
+          section: "News",},{id: "news-my-combio-portfolio-epigenome-chip-seq-is-recently-updated-sparkles-sparkles",
+          title: 'My ComBio Portfolio: Epigenome (ChIP-seq)  is recently updated 🧬 :sparkles: :sparkles:',
           description: "",
           section: "News",},{id: "projects-cholangiocarcinoma-stem-cell",
           title: 'Cholangiocarcinoma Stem Cell',
