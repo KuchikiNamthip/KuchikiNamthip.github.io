@@ -20,7 +20,6 @@ bibliography: 2018-12-22-distill.bib
 
 ---
 Check out the poster I made for my Ph.D. defense! I went with an Iron Man theme.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/post2025/KK-defense_FBpost.png" title="example image" class="img-fluid rounded z-depth-1" %}
