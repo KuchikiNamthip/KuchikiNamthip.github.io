@@ -53,9 +53,9 @@ This is the first epigenomics analysis. I picked ChIP-seq first because it is cl
 ---
 
 ## Acknowledgment
-- I would like to acknowledge [Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. The tutorials, books, blogs, and many others that Tommy created about ChIP-seq made this portfolio possible.
+- I would like to acknowledge [Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. The tutorials, books, blogs, and many others that Tommy created with great explaination from principle to advance about ChIP-seq. Those all have made this portfolio possible.
 
-- I would like to thank [Xiaole Shirley Liu](https://liulab-dfci.github.io/). I'm not persocally know her, however, STAT115 (a Harvard course) help me love basic and principle understanding of epigenetics and computational analysis. 
+- I would like to thank [Xiaole Shirley Liu](https://liulab-dfci.github.io/). I do not persocally know her, however, STAT115 (a Harvard course she taught) help me love basic and principle understanding of epigenetics and computational analysis. 
 
 - I would like to thank [Prof. Apiwat Mutirangura](https://scholar.google.co.th/citations?user=KBpzI14AAAAJ&hl=th). I had been trained in his lab at Chulalongkorn University when I was an undergraduate student; that was the first and great time I learned about epigenomics.
 
