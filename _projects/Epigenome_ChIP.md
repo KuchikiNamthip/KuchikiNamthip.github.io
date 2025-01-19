@@ -25,7 +25,7 @@ My next frontier is to delve into the world of methylation analysis, further exp
 1. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Epigenome_ChIP-seq/2015-Zanconato/Downstream1_Fig1a_1b.html">Figure 1a & 1b:</a>  Venn diagram show the overlapping peaks between each transcription factors.  
 2. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Epigenome_ChIP-seq/2015-Zanconato/Downstream1_Fig1c.html">Figure 1c:</a> Peak density of TEAD4 relative to the summits of the overlapping YAP/TAZ peaks
 3. Figure 1d --> CURRENTLY DEVELOP
-4. Figure 1f --> CURRENTLY DEVELOP
+4. <a href="https://kuchikinamthip.github.io/ComBio_Portfolio/Epigenome_ChIP-seq/2015-Zanconato/Downstream1_Fig1f.html">Figure 1f:</a> Stack bar showed distance from YAP, TAZ, TEAD4, and YAP/TAZ/TEAD4 peaks to the nearest TSS
 5. Figure 1g --> CURRENTLY DEVELOP
 6. Figure 1h --> CURRENTLY DEVELOP
 7. Figure 1i --> CURRENTLY DEVELOP
