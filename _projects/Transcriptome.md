@@ -51,13 +51,13 @@ Furthermore, a question that arose during the analysis sparked the creation of a
 ---
 
 ## Acknowledgment
-- I would like to acknowledge [Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. 
+- I would like to acknowledge [Dr. Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. 
 
 - I would like to thank Dr. Patipark Kueanjinda, who kindly supported my learning in transcriptomics. 
 
 - I would like to thank all my colleagues for their comments, suggestions, and assistance.
 
-- Lastly, I would like to thank my Ph.D. advisor, [Assoc. Prof. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
+- Lastly, I would like to thank my Ph.D. advisor, [Assoc. Prof. Dr. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
 
 ---
 I'm very happy 🥰 that you are visiting my computational biology portfolio and would be even happier if you could provide suggestions or feedback 🤩. 
