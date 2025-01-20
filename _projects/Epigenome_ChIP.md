@@ -48,18 +48,18 @@ This is the first epigenomics analysis. I picked ChIP-seq first because it is cl
 
 ---
 ## Other related posts
-- [My personal note about ChIP-seq analysis](https://github.com/KuchikiNamthip/RNA-seq_Analysis)
+- [My personal note about ChIP-seq analysis](https://github.com/KuchikiNamthip/ChIP-seq_Analysis)
 
 ---
 
 ## Acknowledgment
-- I would like to acknowledge [Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. The tutorials, books, blogs, and many others that Tommy created with great explaination from principle to advance about ChIP-seq. Those all have made this portfolio possible.
+- I would like to acknowledge [Dr. Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. The tutorials, books, blogs, and many others that Tommy created with great explaination from principle to advance about ChIP-seq. Those all have made this portfolio possible.
 
-- I would like to thank [Xiaole Shirley Liu](https://liulab-dfci.github.io/). I do not persocally know her, however, STAT115 (a Harvard course she taught) help me love basic and principle understanding of epigenetics and computational analysis. 
+- I would like to thank [Prof. Dr. Xiaole Shirley Liu](https://liulab-dfci.github.io/). I do not persocally know her, however, STAT115 (a Harvard course she taught) help me love basic and principle understanding of epigenetics and computational analysis. 
 
-- I would like to thank [Prof. Apiwat Mutirangura](https://scholar.google.co.th/citations?user=KBpzI14AAAAJ&hl=th). I had been trained in his lab at Chulalongkorn University when I was an undergraduate student; that was the first and great time I learned about epigenomics.
+- I would like to thank [Prof. Dr. Apiwat Mutirangura](https://scholar.google.co.th/citations?user=KBpzI14AAAAJ&hl=th). I had been trained in his lab at Chulalongkorn University when I was an undergraduate student; that was the first and great time I learned about epigenomics.
 
-- Lastly, I would like to thank my Ph.D. advisor, [Assoc. Prof. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
+- Lastly, I would like to thank my Ph.D. advisor, [Assoc. Prof. Dr. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
 
 ---
 I'm very happy 🥰 that you are visiting my computational biology portfolio and would be even happier if you could provide suggestions or feedback 🤩. 
