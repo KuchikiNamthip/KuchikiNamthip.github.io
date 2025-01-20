@@ -12,7 +12,7 @@ toc:
 ---
 
 ## Introduction
-For the purpose of practicing computational biology and my passionate for epigenome analysis, I'm trying to follow Prof. Xiaole Shirley Liu's course (STAT115 from Harvard University). In the course, they use the Unix command line, R, and Python language. Therefore, I am building the necessary skills from scratch though practice and randomly learning from online courses. I would like to acknowledge Ming (Tommy) Tang for his suggestions and role model. 
+For the purpose of practicing computational biology and my passionate for epigenome analysis, I'm trying to follow [Prof. Dr. Xiaole Shirley Liu](https://liulab-dfci.github.io/)'s course (STAT115 from Harvard University). In the course, they use the Unix command line, R, and Python language. Therefore, I am building the necessary skills from scratch though practice and randomly learning from online courses. I would like to acknowledge Ming (Tommy) Tang for his suggestions and role model. 
 
 This project is a big challenge for me as a pharmacist. Without good friends and great suggestions, I would not have been able to develop myself to this point. I would like to acknowledge them for their support in setting up this computer workbench.
 
@@ -26,7 +26,7 @@ This project is a big challenge for me as a pharmacist. Without good friends and
 
 --------------
 ## Acknowledgment
-- I would like to acknowledge [Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. 
+- I would like to acknowledge [Dr. Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. 
 
 - I would like to thank [Xiaole Shirley Liu](https://liulab-dfci.github.io/). I'm not personally known her; however, STAT115 (a Harvard course) helped me love the basic principles of understanding epigenetics and computational analysis. I started learning Unix according to STAT115's first lab without knowing what it was and how it would help me in computational biology. Two years later, I have my website and can do many things related to computational biology.
 
@@ -35,7 +35,7 @@ It's a terminal and unix command line. 🤣🤣
 
 - I would like to thank all my colleagues for their comments, suggestions, and assistance.
 
-- Lastly, I would like to thank my Ph.D. advisor, [Assoc. Prof. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
+- Lastly, I would like to thank my Ph.D. advisor, [Assoc. Prof. Dr. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
 
 ---
 I'm very happy 🥰 that you are visiting my computational biology portfolio and would be even happier if you could provide suggestions or feedback 🤩. 
