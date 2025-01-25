@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-happy-teachers-39-day-2025",
+            },{id: "post-namthip-ph-d-thesis-defense-acknowledgment",
+      
+        title: "Namthip - Ph.D. Thesis Defense Acknowledgment 🤓",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/KK_PhD-defense/";
+        
+      },
+    },{id: "post-happy-teachers-39-day-2025",
       
         title: "Happy Teachers&#39; Day 2025",
       
@@ -74,17 +85,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/10yr_teacherDay/";
-        
-      },
-    },{id: "post-namthip-ph-d-thesis-defense-announcement",
-      
-        title: "Namthip - Ph.D. Thesis Defense Announcement 🤓",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/KK_PhD-defense/";
         
       },
     },{id: "post-namthip-the-best-poster-presentation-2021",
