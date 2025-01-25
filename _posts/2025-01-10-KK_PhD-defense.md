@@ -1,10 +1,10 @@
 ---
 layout: distill
-title: Namthip - Ph.D. Thesis Defense Announcement 🤓
+title: Namthip - Ph.D. Thesis Defense Acknowledgment 🤓
 description: 
 tags: 
 giscus_comments: true
-date: 2025-01-10
+date: 2025-01-25
 related_posts: false
 categories: 
 featured: false
