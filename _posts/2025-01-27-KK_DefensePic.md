@@ -4,7 +4,7 @@ title: Namthip - Ph.D. Thesis Defense Photo 📷
 date: 2025-01-27 14:59:00
 description: Image gallery
 tags: 
-categories: sample-posts
+categories: 
 thumbnail: assets/img/KKdefense/wtAdvisor/7.jpg
 images:
   slider: true
