@@ -38,7 +38,7 @@ This artwork, meticulously crafted with Thai gold leaf, is a deeply personal tri
 
 These are photos of my esteemed Ph.D. mentor, Associate Professor Dr. Siwanon Jirawatnotai.
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/wtAdvisor/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/wtAdvisor/6.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/wtAdvisor/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/wtAdvisor/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
