@@ -5,45 +5,40 @@ date: 2025-01-27 14:59:00
 description: Image gallery
 tags: 
 categories: sample-posts
-thumbnail: assets/img/post2025/KK-defense_FBpost.png
+thumbnail: assets/img/KKdefense/wtAdvisor/7.jpg
 images:
-  lightbox2: true
-  photoswipe: true
-  spotlight: true
-  venobox: true
+  slider: true
 ---
 
 ## Rehearsal Day
 
-<a href="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/6.jpg" data-lightbox="roadtrip"><img src="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/thumb_6.jpg" /></a>
-<a href="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/6.jpg" data-lightbox="roadtrip"><img src="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/thumb_6.jpg" /></a>
-<a href="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/6.jpg" data-lightbox="roadtrip"><img src="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/thumb_6.jpg" /></a>
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/rehearsal/1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/rehearsal/2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/rehearsal/3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/rehearsal/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
-## [Spotlight JS](https://nextapps-de.github.io/spotlight/)
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/rehearsal/4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/rehearsal/5.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/rehearsal/6.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
-<!-- Group 1 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/6.jpg">
-        <img src="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/thumb_6.jpg" />
-    </a>
-    <a class="spotlight" href="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/6.jpg">
-        <img src="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/thumb_6.jpg" />
-    </a>
-    <a class="spotlight" href="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/6.jpg">
-        <img src="https://github.com/KuchikiNamthip/KuchikiNamthip.github.io/blob/main/assets/img/KKdefense/wtAdvisor/thumb_6.jpg" />
-    </a>
-</div>
-<!-- Group 2 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" />
-    </a>
-</div>
+## Ph.D. Thesis Defense Examination
 
----
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/exam/1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/exam/2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/exam/3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/exam/4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/exam/5.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
+## With my greatest mentor
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/wtAdvisor/6.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/wtAdvisor/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/KKdefense/wtAdvisor/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
