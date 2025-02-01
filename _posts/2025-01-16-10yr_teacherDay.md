@@ -8,6 +8,7 @@ date: 2025-01-15
 related_posts: false
 categories: 
 featured: false
+thumbnail: assets/img/post2025/2025TeacherDay.jpg
 
 authors:
   - name: Krittiyabhorn (Namthip) Kongtanawanich

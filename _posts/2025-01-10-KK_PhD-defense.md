@@ -8,6 +8,7 @@ date: 2025-01-25
 related_posts: false
 categories: 
 featured: false
+thumbnail: assets/img/post2025/KK-defense_FBpost.png
 
 authors:
   - name: Krittiyabhorn (Namthip) Kongtanawanich
