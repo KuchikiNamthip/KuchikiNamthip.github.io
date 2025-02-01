@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-namthip-ph-d-thesis-defense-acknowledgment",
+            },{id: "post-namthip-ph-d-thesis-defense-photo",
+      
+        title: "Namthip - Ph.D. Thesis Defense Photo 📷",
+      
+      description: "Image gallery",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/KK_DefensePic/";
+        
+      },
+    },{id: "post-namthip-ph-d-thesis-defense-acknowledgment",
       
         title: "Namthip - Ph.D. Thesis Defense Acknowledgment 🤓",
       
