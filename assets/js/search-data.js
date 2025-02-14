@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-namthip-ph-d-thesis-defense-photo",
+            },{id: "post-namthip-x-cancer-research-how-exciting-this-journey-is",
+      
+        title: "Namthip x Cancer Research-How exciting this journey is!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/NamthipxCancerRes_AllEp/";
+        
+      },
+    },{id: "post-namthip-ph-d-thesis-defense-photo",
       
         title: "Namthip - Ph.D. Thesis Defense Photo 📷",
       
