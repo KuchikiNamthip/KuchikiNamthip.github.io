@@ -31,4 +31,4 @@ This is Namthip's stories:
 - [Episode 3: Exploring the Realm of Research, Why is Cancer Research So Diverse?](https://writetothrivebykk.blogspot.com/2025/02/Namthip-CancerRes-3.html)
 - [Episode 4: Getting to Know Cancer at a Higher Level, What is Epigenetics?](https://writetothrivebykk.blogspot.com/2025/02/Namthip-CancerRes-4.html)
 - [Episode 5: When I Fell in Love with Science, Without Caring About Cancer Research](https://writetothrivebykk.blogspot.com/2025/02/Namthip-CancerRes-5.html)
-- [Episode 5: Ph.D. Journey, Scientific Lineage, and My Exceptional Mentor](https://writetothrivebykk.blogspot.com/2025/02/Namthip-CancerRes-6.html)
+- [Episode 6: Ph.D. Journey, Scientific Lineage, and My Exceptional Mentor](https://writetothrivebykk.blogspot.com/2025/02/Namthip-CancerRes-6.html)
