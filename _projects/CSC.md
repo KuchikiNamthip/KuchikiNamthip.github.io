@@ -9,7 +9,7 @@ related_publications: true
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\publication_preview\Infographic_SORE6.jpg.jpg" title="Ingo graphic" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets\img\publication_preview\Infographic_SORE6.jpg" title="Ingo graphic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
