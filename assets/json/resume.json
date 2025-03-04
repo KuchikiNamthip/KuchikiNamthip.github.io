@@ -97,10 +97,17 @@
   ],
   "certificates": [
     {
+      "name": "Foundation AI (Theory)",
+      "date": "2025-03-02",
+      "issuer": "Super AI Engineer season 5 by Artificial Intelligence Association of Thailand",
+      "url": "https://superai.aiat.or.th/",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
       "name": "Single-cell RNA-seq analysis",
       "date": "2025-02",
       "issuer": "University of Cambridge",
-      "url": "https://dataocean.stanford.edu/",
+      "url": "https://www.training.cam.ac.uk/event/5553150",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
