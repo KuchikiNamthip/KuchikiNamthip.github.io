@@ -73,7 +73,7 @@
       "area": "System Pharmacology",
       "studyType": "PhD",
       "startDate": "2018",
-      "endDate": ""
+      "endDate": "2025"
     },
     {
       "institution": "School of Pharmacy, Walailak University, Thailand",
@@ -164,6 +164,7 @@
       "icon": "fa-solid fa-laptop",
       "keywords": [
         "Transcriptomics",
+        "Epigenetics",
         "High Content & High Throughput Image Analysis for 2D/3D cell culture"
       ]
     },
@@ -173,10 +174,11 @@
       "icon": "fa-solid fa-laptop",
       "keywords": [
         "R",
-        "Unix",
+        "Unix command line",
         "Python",
         "Docker",
-        "Git"
+        "Git", 
+        "Nextflow"
       ]
     }
   ],
