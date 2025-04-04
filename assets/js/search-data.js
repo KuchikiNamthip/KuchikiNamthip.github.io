@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-namthip-x-cancer-research-how-exciting-this-journey-is",
+            },{id: "post-popular-computational-biology-language-with-r-proj-my-computer-workbench",
+      
+        title: "Popular Computational Biology Language with R - [Proj:My Computer Workbench]",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Comp4_R/";
+        
+      },
+    },{id: "post-namthip-x-cancer-research-how-exciting-this-journey-is",
       
         title: "Namthip x Cancer Research-How exciting this journey is!",
       
@@ -151,17 +162,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/Comp5_Git/";
-        
-      },
-    },{id: "post-popular-computational-biology-language-with-r-proj-my-computer-workbench",
-      
-        title: "Popular Computational Biology Language with R - [Proj:My Computer Workbench]",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/Comp4_R/";
         
       },
     },{id: "post-reproducible-computational-biology-workflow-by-nf-core-proj-my-computer-workbench",
