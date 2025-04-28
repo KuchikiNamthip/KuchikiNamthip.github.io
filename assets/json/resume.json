@@ -97,6 +97,13 @@
   ],
   "certificates": [
     {
+      "name": "Microscopy data analysis: machine learning and the BioImage Archive 2025"
+      "date": "2025-04",
+      "issuer": "European Bioinformatics Institute (EMBL-EBI)",
+      "url": "https://www.ebi.ac.uk/training/events/microscopy-data-analysis-2025/",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
       "name": "Foundation AI (Theory)",
       "date": "2025-03-02",
       "issuer": "Super AI Engineer season 5 by Artificial Intelligence Association of Thailand",
