@@ -65,7 +65,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-popular-computational-biology-language-with-r-proj-my-computer-workbench",
+            },{id: "post-cancer-genetics-history-amp-consequences",
+      
+        title: "Cancer Genetics - History &amp; Consequences",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/CancerGenetic_Hist-CSHL/";
+        
+      },
+    },{id: "post-streamlining-rstudio-server-with-docker-compose",
+      
+        title: 'Streamlining RStudio Server with Docker Compose! <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@kuchikinamthip/streamlining-rstudio-server-with-docker-compose-35ec48f62e3b?source=rss-041dd071aae5------2", "_blank");
+        
+      },
+    },{id: "post-popular-computational-biology-language-with-r-proj-my-computer-workbench",
       
         title: "Popular Computational Biology Language with R - [Proj:My Computer Workbench]",
       
