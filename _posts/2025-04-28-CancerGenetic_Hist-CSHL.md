@@ -33,7 +33,7 @@ The buzz from other attendees in [the interview clips](https://www.youtube.com/w
 - [Episode 1: Fight Against Cancer Worldwild](https://thewhispersofbiology.blogspot.com/2025/04/fight-against-cancer-1932.html)
 
 ## Let's talk cancer research! 
-I believe in the power of sharing. Blogging & sharing thoughts helps me learn & stay inspired. 
-🌸 My blog (English): [The Whispers of Biology](https://kuchikinamthip.github.io/ ). 
-🍀 FB (Thai): [NO CANCER THAILAND](https://www.facebook.com/NoCancerTH/). 
-All are welcome! 
+I believe in the power of sharing. Blogging & sharing thoughts helps me learn & stay inspired. \
+🌸 My blog (English): [The Whispers of Biology](https://kuchikinamthip.github.io/ ). \
+🍀 FB (Thai): [NO CANCER THAILAND](https://www.facebook.com/NoCancerTH/). \
+All are welcome! 😁😁😁

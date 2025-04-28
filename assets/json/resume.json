@@ -93,6 +93,20 @@
       "awarder": "Pharmacological and Therapeutic Society",
       "url": "",
       "summary": "Topic: 'Differentiation potential of cholangiocarcinoma stem cells evaluated by live-biosensor'"
+    },
+    {
+      "title": "The Royal Golden Jubilee Ph.D. Program (RGJ-Ph.D. Program)",
+      "date": "2018-2025",
+      "awarder": "the Thailand Research Fund under the Royal Thai government",
+      "url": "",
+      "summary": "Ph.D in Pharmacology"
+    },
+    {
+      "title": "The Royal Scholarship",
+      "date": "2013-2025",
+      "awarder": "Professor Dr. Her Royal Highness Princess Chulabhorn Krom Phra Srisavangavadhana, the Chulabhorn Foundation",
+      "url": "",
+      "summary": "Pharm.D. - Ph.D in Pharmacology"
     }
   ],
   "certificates": [
@@ -168,7 +182,6 @@
       "url": "https://doi.org/10.1038/s41598-024-73581-8",
       "summary": "This study presents a live single-cell reporter system that uncovers the drug-induced plasticity of a cancer stem cell-like population in cholangiocarcinoma, providing insights into the mechanisms of cancer treatment resistance."
     }
-    
   ],
   "skills": [
     {
