@@ -14,7 +14,7 @@ github_username: KuchikiNamthip # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: # Inspire HEP author ID
-# instagram_id: # your instagram id
+instagram_id: kuchiki_namthip # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
@@ -43,7 +43,7 @@ scholar_userid: https://scholar.google.co.th/citations?user=afWylV4AAAAJ # your 
 # wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: https://www.sisyspharm.org/ # work page URL
 x_username: KuchikiNamthip # your X handle
-# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: NO-CANCER-THAILAND # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 #custom_social: # can be any name here other than the ones already defined above
   #logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
