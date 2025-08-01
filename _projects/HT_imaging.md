@@ -3,7 +3,7 @@ layout: page
 title:  Phenomics x High-Throughput Imaging in 2D and 3D Culturing Models
 description: My portfolio on high-throughput imaging of 2D and 3D cell cultures and image analysis. :)
 img: assets/img/HT_imaging.png
-importance: 1
+importance: 2
 category: ComBioPortfolio
 giscus_comments: true
 toc:
