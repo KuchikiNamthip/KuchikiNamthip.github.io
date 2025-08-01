@@ -62,6 +62,13 @@ This is the first epigenomics analysis. I picked ChIP-seq first because it is cl
 - Lastly, I would like to thank my Ph.D. advisor, [Assoc. Prof. Dr. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
 
 ---
+#### README.please
+I am currently collaborating on ChIP-seq and RNA-seq analysis with my Ph.D. advisor and a very nice postdoc in our lab 🤓. \
+
+Accordingly, this portfolio might be paused for a while 🥹. \
+I will be back to update it as soon as possible after I have finished those exciting real-world analyses 🤩.
+
+---
 I'm very happy 🥰 that you are visiting my computational biology portfolio and would be even happier if you could provide suggestions or feedback 🤩. 
 
 You can contact me through various online platforms [here 📬](https://kuchikinamthip.github.io/) or leave a comment below using GitHub account. 👇🏼
