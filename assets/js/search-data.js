@@ -231,6 +231,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-combio-portfolio-epigenome-chip-seq-is-recently-updated-sparkles-sparkles",
           title: 'My ComBio Portfolio: Epigenome (ChIP-seq)  is recently updated 🧬 :sparkles: :sparkles:',
           description: "",
+          section: "News",},{id: "news-my-combio-portfolio-phenomics-x-high-throughput-imaging-in-2d-and-3d-culturing-models-was-added",
+          title: 'My ComBio Portfolio: “Phenomics x High-Throughput Imaging in 2D and 3D Culturing Models”...',
+          description: "",
           section: "News",},{id: "projects-cholangiocarcinoma-stem-cell",
           title: 'Cholangiocarcinoma Stem Cell',
           description: "",
@@ -246,6 +249,11 @@ ninja.data = [{
           description: "My epigenomic (ChIP-seq) portfolio",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Epigenome_ChIP/";
+            },},{id: "projects-phenomics-x-high-throughput-imaging-in-2d-and-3d-culturing-models",
+          title: 'Phenomics x High-Throughput Imaging in 2D and 3D Culturing Models',
+          description: "My portfolio on high-throughput imaging of 2D and 3D cell cultures and image analysis. :)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/HT_imaging/";
             },},{id: "projects-transcriptomics",
           title: 'Transcriptomics',
           description: "My transcriptomics portfolio :)",
