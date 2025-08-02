@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Cholangiocarcinoma Stem Cell
-description: 
+title: CCA Stem Cell
+description: Cholangiocarcinoma Stem Cell Research
 img: assets/img/publication_preview/CSC.jpeg
 importance: 1
 category: Research
 related_publications: true
+giscus_comments: true
+toc:
+  sidebar: left
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

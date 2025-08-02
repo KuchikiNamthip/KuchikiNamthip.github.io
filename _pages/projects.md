@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my research projects and computational biology portfolios.
 nav: true
 nav_order: 3
-display_categories: [Research, ComBioPortfolio]
+display_categories: [Research, ComBioPortfolio, Social/Volunteer]
 horizontal: false
 ---
 

@@ -63,7 +63,7 @@ This is the first epigenomics analysis. I picked ChIP-seq first because it is cl
 
 ---
 #### README.please
-I am currently collaborating on ChIP-seq and RNA-seq analysis with my Ph.D. advisor and a very nice postdoc in our lab 🤓. \
+I am currently collaborating on ChIP-seq and RNA-seq analysis with my Ph.D. advisor and a very nice postdoc in our lab 🤓. 
 
 Accordingly, this portfolio might be paused for a while 🥹. \
 I will be back to update it as soon as possible after I have finished those exciting real-world analyses 🤩.
