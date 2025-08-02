@@ -234,9 +234,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-combio-portfolio-phenomics-x-high-throughput-imaging-in-2d-and-3d-culturing-models-was-added",
           title: 'My ComBio Portfolio: “Phenomics x High-Throughput Imaging in 2D and 3D Culturing Models”...',
           description: "",
-          section: "News",},{id: "projects-cholangiocarcinoma-stem-cell",
-          title: 'Cholangiocarcinoma Stem Cell',
-          description: "",
+          section: "News",},{id: "projects-cca-stem-cell",
+          title: 'CCA Stem Cell',
+          description: "Cholangiocarcinoma Stem Cell Research",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CSC/";
             },},{id: "projects-computer-workbench-setting",
@@ -249,16 +249,41 @@ ninja.data = [{
           description: "My epigenomic (ChIP-seq) portfolio",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Epigenome_ChIP/";
-            },},{id: "projects-phenomics-x-high-throughput-imaging-in-2d-and-3d-culturing-models",
-          title: 'Phenomics x High-Throughput Imaging in 2D and 3D Culturing Models',
+            },},{id: "projects-phenomics-coding-x-flow-cytometry",
+          title: 'Phenomics - Coding x Flow Cytometry',
+          description: "My portfolio on how I used coding to help discover insight from flow cytometric result.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/FlowCytometry/";
+            },},{id: "projects-phenomics-coding-x-high-throughput-imaging-2d-3d-models",
+          title: 'Phenomics - Coding x High-Throughput Imaging (2D/3D Models)',
           description: "My portfolio on high-throughput imaging of 2D and 3D cell cultures and image analysis. :)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HT_imaging/";
+            },},{id: "projects-miss-asthma-thailand",
+          title: 'Miss Asthma THAILAND',
+          description: "Helping as an asthmatic friend for fostering a supportive environment and promoting asthma awareness.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/MissAsthma/";
+            },},{id: "projects-no-cancer-thailand",
+          title: 'NO Cancer THAILAND',
+          description: "Simplifying cancer science for the public, promoting understanding of cancer biology and precision medicine.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NoCancer/";
             },},{id: "projects-transcriptomics",
           title: 'Transcriptomics',
           description: "My transcriptomics portfolio :)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Transcriptome/";
+            },},{id: "projects-the-whispers-of-biology",
+          title: 'The Whispers of Biology',
+          description: "Sharing my scientific thoughts, computational biology tricks, and other insights with scientific friends. I hope we can pursue our passion for science together.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/WhispersBiology/";
+            },},{id: "projects-write-to-thrive-growing-together-in-ink",
+          title: 'Write to Thrive - Growing Together in Ink',
+          description: "My Personal Blog, where I share my perspective and lived experiences in Thai language.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Write2Thrive/";
             },},{
         id: 'social-email',
         title: 'email',
