@@ -88,22 +88,36 @@
   ],
   "awards": [
     {
+      "title": "Microscopy data analysis: machine learning and the BioImage Archive 2025 Course",
+      "date": "2025",
+      "awarder": "European Bioinformatics Institute (EMBL-EBI)",
+      "url": "",
+      "summary": "Awarded a full fee waiver for the course."
+    },
+    {
+      "title": "Fundamentals of AI/ML in Precision Medicine Course and Fundamentals of Data Science in Precision Medicine and Cloud Computing Course",
+      "date": "2024",
+      "awarder": "Stanford Data Ocean, Department of Genetics, Stanford Medicine, Stanford University",
+      "url": "",
+      "summary": "Awarded a full fee waiver for both courses."
+    },
+    {
       "title": "The Best Poster Presentation Award",
-      "date": "2021-05-21",
+      "date": "2021",
       "awarder": "Pharmacological and Therapeutic Society",
       "url": "",
       "summary": "Topic: 'Differentiation potential of cholangiocarcinoma stem cells evaluated by live-biosensor'"
     },
     {
       "title": "The Royal Golden Jubilee Ph.D. Program (RGJ-Ph.D. Program)",
-      "date": "2018-2025",
+      "date": "2018 - 2025",
       "awarder": "the Thailand Research Fund under the Royal Thai government",
       "url": "",
       "summary": "Ph.D in Pharmacology"
     },
     {
       "title": "The Royal Scholarship",
-      "date": "2013-2025",
+      "date": "2013 - 2025",
       "awarder": "Professor Dr. Her Royal Highness Princess Chulabhorn Krom Phra Srisavangavadhana, the Chulabhorn Foundation",
       "url": "",
       "summary": "Pharm.D. - Ph.D in Pharmacology"
@@ -175,6 +189,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Optimization of in vitro cell culture conditions suitable for the cholangiocarcinoma stem cell study",
+      "publisher": "ScienceAsia",
+      "releaseDate": "2025-07-13",
+      "url": "https://doi.org/10.2306/scienceasia1513-1874.2025.059",
+      "summary": "This study focuses on optimizing in vitro cell culture conditions for cholangiocarcinoma stem cell research, specifically examining factors like culture media, seeding density, and 2D vs. 3D culture methods to facilitate high-throughput drug testing and sustainable resource utilization."
+    },
     {
       "name": "A live single-cell reporter system reveals drug-induced plasticity of a cancer stem cell-like population in cholangiocarcinoma",
       "publisher": "Scientific Reports",

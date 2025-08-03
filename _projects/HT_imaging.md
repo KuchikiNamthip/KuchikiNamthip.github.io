@@ -132,15 +132,20 @@ I also conducted tumorigenic assays, which are crucial for understanding the pot
 - *Data Analysis*: Utilized RStudio for rigorous analysis to draw meaningful conclusions about tumorigenic potential.
 
 
-### 1.3 What I have learned from this data set
-???
+### 1.3 What I've Learned
+
+There are many ways to approach imaging data, often guided by applications from instrument companies or published studies. However, at its core, we're really dealing with biology. In my case, it's the biology of **CSCs**. I needed to understand the gaps in the CSC field and how I could use available applications to fill them.
+
+I noticed that when studying CSC-mediated drug resistance, researchers often use a single drug concentration to show CSC enrichment or depletion. Yet, in a real tumor, the drug exists in a **range of concentrations**, not just one. To address this, I created an experiment to analyze the dose-response relationship alongside the CSC content. I was also curious about how different drugs affect CSC content.
+
+Without coding, this kind of single-cell (in 2D) or spheroid (in 3D) analysis would be impossible. **Coding speeds up the analysis** and enables powerful data visualization. This doesn't just create beautiful figures; it also provides meaningful insights for **exploratory data analysis (EDA)**.
 
 ---
 ## Acknowledgement
-- I would like to thank my co-authors and colleagues.
+- I would like to thank my co-authors and colleagues. \
   🏀 [Supawan Jamnongsong](https://scholar.google.co.th/citations?user=UxJ80zUAAAAJ&hl=en), a high-content imaging specialist and a wonderful senior who always provides comments, suggestions, and assistance. \
-  🏀 [Pornlada Likasitwatanakul](https://scholar.google.com/citations?user=3nco_J0AAAAJ&hl=en), a talented medical student who I knew could do both wet lab and image analysis from the moment we met.\
-  🏀  It was such a great and exciting time working with you all. I look forward to our next collaboration soon! Haha 😆😆 "Let's play together!"
+  🏀 [Pornlada Likasitwatanakul](https://scholar.google.com/citations?user=3nco_J0AAAAJ&hl=en), a talented medical student who I knew could do both wet lab and image analysis from the moment we met. \
+  🏀 It was such a great and exciting time working with you all. I look forward to our next collaboration soon! Haha 😆😆 "Let's play together!"
  
 - I would like to thank my teachers and my co-advisors. \
   🚀 [Emerita Prof.Dr. Marianne Hokland](https://www.au.dk/en/mhokland@biomed.au.dk), who encouraged me to perform 3D culturing experiments. \
