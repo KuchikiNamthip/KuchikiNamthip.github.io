@@ -249,11 +249,6 @@ ninja.data = [{
           description: "My epigenomic (ChIP-seq) portfolio",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Epigenome_ChIP/";
-            },},{id: "projects-phenomics-coding-x-flow-cytometry",
-          title: 'Phenomics - Coding x Flow Cytometry',
-          description: "My portfolio on how I used coding to help discover insight from flow cytometric result.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/FlowCytometry/";
             },},{id: "projects-phenomics-coding-x-high-throughput-imaging-2d-3d-models",
           title: 'Phenomics - Coding x High-Throughput Imaging (2D/3D Models)',
           description: "My portfolio on high-throughput imaging of 2D and 3D cell cultures and image analysis. :)",
