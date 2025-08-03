@@ -20,7 +20,7 @@ related_publications: true
 </div>
 
 ## Introduction
-As a proud member of the [Siriraj Center of Research Excellence for Systems Pharmacology (SiSP)](https://www.sisyspharm.org/), a leader in high-throughput imaging, I am driven by a passion for uncovering the secrets of cancer biology. My work combines a hands-on approach in the lab with cutting-edge image analysis. I have specialized in exploring a wide array of cellular models, moving from the traditional 2-dimensional (2D) cell cultures to advanced 3-dimensional (3D) multicellular spheroids and multi-spheroid systems. This diverse experience allows me to tackle complex biological questions with creativity and precision. Beyond the visuals, I am also an expert in using RStudio to dive deep into the data, ensuring that every image tells a complete and compelling story.
+As a proud member of the [Siriraj Center of Research Excellence for Systems Pharmacology (SiSP)](https://www.sisyspharm.org/), a leader in *high-throughput imaging*, I am driven by a passion for uncovering the secrets of cancer biology. My work combines a hands-on approach in the lab with cutting-edge image analysis. I have specialized in exploring a wide array of cellular models, moving from the traditional 2-dimensional (2D) cell cultures to advanced 3-dimensional (3D) multicellular spheroids and multi-spheroid systems. This diverse experience allows me to tackle complex biological questions with creativity and precision. Beyond the visuals, I am also an expert in using RStudio to dive deep into the data, ensuring that every image tells a complete and compelling story.
 
 ---
 ## Model 1:  2D Cancer Cell Culturing Model
