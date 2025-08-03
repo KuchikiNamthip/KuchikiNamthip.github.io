@@ -3,7 +3,7 @@ layout: page
 title:  Phenomics - Coding x High-Throughput Imaging (2D/3D Models)
 description: My portfolio on high-throughput imaging of 2D and 3D cell cultures and image analysis. :)
 img: assets/img/HT_imaging.png
-importance: 2
+importance: 4
 category: ComBioPortfolio
 giscus_comments: true
 toc:

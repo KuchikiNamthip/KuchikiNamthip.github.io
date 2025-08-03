@@ -63,21 +63,23 @@ Our target audience is the Thai public and especially those living with asthma. 
 ### Acknowledgement
 This project would not have been possible without the support of many people. My heartfelt thanks go to:
 
-- **My Doctors**:
+🩺 **My Doctors**:
 
-  [*Assoc.Prof. Siwasak Juthong*](https://www.researchgate.net/scientific-contributions/Siwasak-Juthong-2199078823): For his decade of care, helping me finish my undergraduate degree, encouraging me to take up sports, and ensuring my well-being through my Ph.D. journey.
+  🩺 [*Assoc.Prof. Siwasak Juthong*](https://www.researchgate.net/scientific-contributions/Siwasak-Juthong-2199078823): For his decade of care, helping me finish my undergraduate degree, encouraging me to take up sports, and ensuring my well-being through my Ph.D. journey.
 
-  [*Prof.Dr. Kittipong Maneechotesuwan*](https://www.researchgate.net/profile/Kittipong-Maneechotesuwan): For his dedicated support during my Ph.D., guiding me through challenges like PM2.5 and COVID-19, and keeping me engaged with science.
+  🩺 [*Prof.Dr. Kittipong Maneechotesuwan*](https://www.researchgate.net/profile/Kittipong-Maneechotesuwan): For his dedicated support during my Ph.D., guiding me through challenges like PM2.5 and COVID-19, and keeping me engaged with science.
 
-  [*Prof.Dr. Orapan Phochanukool*](https://scholar.google.co.th/citations?user=Y9_i9IoAAAAJ&hl=en): For her expert care during the complex biologic drug phase, providing both medical support and a much-needed positive mind.
+  🩺 [*Prof.Dr. Orapan Phochanukool*](https://scholar.google.co.th/citations?user=Y9_i9IoAAAAJ&hl=en): For her expert care during the complex biologic drug phase, providing both medical support and a much-needed positive mind.
 
-- **Clinical Care Units**: The dedicated staff and nurses at Siriraj Hospital and Songklanagarind Hospital. Your professional care and personal kindness made every hospital stay more manageable.
+  🩺 [Assoc. Prof. Asma Navasakulpong](https://www.researchgate.net/profile/Asma-Navasakulpong-2): For her very kind support on the medical ward and during emergency visits. She always came to help during my difficult times with asthma.
 
-- **My Friends**: The [*"Exercise Mania Patient"*](https://www.facebook.com/share/g/8duUkQvoX8EXRZV6/) group and all my friends who live with asthma, esp. [*Miss Asthma Thailand's followers*](https://www.facebook.com/MissAsthmaTH/). Your camaraderie and understanding have been invaluable, especially on the most difficult days.
+💊 **Clinical Care Units**: The dedicated staff and nurses at Siriraj Hospital and Songklanagarind Hospital. Your professional care and personal kindness made every hospital stay more manageable.
 
-- **My Supporters**: The Thai universal healthcare system, and a secret person/institute whose support for my treatment inspired me to create this page to help others.
+🥊 **My Friends**: The [*"Exercise Mania Patient"*](https://www.facebook.com/share/g/8duUkQvoX8EXRZV6/) group and all my friends who live with asthma, esp. [*Miss Asthma Thailand's followers*](https://www.facebook.com/MissAsthmaTH/). Your camaraderie and understanding have been invaluable, especially on the most difficult days.
 
-- **My Family**: For being the foundation of my life and an endless source of love and strength. I have overcome every challenge because of you.
+🎁 **My Supporters**: The Thai universal healthcare system, and a secret person/institute whose support for my treatment inspired me to create this page to help others.
+
+🌸 **My Family**: For being the foundation of my life and an endless source of love and strength. I have overcome every challenge because of you.
 
 ---
 I'm very happy 🥰 that you are visiting my project and would be even happier if you could provide suggestions or feedback 🤩. 

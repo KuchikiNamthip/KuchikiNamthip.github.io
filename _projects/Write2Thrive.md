@@ -34,8 +34,10 @@ My primary audience is the Thai-speaking community. I aim to create a supportive
 ---
 ### Acknowledgement
 
-Thanks to my mom and dad, who kept a ton of wonderful books in our home. 📚 \
-When I was young and had nothing to do, I *HAVE TO* read books (It is only thing in our house lol). \
+Thanks, mom and dad. They kept a ton of wonderful books in our home. 📚 
+
+📖 When I was young and had nothing to do, I *HAVE TO* read books (It is only thing in our house lol). 
+
 📖 Because of this, I developed a love for reading, and consequently, for writing with beautiful Thai words! ✍️❤️
 
 ---
