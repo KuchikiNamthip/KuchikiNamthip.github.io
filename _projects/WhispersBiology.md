@@ -2,7 +2,7 @@
 layout: page
 title:  The Whispers of Biology
 description: Sharing my scientific thoughts, computational biology tricks, and other insights with scientific friends. I hope we can pursue our passion for science together.  
-img: assets/img/Whisper-logo.png
+img: assets/img/Whisper-logo1.png
 importance: 1
 category: Social/Volunteer
 giscus_comments: true
