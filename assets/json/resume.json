@@ -2,8 +2,8 @@
   "basics": {
     "full name": "Krittiyabhorn Kongtanawanich",
     "nick name": "Namthip",
-    "label": "Pharmacist, Researcher, Ph.D. candidate",
-    "image": "",
+    "label": "Cancer Scientist (Pharm.D. | Ph.D. in Pharmacology)",
+    "image": "assets/img/prof_pic.jpg",
     "email": "kkrittiyabhorn@gmail.com",
     "phone": "",
     "url": "https://kuchikinamthip.github.io/",
@@ -25,10 +25,10 @@
   "work": [
     {
       "name": "Siriraj Center of Research Excellence for Systems Pharmacology, Mahidol University",
-      "position": "Ph.D. Candidate",
+      "position": "Ph.D. in Pharmacology",
       "url": "https://www.sisyspharm.org/",
       "startDate": "2018-08-01",
-      "endDate": "",
+      "endDate": "2025",
       "summary": "Ph.D. candidate under supervise of Assoc. Prof. Siwanon Jirawatnotai",
       "highlights": ["Project: Cholangiocarcinoma stem cell mediated drug resistance"]
     }
