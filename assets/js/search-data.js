@@ -247,6 +247,11 @@ ninja.data = [{
           description: "How my computers are set up with reproducibility in mind.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ComSetting/";
+            },},{id: "projects-exercise-mania-patients",
+          title: 'Exercise Mania Patients',
+          description: "We are friends who have our own diseases and WE understand each other!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/EMP/";
             },},{id: "projects-epigenomics-chip-seq",
           title: 'Epigenomics (ChIP-seq)',
           description: "My epigenomic (ChIP-seq) portfolio",
