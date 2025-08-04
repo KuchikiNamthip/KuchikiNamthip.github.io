@@ -2,7 +2,7 @@
 layout: page
 title:  NO Cancer THAILAND
 description: Simplifying cancer science for the public, promoting understanding of cancer biology and precision medicine. 
-img: assets/img/NoCancer.png
+img: assets/img/NoCancer/NoCancer.png
 importance: 2
 category: Social/Volunteer
 giscus_comments: true
@@ -11,11 +11,11 @@ toc:
 ---
 <div class="row justify-content-center">
   <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 50%;">
-    {% include figure.liquid loading="eager" path="assets/img/NoCancer.png" title="NO CANCER THAILAND's logo" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 50%;" %}
+    {% include figure.liquid loading="eager" path="assets/img/NoCancer/NoCancer.png" title="NO CANCER THAILAND's logo" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 50%;" %}
   </div>
 </div>
 <div class="caption text-center">
-    <a href="https://www.nature.com/articles/s41598-024-73581-8/figures/7" target="_blank">NO CANCER THAILAND's logo</a>
+    <a>NO CANCER THAILAND's logo</a>
 </div>
 
 ### About "NO CANCER THAILAND"
@@ -45,7 +45,7 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 ### Find Us Here
 <div class="row justify-content-center">
   <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 100%;">
-    {% include figure.liquid loading="eager" path="assets/img/FB_NoCancer.png" title="No CANCER THAILAND's Facebook Page" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 100%;" %}
+    {% include figure.liquid loading="eager" path="assets/img/NoCancer/FB_NoCancer.png" title="No CANCER THAILAND's Facebook Page" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 100%;" %}
   </div>
 </div>
 <div class="caption text-center">

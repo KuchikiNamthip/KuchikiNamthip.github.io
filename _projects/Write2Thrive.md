@@ -3,7 +3,7 @@ layout: page
 title:  Write to Thrive - Growing Together in Ink
 description: My Personal Blog, where I share my perspective and lived experiences in Thai language. 
 img: assets/img/Write2Thrive.png
-importance: 4
+importance: 5
 category: Social/Volunteer
 giscus_comments: true
 toc:

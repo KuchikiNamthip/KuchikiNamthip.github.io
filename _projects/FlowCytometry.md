@@ -2,7 +2,7 @@
 layout: page
 title:  Phenomics - Coding x Flow Cytometry
 description: My portfolio on how I used coding to help discover insight from flow cytometric result.
-img: assets/img/FC.png
+img: assets/img/FlowProj/FC.png
 importance: 5
 category: ComBioPortfolio
 giscus_comments: true
@@ -79,8 +79,8 @@ To investigate the dynamic nature of cancer stem cells (CSCs) in cholangiocarcin
 - *Drug-induced plasticity*: The drug 5-FU was shown to induce dedifferentiation in SORE6<sup>NEG</sup> cells while simultaneously suppressing the differentiation of SORE6<sup>POS</sup> cells.
       
 <div class="row justify-content-center">
-  <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 100%;">
-    {% include figure.liquid loading="eager" path="assets/img/FlowProj/5-FU_plasticity.png" title="5-Fluorouracil induced CSC plasticity" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 100%;" %}
+  <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 80%;">
+    {% include figure.liquid loading="eager" path="assets/img/FlowProj/5-FU_plasticity.png" title="5-Fluorouracil induced CSC plasticity" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 80%;" %}
   </div>
 </div>
 <div class="caption text-center">

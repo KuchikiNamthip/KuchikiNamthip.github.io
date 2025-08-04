@@ -2,23 +2,23 @@
 layout: page
 title:  Miss Asthma THAILAND
 description: Helping as an asthmatic friend for fostering a supportive environment and promoting asthma awareness. 
-img: assets/img/MissAsthma_logo.png
-importance: 3
+img: assets/img/MissAsthma/MissAsthma_logo.png
 category: Social/Volunteer
 giscus_comments: true
+importance: 3
 toc:
   sidebar: left
 ---
 <div class="row justify-content-center">
   <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 50%;">
-    {% include figure.liquid loading="eager" path="assets/img/MissAsthma_logo.png" title="MISS ASTHMA THAILAND's logo" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 50%;" %}
+    {% include figure.liquid loading="eager" path="assets/img/MissAsthma/MissAsthma_logo.png" title="MISS ASTHMA THAILAND's logo" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 50%;" %}
   </div>
 </div>
 <div class="caption text-center">
-    <a href="https://www.nature.com/articles/s41598-024-73581-8/figures/7" target="_blank">MISS ASTHMA THAILAND's logo</a>
+    <a href="https://www.facebook.com/MissAsthmaTH/)" target="_blank">MISS ASTHMA THAILAND's logo</a>
 </div>
 
-### About "MISS ASTHMA THAILAND"
+### About "มิสหอบหืด - MISS ASTHMA THAILAND"
 
 **MISS ASTHMA THAILAND** is a social media initiative and community platform dedicated to providing valuable knowledge and fostering a supportive environment for individuals living with asthma. The project's mission is to raise awareness about the seriousness of asthma, empowering the community to manage their condition effectively and challenge common misconceptions.
 
@@ -45,11 +45,11 @@ Our target audience is the Thai public and especially those living with asthma. 
 
 <div class="row justify-content-center">
   <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 100%;">
-    {% include figure.liquid loading="eager" path="assets/img/FB_MissAsthma.png" title="MISS ASTHMA THAILAND's Facebook Page" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 100%;" %}
+    {% include figure.liquid loading="eager" path="assets/img/MissAsthma/FB_MissAsthma.png" title="MISS ASTHMA THAILAND's Facebook Page" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 100%;" %}
   </div>
 </div>
 <div class="caption text-center">
-    <a href="https://www.nature.com/articles/s41598-024-73581-8/figures/7" target="_blank">The FB banner highlights Miss Asthma's fun🤣 and lively nature.💋 (Just a little bit of crazy 🤫) </a>
+    <a href="https://www.facebook.com/MissAsthmaTH/" target="_blank">The FB banner highlights Miss Asthma's fun🤣 and lively nature.💋 (Just a little bit of crazy 🤫) </a>
 </div>
 
 * [**Facebook**](https://www.facebook.com/MissAsthmaTH/) Here I mostly connect with asthmatic friends.
@@ -63,7 +63,7 @@ Our target audience is the Thai public and especially those living with asthma. 
 ### Acknowledgement
 This project would not have been possible without the support of many people. My heartfelt thanks go to:
 
-🩺 **My Doctors**:
+**🩺 My Doctors 🩺**:
 
   🩺 [*Assoc.Prof. Siwasak Juthong*](https://www.researchgate.net/scientific-contributions/Siwasak-Juthong-2199078823): For his decade of care, helping me finish my undergraduate degree, encouraging me to take up sports, and ensuring my well-being through my Ph.D. journey.
 
@@ -71,7 +71,7 @@ This project would not have been possible without the support of many people. My
 
   🩺 [*Prof.Dr. Orapan Phochanukool*](https://scholar.google.co.th/citations?user=Y9_i9IoAAAAJ&hl=en): For her expert care during the complex biologic drug phase, providing both medical support and a much-needed positive mind.
 
-  🩺 [Assoc. Prof. Asma Navasakulpong](https://www.researchgate.net/profile/Asma-Navasakulpong-2): For her very kind support on the medical ward and during emergency visits. She always came to help during my difficult times with asthma.
+  🩺 [*Assoc. Prof. Asma Navasakulpong*](https://www.researchgate.net/profile/Asma-Navasakulpong-2): For her very kind support on the medical ward and during emergency visits. She always came to help during my difficult times with asthma.
 
 💊 **Clinical Care Units**: The dedicated staff and nurses at Siriraj Hospital and Songklanagarind Hospital. Your professional care and personal kindness made every hospital stay more manageable.
 
