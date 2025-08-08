@@ -39,6 +39,14 @@ Our target audience is anyone with a love for science, from students to seasoned
 * [**YouTube:**](https://www.youtube.com/@TheWhispersofBiology) waiting for update
 
 ---
+### 🍭Table of contents on Blogger🍭
+#### 🍭Cancer Genetics: History&Consequences
+- [Fight Against Cancer 1932](https://thewhispersofbiology.blogspot.com/2025/04/fight-against-cancer-1932.html)
+
+#### 🍭Others
+- [The Conference To End All Conferences: "Woodstock.Bio2 + Night Science"](https://thewhispersofbiology.blogspot.com/2025/08/the-conference-to-end-all-conferences.html)
+
+---
 ### Acknowledgement
 
 *"The Whispers of Biology"* would not be possible without the incredible support and guidance of many mentors along the way including *Emeritus Professor M.R. Jisnuson Svasti*, *Prof. Dr. Apiwat Mutirangura*, *Assoc. Prof. Dr. Nakarin Kitkumthorn*, and *Asst. Prof. Dr. Worapong Phupong*. 
