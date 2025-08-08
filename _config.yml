@@ -121,9 +121,15 @@ disqus_shortname: Namthip  # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-#external_sources:
-#  - name: medium.com
-#    rss_url: https://medium.com/@kuchikinamthip/feed
+external_sources:
+  - name: NO Cancer
+    rss_url: https://nocancerth.blogspot.com/feeds/posts/default?alt=rss
+  - name: Miss Asthma
+    rss_url: https://missasthmath.blogspot.com/feeds/posts/default?alt=rss
+  - name: The Whispers of Biology
+    rss_url: https://thewhispersofbiology.blogspot.com/feeds/posts/default?alt=rss
+  - name: Write 2 Thrive
+    rss_url: https://write-2-thrive.blogspot.com/feeds/posts/default?alt=rss
 
 # -----------------------------------------------------------------------------
 # Newsletter
