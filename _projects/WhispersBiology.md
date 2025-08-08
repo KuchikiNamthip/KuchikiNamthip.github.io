@@ -30,7 +30,7 @@ Our target audience is anyone with a love for science, from students to seasoned
 > *The Whispers of Biology*
 
 ### Find Us Here
-* [**LinkedIn:**](https://www.linkedin.com/in/namthip/) This is the most update one!
+* [**LinkedIn:**](https://www.linkedin.com/in/kuchikinamthip/) This is the most update one!
 * [**X**](https://twitter.com/Kuchiki_Namthip)
 * [**Blog on my website**](https://kuchikinamthip.github.io/blog/) I will collect all post here.
 * [**Google Blog**](https://thewhispersofbiology.blogspot.com/) I will collect all post here.
@@ -42,6 +42,9 @@ Our target audience is anyone with a love for science, from students to seasoned
 ### 🍭Table of contents on Blogger🍭
 #### 🍭Cancer Genetics: History&Consequences
 - [Fight Against Cancer 1932](https://thewhispersofbiology.blogspot.com/2025/04/fight-against-cancer-1932.html)
+
+#### 🍭Reproducibility Computational Biology
+- [🚀 Streamlining RStudio Server with Docker Compose!](https://thewhispersofbiology.blogspot.com/2025/08/streamlining-rstudio-server-with-docker.html)
 
 #### 🍭Others
 - [The Conference To End All Conferences: "Woodstock.Bio2 + Night Science"](https://thewhispersofbiology.blogspot.com/2025/08/the-conference-to-end-all-conferences.html)
