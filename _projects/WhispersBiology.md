@@ -46,6 +46,9 @@ Our target audience is anyone with a love for science, from students to seasoned
 #### 🍭Reproducibility Computational Biology
 - [🚀 Streamlining RStudio Server with Docker Compose!](https://thewhispersofbiology.blogspot.com/2025/08/streamlining-rstudio-server-with-docker.html)
 
+#### 🍭Follow the Scientists's footstep
+- [1st met Nobel Laureate (like met a Hollywood Star)](https://thewhispersofbiology.blogspot.com/2025/08/1st-met-nobel-laureate-like-hollywood.html)
+  
 #### 🍭Others
 - [The Conference To End All Conferences: "Woodstock.Bio2 + Night Science"](https://thewhispersofbiology.blogspot.com/2025/08/the-conference-to-end-all-conferences.html)
 

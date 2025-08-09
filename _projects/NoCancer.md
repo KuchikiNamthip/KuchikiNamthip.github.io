@@ -66,7 +66,7 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 
 #### 🍭ประวัติพันธุศาสตร์มะเร็ง
 - [ต่อสู้กับมะเร็ง กว่า 100 ปีจากภาพวาด](https://nocancerth.blogspot.com/2025/04/100.html) 
-- [ "Tony Hunter" ไม่ใช่ "Tony Hamster"](https://nocancerth.blogspot.com/2025/07/tony-hunter-tony-hamster.html)
+- ["Tony Hunter" ไม่ใช่ "Tony Hamster"](https://nocancerth.blogspot.com/2025/07/tony-hunter-tony-hamster.html)
 
 #### 🍭มะเร็งเกมวิจัย แซ่บหลาย
 - [น้องกุมารโกโกวากับน้ำแดงของนาง (Ep.1)](https://nocancerth.blogspot.com/2025/07/ep1.html) 
@@ -77,9 +77,14 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 - [ยาเคโม Vs ยามะเร็งมุ่งเป้า 🎯](https://nocancerth.blogspot.com/2025/07/vs.html)
 - [อิมครานิบ (Imcranib) ยามุ่งเป้าแบบเม็ดของเจ้าฟ้าหญิงจุฬาภรณ์](https://nocancerth.blogspot.com/2025/07/imcranib.html)
 
+#### 🍭ตามรอยนักวิทยาศาสตร์
+- [กระทบไหล่เจ้าของรางวัลโนเบลครั้งนึง ติดใจตลอดไปปปป (Prof.Ada Yonath)](https://nocancerth.blogspot.com/2025/08/1st-met-nobel-laureate-like-hollywood.html)
+
+
 #### 🍭Others
 - [เมื่อมะเร็งถูกควบคุมโดยหมูเด้งและพวก](https://nocancerth.blogspot.com/2025/04/blog-post.html) 
 - [งานประชุมวิชาการที่บ้าบอและเกรียนที่สุดในโลก](https://nocancerth.blogspot.com/2025/08/blog-post.html) 
+
  
 ---
 ### Acknowledgement

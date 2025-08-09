@@ -42,6 +42,11 @@ My primary audience is the Thai-speaking community. I aim to create a supportive
 - [ตอนที่ 5: เมื่อฉันรักวิทยาศาสตร์ อย่างที่ไม่สนมะรงมะเร็งอะไรทั้งนั้น](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-5.html)
 - [ตอนที่ 6: ปริญญาเอก วิชาหนังชีวิต Scientific Lineage และผู้ช่วยชีวิตอย่าง Mentor](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-6.html) 
 - [ตอนที่ 7: ถ้าเธอติ่ง GOT7 ฉันก็ติ่งนักวิทยาศาสตร์](https://write-2-thrive.blogspot.com/2025/06/CancerRes-07.html)
+
+#### Others
+- [วันนึงโตขึ้น เราจะไม่เป็นคนแบบนั้น คนแบบที่เราไม่ชอบ](https://write-2-thrive.blogspot.com/2025/08/blog-post.html): Written in March 21, 2019
+- [Productive ตอน 2](https://write-2-thrive.blogspot.com/2025/08/productive-2.html): Written in Aug 8, 2019
+
 ---
 ### Acknowledgement
 
