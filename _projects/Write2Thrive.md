@@ -11,6 +11,15 @@ toc:
 ---
 ### About "Write to Thrive - Growing Together in Ink"
 
+<div class="row justify-content-center">
+  <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 50%;">
+    {% include figure.liquid loading="eager" path="assets/img/Write2Thrive.png" title="NO CANCER THAILAND's logo" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 50%;" %}
+  </div>
+</div>
+<div class="caption text-center">
+    <a>Logo: Write to Thrive - Growing Together in Ink</a>
+</div>
+
 **Write to Thrive - Growing Together in Ink** is my personal blog, a space where I share my perspective and lived experiences in Thai. This platform is more than just a collection of thoughts; it's a place for genuine connection and shared growth. Through the medium of ink and words, I hope to document my journey, explore various topics, and build a community where we can all grow together.
 
 ---
@@ -32,8 +41,8 @@ My primary audience is the Thai-speaking community. I aim to create a supportive
 * [**Google Blog**](https://thewhispersofbiology.blogspot.com/) I will collect all post from Facebook(from memories) here. You may have to wait a year for all those. 🤗
 
 ---
-### 🍭Table of contents on Blogger🍭
-#### 🍭Namthip x งานวิจัยมะเร็ง
+### 🧶Table of contents🧶
+##### 🍭Namthip x งานวิจัยมะเร็ง
 - [ตอนที่ 0: สะเปะสะปะกว่าจะมาถึงเส้นทางวิจัย](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-0.html) 
 - [ตอนที่ 1: ค่ายไม่เล็กที่มีแต่ผู้ใหญ่ใจดีปูทางเด็กบ้านนอกสู่เส้นทางวิจัย](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-1.html) 
 - [ตอนที่ 2: ตรึงใจเด็ก ม.ปลาย เปิดโลกวิจัยที่สถาบันวิจัยจุฬาภรณ์](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-2.html)
@@ -44,7 +53,7 @@ My primary audience is the Thai-speaking community. I aim to create a supportive
 - [ตอนที่ 7: ถ้าเธอติ่ง GOT7 ฉันก็ติ่งนักวิทยาศาสตร์](https://write-2-thrive.blogspot.com/2025/06/CancerRes-07.html)
 - [ตอนพิเศษ: อะไรที่ดลจิตดลใจให้เดินไปหาปริญญาเอก](https://write-2-thrive.blogspot.com/2025/08/namthip-x.html)
 
-#### Others
+##### 🍭Others
 - [วันนึงโตขึ้น เราจะไม่เป็นคนแบบนั้น คนแบบที่เราไม่ชอบ](https://write-2-thrive.blogspot.com/2025/08/blog-post.html): Written in March 21, 2019
 - [Productive ตอน 2](https://write-2-thrive.blogspot.com/2025/08/productive-2.html): Written in Aug 8, 2019
 

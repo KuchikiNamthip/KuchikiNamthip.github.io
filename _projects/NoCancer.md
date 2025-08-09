@@ -9,6 +9,8 @@ giscus_comments: true
 toc:
   sidebar: left
 ---
+### About "NO CANCER THAILAND"
+
 <div class="row justify-content-center">
   <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 50%;">
     {% include figure.liquid loading="eager" path="assets/img/NoCancer/NoCancer.png" title="NO CANCER THAILAND's logo" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 50%;" %}
@@ -17,8 +19,6 @@ toc:
 <div class="caption text-center">
     <a>NO CANCER THAILAND's logo</a>
 </div>
-
-### About "NO CANCER THAILAND"
 
 **NO CANCER THAILAND** is a social media initiative dedicated to improving science communication and health literacy in Thailand. The project's mission is to translate complex cancer research into accessible and engaging content for the public. It aims to empower individuals with a scientific understanding of cancer, encouraging them to make informed health decisions and critically evaluate unproven treatments.
 
@@ -60,32 +60,31 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 * [**YouTube**](youtube.com/%40NO-CANCER-THAILAND): waiting for update
 
 ---
-### 🍭Table of contents on Blogger🍭
-#### 🍭เครื่องมือวิจัยมะเร็ง
+### 🧶Table of contents🧶
+##### 🍭เครื่องมือวิจัยมะเร็ง
 - [สุราษฎร์ เกี่ยวอะไรกับงานวิจัยมะเร็ง](https://nocancerth.blogspot.com/2025/02/blog-post.html) 
 
-#### 🍭ประวัติพันธุศาสตร์มะเร็ง
+##### 🍭ประวัติพันธุศาสตร์มะเร็ง
 - [ต่อสู้กับมะเร็ง กว่า 100 ปีจากภาพวาด](https://nocancerth.blogspot.com/2025/04/100.html) 
 - ["Tony Hunter" ไม่ใช่ "Tony Hamster"](https://nocancerth.blogspot.com/2025/07/tony-hunter-tony-hamster.html)
 
-#### 🍭มะเร็งเกมวิจัย แซ่บหลาย
+##### 🍭มะเร็งเกมวิจัย แซ่บหลาย
 - [น้องกุมารโกโกวากับน้ำแดงของนาง (Ep.1)](https://nocancerth.blogspot.com/2025/07/ep1.html) 
 - [โกโกวาสั่ง เซลล์มะเร็งก็ต้องเผ่นแล้ววว (Ep.2)](https://nocancerth.blogspot.com/2025/07/ep2.html)
 
-#### 🍭ยามะเร็งมุ่งเป้า (Targeted Therapy)
+##### 🍭ยามะเร็งมุ่งเป้า (Targeted Therapy)
 - [ยามะเร็งมุ่งเป้า 2 ตำรับแรกของไทย](https://nocancerth.blogspot.com/2025/07/2.html) 
 - [ยาเคโม Vs ยามะเร็งมุ่งเป้า 🎯](https://nocancerth.blogspot.com/2025/07/vs.html)
 - [อิมครานิบ (Imcranib) ยามุ่งเป้าแบบเม็ดของเจ้าฟ้าหญิงจุฬาภรณ์](https://nocancerth.blogspot.com/2025/07/imcranib.html)
 
-#### 🍭ตามรอยนักวิทยาศาสตร์
+##### 🍭ตามรอยนักวิทยาศาสตร์
 - [กระทบไหล่เจ้าของรางวัลโนเบลครั้งนึง ติดใจตลอดไปปปป (Prof.Ada Yonath)](https://nocancerth.blogspot.com/2025/08/1st-met-nobel-laureate-like-hollywood.html)
 
 
-#### 🍭Others
+##### 🍭Others
 - [เมื่อมะเร็งถูกควบคุมโดยหมูเด้งและพวก](https://nocancerth.blogspot.com/2025/04/blog-post.html) 
 - [งานประชุมวิชาการที่บ้าบอและเกรียนที่สุดในโลก](https://nocancerth.blogspot.com/2025/08/blog-post.html) 
 
- 
 ---
 ### Acknowledgement
 🌸 I would like to thank my Ph.D. advisor, [Assoc.Prof.Dr. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. On the other side, I also I want to tell Thai people the knowledge I gain as a real-life cancer scientist. 

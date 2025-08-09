@@ -11,6 +11,15 @@ toc:
 ---
 ### About "The Whispers of Biology"
 
+<div class="row justify-content-center">
+  <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 50%;">
+    {% include figure.liquid loading="eager" path="assets/img/Whisper-logo1.png" title="NO CANCER THAILAND's logo" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 50%;" %}
+  </div>
+</div>
+<div class="caption text-center">
+    <a>The Whispers of Biology's logo</a>
+</div>
+
 **The Whispers of Biology** is a blog and community space dedicated to exploring the fascinating world of science. It’s where computational biology tricks, scientific thoughts, and other insights are shared with fellow enthusiasts. The project's mission is to inspire and support others who share a passion for scientific inquiry and to show that a career in research can be an incredibly fun and rewarding journey.
 
 ### Our Story
@@ -39,17 +48,17 @@ Our target audience is anyone with a love for science, from students to seasoned
 * [**YouTube:**](https://www.youtube.com/@TheWhispersofBiology) waiting for update
 
 ---
-### 🍭Table of contents on Blogger🍭
-#### 🍭Cancer Genetics: History&Consequences
+### 🧶Table of contents🧶
+##### 🍭Cancer Genetics: History&Consequences
 - [Fight Against Cancer 1932](https://thewhispersofbiology.blogspot.com/2025/04/fight-against-cancer-1932.html)
 
-#### 🍭Reproducibility Computational Biology
+##### 🍭Reproducibility Computational Biology
 - [🚀 Streamlining RStudio Server with Docker Compose!](https://thewhispersofbiology.blogspot.com/2025/08/streamlining-rstudio-server-with-docker.html)
 
 #### 🍭Follow the Scientists's footstep
 - [1st met Nobel Laureate (like met a Hollywood Star)](https://thewhispersofbiology.blogspot.com/2025/08/1st-met-nobel-laureate-like-hollywood.html)
   
-#### 🍭Others
+##### 🍭Others
 - [The Conference To End All Conferences: "Woodstock.Bio2 + Night Science"](https://thewhispersofbiology.blogspot.com/2025/08/the-conference-to-end-all-conferences.html)
 
 ---
