@@ -58,6 +58,9 @@ Our target audience is anyone with a love for science, from students to seasoned
 #### 🍭Follow the Scientists's footstep
 - [1st met Nobel Laureate (like met a Hollywood Star)](https://thewhispersofbiology.blogspot.com/2025/08/1st-met-nobel-laureate-like-hollywood.html)
   
+##### 🍭My ComBio Learning Path
+- [Vibe Coding: When everything in coding is thrown to AI 🤖](https://thewhispersofbiology.blogspot.com/2025/08/vibe-coding-when-everything-in-coding.html)
+
 ##### 🍭Others
 - [The Conference To End All Conferences: "Woodstock.Bio2 + Night Science"](https://thewhispersofbiology.blogspot.com/2025/08/the-conference-to-end-all-conferences.html)
 
