@@ -28,8 +28,8 @@ This project is a big challenge for me as a pharmacist. Without good friends and
 ## Acknowledgment
 - I would like to acknowledge [Dr. Ming (Tommy) Tang](https://x.com/tangming2005) for his encouragement and the valuable knowledge he provided through various online platforms. 
 
-- I would like to thank my teachers [Asst. Prof. Dr. Supaporn Dokmaisrijan](https://www.researchgate.net/profile/Supaporn-Dokmaisrijan) and [Dr. Metha Yaikwawong](https://www.researchgate.net/profile/Metha-Yaikwawong). The person who helped me with many recommendations during the early days of my programming journey. While Dr. Supaporn said "You can try everything, except `rm -rf`, Dr. Metha always help me on R debugging (when LLM is not born yet!).  
-
+- I would like to thank my teachers [Asst. Prof. Dr. Supaporn Dokmaisrijan](https://www.researchgate.net/profile/Supaporn-Dokmaisrijan) and [Dr. Metha Yaikwawong](https://www.researchgate.net/profile/Metha-Yaikwawong)who gave me many recommendations during the early days of my programming journey. While Dr. Supaporn said "You can try everything, except `rm -rf`, Dr. Metha always helped me with R debugging (before LLMs were born!).
+ 
 - I would like to thank [Xiaole Shirley Liu](https://liulab-dfci.github.io/). I'm not personally known her; however, STAT115 (a Harvard course) helped me love the basic principles of understanding epigenetics and computational analysis. I started learning Unix according to STAT115's first lab without knowing what it was and how it would help me in computational biology. Two years later, I have my website and can do many things related to computational biology.
 
 - I would like to thank my software engineer friends (Bui Vinyunavan ang Guy Tongsan) who kindly supported my learning in Unix and answered my funny questions. My very first questions were, "What is this black screen🖥 from a computational biology course ?" and "How to understand those alien syntax" 
