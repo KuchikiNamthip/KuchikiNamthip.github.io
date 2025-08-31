@@ -102,7 +102,7 @@ ninja.data = [{
       
         title: 'From Cell line to Command Line &amp; The most Headachest person 🤣 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "J",
+      description: "From Cell Line🧫 to Command Line💻&amp;nbsp;&amp;amp; The Most Headachest person🤫Me as…🧫 Wet lab = Headache 💻 Dry lab = more Headache🧫🧬💻 Hybrid Wet-Dry = The most Headache 🤯 Anyone else feel like a human ping-pong ball between the wet lab and dry lab? 😅 I made the leap from bench work to bioinformatics hoping to be the ultimate translator... turns out, sometimes I&#39;m just fluent in headache (on both sides! 😂).Seriously though, open and early communication between our wet lab wizards and dry lab dynamos is KEY! Instead of waiting for the data to land, let&#39;s chat before experiments, during analysis, and really understand each other&#39;s world. It&#39;s a two-way street, folks!Bridging this gap isn&#39;t just about fewer headaches for us hybrids; it&#39;s about getting the absolute BEST out of our amazing skills and resources on both sides. Let&#39;s talk more, collaborate better, and make some awesome discoveries together! 🚀For everyone who transform from wet to dry like me, I would recommend a book from 🎯 Ming &quot;Tommy&quot; Tang “From Cell Line to Command Line” (https://lnkd.in/gE93XdQ5)=============As a Computational Biologist, I am just one step beyond you, also still a newbie! Keep in touch!🌸 Thai language: NO CANCER FB page/Blogger (https://lnkd.in/gQa3apBc or https://lnkd.in/gTqDK8MA)🧬 English language: The Whispers of Biology (LinkedIn/Blogger)&amp;nbsp;(https://lnkd.in/gRTnrpRz or https://lnkd.in/gRe_VtUF)#Science #Research #Biotech&amp;nbsp;#LifeSciences #STEM #Bioinformatics #ComputationalBiology",
       section: "Posts",
       handler: () => {
         
@@ -815,7 +815,7 @@ ninja.data = [{
           title: 'My ComBio Portfolio: “Phenomics - Coding x High-Throughput Imaging (2D/3D Models)” was added!...',
           description: "",
           section: "News",},{id: "news-updated-all-social-volunteer-projects-the-whispers-of-biology-no-cancer-exercise-mania-patients-miss-asthma-write2thrive",
-          title: 'Updated all Social/Volunteer Projects: 🧬The Whispers of Biology–🚫NO Cancer–🏀Exercise Mania Patients–💋Miss Asthma–🍀Write2Thrive',
+          title: 'Updated all Social/Volunteer Projects: 🧬The Whispers of Biology–🦀NO Cancer–🏀Exercise Mania Patients–💋Miss Asthma–🍀Write2Thrive',
           description: "",
           section: "News",},{id: "news-my-combio-portfolio-phenomics-coding-x-flow-cytometry-was-recently-added",
           title: 'My ComBio Portfolio: “Phenomics - Coding x Flow Cytometry” was recently added! 🎨...',
