@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Updated all Social/Volunteer Projects: [🧬The Whispers of Biology](https://kuchikinamthip.github.io/projects/WhispersBiology/)--[🚫NO Cancer](https://kuchikinamthip.github.io/projects/NoCancer/)--[🏀Exercise Mania Patients](https://www.facebook.com/share/g/8duUkQvoX8EXRZV6/)--[💋Miss Asthma](https://kuchikinamthip.github.io/projects/MissAsthma/)--[🍀Write2Thrive](https://kuchikinamthip.github.io/projects/Write2Thrive/)
+Updated all Social/Volunteer Projects: [🧬The Whispers of Biology](https://kuchikinamthip.github.io/projects/WhispersBiology/)--[🦀NO Cancer](https://kuchikinamthip.github.io/projects/NoCancer/)--[🏀Exercise Mania Patients](https://www.facebook.com/share/g/8duUkQvoX8EXRZV6/)--[💋Miss Asthma](https://kuchikinamthip.github.io/projects/MissAsthma/)--[🍀Write2Thrive](https://kuchikinamthip.github.io/projects/Write2Thrive/)
