@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of my research projects, computational biology portfolios, and social/volunteer activities.
+description: A growing collection of my research projects, computational biology portfolios, and social volunteer activities.
 nav: true
 nav_order: 3
 display_categories: [Research, ComBioPortfolio, Social/Volunteer]

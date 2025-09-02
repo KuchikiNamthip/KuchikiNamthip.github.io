@@ -43,9 +43,9 @@ Together, these resources allow researchers to reproduce the experiments, adapt 
 ---
 
 ### 🧪 Wet-Lab Protocols
-The protocols were published in [protocol.io](https://www.protocols.io/) in the colletion name [**3D-SiSP: High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures**](https://www.protocols.io/private/ECE27AC5049811EFBE540A58A9FEAC02)
+The protocols were published in [protocol.io](https://www.protocols.io/) in the colletion name [3D-SiSP: High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures](https://www.protocols.io/private/ECE27AC5049811EFBE540A58A9FEAC02)
 
-1. [**Evaluating the in vitro tumorigenicity of cancer stem cell candidate using the 3D multi-spheroid model.**](https://www.protocols.io/private/94571B42046A11EFBE540A58A9FEAC02)
+1. [Evaluating the in vitro tumorigenicity of cancer stem cell candidate using the 3D multi-spheroid model.](https://www.protocols.io/private/94571B42046A11EFBE540A58A9FEAC02)
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/3D-SiSP/wet-proc1.png" title="Schematic diagram of the in vitro tumorigenesis assessment by the 3D-SiSP." class="img-fluid rounded z-depth-1" %}
@@ -56,7 +56,7 @@ The protocols were published in [protocol.io](https://www.protocols.io/) in the 
     Schematic diagram of the in vitro tumorigenesis assessment by the 3D-SiSP. (Created by BioRender.com/Mahidol University)
 </div>
 
-2. [**Evaluating CSC content and cytotoxicity under anti-cancer drug treatments for the 3D multi-spheroid model.**](https://www.protocols.io/private/CED0FA6187C711F0B2120A58A9FEAC02)
+2. [Evaluating CSC content and cytotoxicity under anti-cancer drug treatments for the 3D multi-spheroid model.](https://www.protocols.io/private/CED0FA6187C711F0B2120A58A9FEAC02)
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/3D-SiSP/wet-proc2.png" title="Schematic diagram of the 3D multi-spheroid model for evaluating anti-cancer drugs in CCA CSCs" class="img-fluid rounded z-depth-1" %}
@@ -79,23 +79,23 @@ The analysis tutorial is composed of **5 coding modules**:
 
 1. Evaluating the **in vitro tumorigenicity** of CSC candidate for the 3D multi-spheroid model **by determining spheroid number using 3D-SiSP analytical method.**: 
    - [Material](https://github.com/KuchikiNamthip/3D-MS_CSCimaging/tree/3dd3b2827a3d77a4cd5de55d30fcde03fd987eca/1_InVitroTumorigenesis/input) 
-   - [R coding tutorial](https://github.com/KuchikiNamthip/3D-MS_CSCimaging/blob/3dd3b2827a3d77a4cd5de55d30fcde03fd987eca/1_InVitroTumorigenesis/1_NoSphere/script/20241206_Tumorigenic_SpheroidNo_WtCutOff-SISP.Rmd) 
+   - [R coding tutorial](https://github.com/KuchikiNamthip/3D-SiSP/blob/main/1-2_InVitroTumorigenesis/1_NoSphere/script/1_Tumorigenic_SpheroidNo_WtCutOff-SISP.html) 
    
 2. Evaluating the **in vitro tumorigenicity** of CSC candidate for the 3D multi-spheroid model **by determining object area using 3D-SiSP analytical method.**: 
    - [Material](https://github.com/KuchikiNamthip/3D-MS_CSCimaging/tree/3dd3b2827a3d77a4cd5de55d30fcde03fd987eca/1_InVitroTumorigenesis/input) 
-   - [R coding tutorial](https://github.com/KuchikiNamthip/3D-MS_CSCimaging/blob/3dd3b2827a3d77a4cd5de55d30fcde03fd987eca/1_InVitroTumorigenesis/2_ObjectValue/script/20241206_Tumorigenic_ObjArea_NoCutOff-SISP.Rmd) 
+   - [R coding tutorial](https://github.com/KuchikiNamthip/3D-SiSP/blob/main/1-2_InVitroTumorigenesis/2_ObjectValue/script/2_Tumorigenic_ObjArea_NoCutOff-SISP.html) 
 
 3. Investigating the relationship between **spheroid size** and their **differentiation status** for the 3D multi-spheroid model using 3D-SiSP analytical method.: 
    - [Material](https://github.com/KuchikiNamthip/3D-MS_CSCimaging/tree/3dd3b2827a3d77a4cd5de55d30fcde03fd987eca/2_Differentiation_Spheroid/input) 
-   - [R coding tutorial](https://github.com/KuchikiNamthip/3D-MS_CSCimaging/blob/3dd3b2827a3d77a4cd5de55d30fcde03fd987eca/2_Differentiation_Spheroid/script/20241206_DiffSpheroid_Size-SISP.Rmd)
+   - [R coding tutorial](https://github.com/KuchikiNamthip/3D-SiSP/blob/main/3_Differentiation_Spheroid/script/3_DiffSpheroid_Size-SISP.html)
    
 4. Evaluating **CSC content** and **cytotoxicity under anti-cancer drug treatments** for the 3D multi-spheroid model using 3D-SiSP analytical method.: 
    - [Material](https://github.com/KuchikiNamthip/3D-MS_CSCimaging/tree/3dd3b2827a3d77a4cd5de55d30fcde03fd987eca/3_Cytotoxicity_DoubleYaxis/input) 
-   - [R coding tutorial](https://github.com/KuchikiNamthip/3D-MS_CSCimaging/blob/3dd3b2827a3d77a4cd5de55d30fcde03fd987eca/3_Cytotoxicity_DoubleYaxis/script/20241206_CytotoxicEvaluate_DetailExplain_A_ForPublish-SISP.Rmd)
+   - [R coding tutorial](https://github.com/KuchikiNamthip/3D-SiSP/blob/main/4_Cytotoxicity_DoubleYaxis/script/4_CytotoxicEvaluate_DetailExplain_A_ForPublish-SISP.html)
    
 5. **Comparing CSC content among cytotoxic drugs** across a range of spheroid viability index.: 
    - [Material](https://github.com/KuchikiNamthip/3D-MS_CSCimaging/tree/3dd3b2827a3d77a4cd5de55d30fcde03fd987eca/4_CompareCSCcontent_amongDrugs/input) 
-   - [R coding tutorial](https://github.com/KuchikiNamthip/3D-MS_CSCimaging/blob/3dd3b2827a3d77a4cd5de55d30fcde03fd987eca/4_CompareCSCcontent_amongDrugs/script/20241206_3D_AUCofCSCcontent_Trapizoid_ForPublish-SISP.Rmd) 
+   - [R coding tutorial](https://github.com/KuchikiNamthip/3D-SiSP/blob/main/5_CompareCSCcontent_amongDrugs/script/5_3D_AUCofCSCcontent_Trapizoid_ForPublish-SISP.html) 
 
 ---
 ### 🧮 Citation
