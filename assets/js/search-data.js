@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of my research projects and computational biology portfolios.",
+          description: "A growing collection of my research projects, computational biology portfolios, and social/volunteer activities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -823,7 +823,12 @@ ninja.data = [{
           section: "News",},{id: "news-my-3rd-paper-as-1st-author-high-content-confocal-analysis-of-tumorigenesis-cancer-stem-cells-and-drug-response-in-3d-cholangiocarcinoma-cultures-was-published-in-scientific-report",
           title: 'My 3rd paper as 1st author “High-content confocal analysis of tumorigenesis, cancer stem...',
           description: "",
-          section: "News",},{id: "projects-cca-stem-cell",
+          section: "News",},{id: "projects-3d-sisp-for-3d-multi-spheroid-quantitative-analysis",
+          title: '3D-SiSP for 3D multi-spheroid quantitative analysis',
+          description: "Scientific Reports publication on 3D multi-spheroid CSC models and drug response profiling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3D-SiSP/";
+            },},{id: "projects-cca-stem-cell",
           title: 'CCA Stem Cell',
           description: "Cholangiocarcinoma Stem Cell Research",
           section: "Projects",handler: () => {
