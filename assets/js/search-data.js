@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of my research projects, computational biology portfolios, and social/volunteer activities.",
+          description: "A growing collection of my research projects, computational biology portfolios, and social volunteer activities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
