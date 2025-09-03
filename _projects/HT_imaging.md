@@ -197,7 +197,8 @@ The 3D multi-spheroid model was established to overcome the limitations of large
 ---
 ### 🔗 Related Projects and Resources
 - **3D-SiSP for 3D multi-spheroid quantitative analysis** [Project page →](https://kuchikinamthip.github.io/projects/3D-SiSP/)  
- 
+- **Cholangiocarcinoma Stem Cell Research**[Project page →](https://kuchikinamthip.github.io/projects/CSC/)  
+
 ---
 ## What I've Learned
 

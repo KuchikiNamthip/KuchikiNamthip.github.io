@@ -118,6 +118,14 @@ The analysis tutorial is composed of **5 coding modules**:
    - [R coding tutorial](https://kuchikinamthip.github.io/3D-SiSP/5_CompareCSCcontent_amongDrugs/script/5_3D_AUCofCSCcontent_Trapizoid_ForPublish-SISP.html) 
 
 ---
+### 🔗 Related Projects and Resources
+- **Cholangiocarcinoma Stem Cell Research**[Project page →](https://kuchikinamthip.github.io/projects/CSC/) 
+- **Computational Biology Portfolio**  
+  - **Phenomics – Coding × High-Throughput Imaging (2D/3D Models)** [Project page →](https://kuchikinamthip.github.io/projects/HT_imaging/)  
+    - The **3D multi-spheroid model** was central to both {% cite Kongtanawanich2024 %}, {% cite Kongtanawanich2025_SciAsia %} and {% cite Kongtanawanich2025_SciRep %}, with intensive quantitative analysis showcased in the latter.  
+    - This project also empowers wet-lab data from **three models (2D, 3D multi-spheroid, and 3D multicellular spheroid)** by integrating dry-lab coding pipelines to generate deeper insights into cancer biology.  
+
+---
 ### 🧮 Citation
 
 If you use 3D-SiSP in your research, please cite:

@@ -48,9 +48,8 @@ This project has yielded significant results, including:
 - **3D-SiSP for 3D multi-spheroid quantitative analysis** [Project page →](https://kuchikinamthip.github.io/projects/3D-SiSP/)  
 
 - **Computational Biology Portfolio**  
-
   - **Phenomics – Coding × High-Throughput Imaging (2D/3D Models)** [Project page →](https://kuchikinamthip.github.io/projects/HT_imaging/)  
-    - The **3D multi-spheroid model** was central to both {% cite Kongtanawanich2024 %} and {% cite Kongtanawanich2025_SciRep %}, with intensive quantitative analysis showcased in the latter.  
+    - The **3D multi-spheroid model** was central to both {% cite Kongtanawanich2024 %}, {% cite Kongtanawanich2025_SciAsia %} and {% cite Kongtanawanich2025_SciRep %}, with intensive quantitative analysis showcased in the latter. 
     - This project also empowers wet-lab data from **three models (2D, 3D multi-spheroid, and 3D multicellular spheroid)** by integrating dry-lab coding pipelines to generate deeper insights into cancer biology.  
   - **Phenomics – Coding × Flow Cytometry** [Project page →](https://kuchikinamthip.github.io/projects/FlowCytometry/)  
     - Focused on exploring the **heterogeneity of CSCs** by identifying subpopulations of CCA CSCs.  
