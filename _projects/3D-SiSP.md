@@ -28,17 +28,37 @@ toc:
 ---
 
 ### 📖 Brief introduction
+<div class="row align-items-center">
+  <div class="col-md-8">
+    <div>
 
-**3D Surface Integrative Spheroid Profiling (3D-SiSP)** is a high-content confocal imaging–based methodology developed for **quantitative analysis of 3D multi-spheroid cultures** in cholangiocarcinoma (CCA). 
+      <p>
+      <b>3D Surface Integrative Spheroid Profiling (3D-SiSP)</b> is a high-content confocal imaging–based methodology developed for <b>quantitative analysis of 3D multi-spheroid cultures</b> in cholangiocarcinoma (CCA). 
+      </p>
 
-This approach was designed to overcome the limitations of traditional 2D cultures and length-based spheroid measurements by providing a flexible and scalable framework that captures both spheroid morphology and cancer stem cell (CSC) dynamics.  
+      <p>
+        This approach was designed to overcome the limitations of traditional 2D cultures and length-based spheroid measurements by providing a flexible and scalable framework that captures both spheroid morphology and cancer stem cell (CSC) dynamics.  
+      </p>
 
-On this page, we provide two key resources linked to our **Scientific Reports (2025)** publication {% cite Kongtanawanich2025_SciRep %}:  
+      <p>
+        On this page, we provide two key resources linked to our <b>Scientific Reports (2025)</b> publication {% cite Kongtanawanich2025_SciRep %}:  
+      </p>
 
-- **Wet-lab protocols**: step-by-step laboratory methods published on [protocols.io](https://www.protocols.io/), covering spheroid preparation, CSC biosensor use, tumorigenicity assays, and drug-response evaluation.  
-- **R coding tutorials**: five analysis modules that guide users through quantitative image analysis, CSC differentiation assessment, and drug-response profiling in 3D cultures.  
+      <ul>
+        <li><b>Wet-lab protocols</b>: step-by-step laboratory methods published on <a href="https://www.protocols.io/">protocols.io</a>, covering spheroid preparation, CSC biosensor use, tumorigenicity assays, and drug-response evaluation.</li>
+        <li><b>R coding tutorials</b>: five analysis modules that guide users through quantitative image analysis, CSC differentiation assessment, and drug-response profiling in 3D cultures.</li>
+      </ul>
 
-Together, these resources allow researchers to reproduce the experiments, adapt the pipelines to their own 3D culture systems, and integrate both **experimental** and **computational** workflows for CSC research and anti-cancer drug testing.
+      <p>
+        Together, these resources allow researchers to reproduce the experiments, adapt the pipelines to their own 3D culture systems, and integrate both <b>experimental</b> and <b>computational</b> workflows for CSC research and anti-cancer drug testing.
+      </p>
+    </div>
+  </div>
+
+  <div class="col-md-4 text-right" style="max-width: 28%;">
+    {% include figure.liquid loading="eager" path="assets/img/3D-SiSP/3D-method.jpg" title="3D-SiSP wet and dry methods" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 28%;" %}
+  </div>
+</div>
 
 ---
 
