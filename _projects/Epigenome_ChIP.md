@@ -57,7 +57,7 @@ This is the first epigenomics analysis. I picked ChIP-seq first because it is cl
 
 - I would like to thank [Prof. Dr. Xiaole Shirley Liu](https://liulab-dfci.github.io/). I do not persocally know her, however, STAT115 (a Harvard course she taught) help me love basic and principle understanding of epigenetics and computational analysis. 
 
-- I would like to thank [Prof. Dr. Apiwat Mutirangura](https://scholar.google.co.th/citations?user=KBpzI14AAAAJ&hl=th). I had been trained in his lab at Chulalongkorn University when I was an undergraduate student; that was the first and great time I learned about epigenomics.
+- I would like to thank [Prof. Dr. Apiwat Mutirangura](https://scholar.google.co.th/citations?user=KBpzI14AAAAJ&hl=en). I had been trained in his lab at Chulalongkorn University when I was an undergraduate student; that was the first and great time I learned about epigenomics.
 
 - Lastly, I would like to thank my Ph.D. advisor, [Assoc. Prof. Dr. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. 🤩🤩
 
