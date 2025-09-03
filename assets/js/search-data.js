@@ -820,7 +820,7 @@ ninja.data = [{
           section: "News",},{id: "news-my-combio-portfolio-phenomics-coding-x-flow-cytometry-was-recently-added",
           title: 'My ComBio Portfolio: “Phenomics - Coding x Flow Cytometry” was recently added! 🎨...',
           description: "",
-          section: "News",},{id: "news-my-3rd-paper-as-1st-author-high-content-confocal-analysis-of-tumorigenesis-cancer-stem-cells-and-drug-response-in-3d-cholangiocarcinoma-cultures-was-published-in-scientific-report",
+          section: "News",},{id: "news-my-3rd-paper-as-1st-author-high-content-confocal-analysis-of-tumorigenesis-cancer-stem-cells-and-drug-response-in-3d-cholangiocarcinoma-cultures-was-published-in-scientific-report-full-paper-resources",
           title: 'My 3rd paper as 1st author “High-content confocal analysis of tumorigenesis, cancer stem...',
           description: "",
           section: "News",},{id: "projects-3d-sisp-for-3d-multi-spheroid-quantitative-analysis",
