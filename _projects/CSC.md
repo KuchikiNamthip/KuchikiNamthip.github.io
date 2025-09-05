@@ -36,7 +36,10 @@ The **3D multi-spheroids model** formed the foundation of our recent publication
 
 ### 📚 Publications
 This project has yielded significant results, including:  
-- Original research articles {% cite Kongtanawanich2024 %}, {% cite Kongtanawanich2025_SciAsia %}, {% cite Kongtanawanich2025_SciRep %}.  
+- Original research articles 
+  - Kongtanawanich K, Jamnongsong S, Hokland M, Wattanapanitch M, Jirawatnotai S. High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures. Sci Rep. 2025;15(1):31387. {% cite Kongtanawanich2025_SciRep %}
+  - Kongtanawanich K, Likasitwanakul P, Wattanapanitch M, Jirawatnotai S. Optimization of in vitro cell culture conditions suitable for the cholangiocarcinoma stem cell study. Sci Asia. 2025;51(4):1-8. {% cite Kongtanawanich2025_SciAsia %}
+  - Kongtanawanich K, Prasopporn S, Jamnongsong S, Thongsin N, Payungwong T, Okada S, et al. A live single-cell reporter system reveals drug-induced plasticity of a cancer stem cell-like population in cholangiocarcinoma. Sci Rep. 2024;14(1):22619. {% cite Kongtanawanich2024 %}
 - Presentations at both international and national conferences:  
   - **45th Thai Pharmacological and Therapeutic Society Conference**: Poster presentation on *“Analyzing Anchorage-Independent Tumorigenesis of the Live Cholangiocarcinoma Stem Cell Biosensor Using High-Throughput Imaging and Computational Pipelines” {% cite Kongtanawanich2024Poster %}.  
   - **The Cholangiocarcinoma Foundation's Annual Conference 2022**: Poster presentation on *“Live-biosensor identified subpopulations of cholangiocarcinoma cell lines that contain cancer stem cell properties”* {% cite Kongtanawanich2022Poster %}.  
