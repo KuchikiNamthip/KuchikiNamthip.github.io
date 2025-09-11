@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My ComBio Portfolio: [My Computer Workbench](https://kuchikinamthip.github.io/projects/ComSetting/)  format changes :smile: easy to read!
+My ComBio Portfolio: [My Computer Workbench](https://kuchikinamthip.github.io/projects/ComSetting/) format changes :smile: easy to read!

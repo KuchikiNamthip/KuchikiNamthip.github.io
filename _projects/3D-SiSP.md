@@ -14,34 +14,38 @@ toc:
 ## High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures
 
 <!-- ✅ Research Highlights -->
+
 ![Peer Reviewed](https://img.shields.io/badge/Peer--reviewed-✔-brightgreen?style=for-the-badge&logo=academia)
 ![Journal](https://img.shields.io/badge/Scientific%20Reports-Nature%20Portfolio-blueviolet?style=for-the-badge&logo=nature)
-[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--025--16144--9-orange?style=for-the-badge&logo=doi)](https://doi.org/10.1038/s41598-025-16144-9)  
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--025--16144--9-orange?style=for-the-badge&logo=doi)](https://doi.org/10.1038/s41598-025-16144-9)
 
 <!-- 📑 Protocols -->
-[![Protocols.io](https://img.shields.io/badge/Protocols.io-Available-ff69b4?style=for-the-badge&logo=protocols.io)](https://www.protocols.io/private/ECE27AC5049811EFBE540A58A9FEAC02)  
+
+[![Protocols.io](https://img.shields.io/badge/Protocols.io-Available-ff69b4?style=for-the-badge&logo=protocols.io)](https://www.protocols.io/private/ECE27AC5049811EFBE540A58A9FEAC02)
 
 <!-- 💻 Versions + Code -->
+
 [![3D-SiSP Code Source](https://img.shields.io/badge/GitHub-3D--SiSP%20R%20Code%20Tutorial-lightgrey?style=social&logo=github)](https://kuchikinamthip.github.io/projects/3D-SiSP)
 ![R Version](https://img.shields.io/badge/R-4.3.3-276DC3?style=flat&logo=r)
 
 ---
 
 ### 📖 Brief introduction
+
 <div class="row align-items-center">
   <div class="col-md-8">
     <div>
 
       <p>
-      <b>3D Surface Integrative Spheroid Profiling (3D-SiSP)</b> is a high-content confocal imaging–based methodology developed for <b>quantitative analysis of 3D multi-spheroid cultures</b> in cholangiocarcinoma (CCA). 
+      <b>3D Surface Integrative Spheroid Profiling (3D-SiSP)</b> is a high-content confocal imaging–based methodology developed for <b>quantitative analysis of 3D multi-spheroid cultures</b> in cholangiocarcinoma (CCA).
       </p>
 
       <p>
-        This approach was designed to overcome the limitations of traditional 2D cultures and length-based spheroid measurements by providing a flexible and scalable framework that captures both spheroid morphology and cancer stem cell (CSC) dynamics.  
+        This approach was designed to overcome the limitations of traditional 2D cultures and length-based spheroid measurements by providing a flexible and scalable framework that captures both spheroid morphology and cancer stem cell (CSC) dynamics.
       </p>
 
       <p>
-        On this page, we provide two key resources linked to our <b>Scientific Reports (2025)</b> publication {% cite Kongtanawanich2025_SciRep %}:  
+        On this page, we provide two key resources linked to our <b>Scientific Reports (2025)</b> publication {% cite Kongtanawanich2025_SciRep %}:
       </p>
 
       <ul>
@@ -53,6 +57,7 @@ toc:
         Together, these resources allow researchers to reproduce the experiments, adapt the pipelines to their own 3D culture systems, and integrate both <b>experimental</b> and <b>computational</b> workflows for CSC research and anti-cancer drug testing.
       </p>
     </div>
+
   </div>
 
   <div class="col-md-4 text-right" style="max-width: 28%;">
@@ -63,6 +68,7 @@ toc:
 ---
 
 ### 🧪 Wet-Lab Protocols
+
 The protocols were published in [protocol.io](https://www.protocols.io/) in the colletion name [3D-SiSP: High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures](https://www.protocols.io/private/ECE27AC5049811EFBE540A58A9FEAC02)
 
 1. [Evaluating the in vitro tumorigenicity of cancer stem cell candidate using the 3D multi-spheroid model.](https://www.protocols.io/private/94571B42046A11EFBE540A58A9FEAC02)
@@ -90,50 +96,55 @@ The protocols were published in [protocol.io](https://www.protocols.io/) in the 
 ---
 
 ### 🚀 R Coding Tutorial
+
 #### ⚙️ Installation requirements
-   **R (≥ 4.3.3)** and RStudio  
-   See [R installation guide](https://rstudio-education.github.io/hopr/starting.html).
+
+**R (≥ 4.3.3)** and RStudio  
+ See [R installation guide](https://rstudio-education.github.io/hopr/starting.html).
 
 #### 🔬 Analysis Modules
-The analysis tutorial is composed of **5 coding modules**:  
 
-1. Evaluating the **in vitro tumorigenicity** of CSC candidate for the 3D multi-spheroid model **by determining spheroid number using 3D-SiSP analytical method.**: 
-   - [Material](https://github.com/KuchikiNamthip/3D-SiSP/tree/main/1-2_InVitroTumorigenesis/input) 
-   - [R coding tutorial](https://kuchikinamthip.github.io/3D-SiSP/1-2_InVitroTumorigenesis/1_NoSphere/script/1_Tumorigenic_SpheroidNo_WtCutOff-SISP.html) 
-   
-2. Evaluating the **in vitro tumorigenicity** of CSC candidate for the 3D multi-spheroid model **by determining object area using 3D-SiSP analytical method.**: 
-   - [Material](https://github.com/KuchikiNamthip/3D-SiSP/tree/main/1-2_InVitroTumorigenesis/input) 
-   - [R coding tutorial](https://kuchikinamthip.github.io/3D-SiSP/1-2_InVitroTumorigenesis/2_ObjectValue/script/2_Tumorigenic_ObjArea_NoCutOff-SISP.html)  
+The analysis tutorial is composed of **5 coding modules**:
 
-3. Investigating the relationship between **spheroid size** and their **differentiation status** for the 3D multi-spheroid model using 3D-SiSP analytical method.: 
-   - [Material](https://github.com/KuchikiNamthip/3D-SiSP/tree/main/3_Differentiation_Spheroid/input) 
+1. Evaluating the **in vitro tumorigenicity** of CSC candidate for the 3D multi-spheroid model **by determining spheroid number using 3D-SiSP analytical method.**:
+   - [Material](https://github.com/KuchikiNamthip/3D-SiSP/tree/main/1-2_InVitroTumorigenesis/input)
+   - [R coding tutorial](https://kuchikinamthip.github.io/3D-SiSP/1-2_InVitroTumorigenesis/1_NoSphere/script/1_Tumorigenic_SpheroidNo_WtCutOff-SISP.html)
+2. Evaluating the **in vitro tumorigenicity** of CSC candidate for the 3D multi-spheroid model **by determining object area using 3D-SiSP analytical method.**:
+
+   - [Material](https://github.com/KuchikiNamthip/3D-SiSP/tree/main/1-2_InVitroTumorigenesis/input)
+   - [R coding tutorial](https://kuchikinamthip.github.io/3D-SiSP/1-2_InVitroTumorigenesis/2_ObjectValue/script/2_Tumorigenic_ObjArea_NoCutOff-SISP.html)
+
+3. Investigating the relationship between **spheroid size** and their **differentiation status** for the 3D multi-spheroid model using 3D-SiSP analytical method.:
+   - [Material](https://github.com/KuchikiNamthip/3D-SiSP/tree/main/3_Differentiation_Spheroid/input)
    - [R coding tutorial](https://kuchikinamthip.github.io/3D-SiSP/3_Differentiation_Spheroid/script/3_DiffSpheroid_Size-SISP.html)
-   
-4. Evaluating **CSC content** and **cytotoxicity under anti-cancer drug treatments** for the 3D multi-spheroid model using 3D-SiSP analytical method.: 
-   - [Material](https://github.com/KuchikiNamthip/3D-SiSP/tree/main/4_Cytotoxicity_DoubleYaxis/input) 
+4. Evaluating **CSC content** and **cytotoxicity under anti-cancer drug treatments** for the 3D multi-spheroid model using 3D-SiSP analytical method.:
+   - [Material](https://github.com/KuchikiNamthip/3D-SiSP/tree/main/4_Cytotoxicity_DoubleYaxis/input)
    - [R coding tutorial](hhttps://kuchikinamthip.github.io/3D-SiSP/4_Cytotoxicity_DoubleYaxis/script/4_CytotoxicEvaluate_DetailExplain_A_ForPublish-SISP.html)
-   
-5. **Comparing CSC content among cytotoxic drugs** across a range of spheroid viability index.: 
-   - [Material](https://github.com/KuchikiNamthip/3D-SiSP/tree/main/5_CompareCSCcontent_amongDrugs/input) 
-   - [R coding tutorial](https://kuchikinamthip.github.io/3D-SiSP/5_CompareCSCcontent_amongDrugs/script/5_3D_AUCofCSCcontent_Trapizoid_ForPublish-SISP.html) 
+5. **Comparing CSC content among cytotoxic drugs** across a range of spheroid viability index.:
+   - [Material](https://github.com/KuchikiNamthip/3D-SiSP/tree/main/5_CompareCSCcontent_amongDrugs/input)
+   - [R coding tutorial](https://kuchikinamthip.github.io/3D-SiSP/5_CompareCSCcontent_amongDrugs/script/5_3D_AUCofCSCcontent_Trapizoid_ForPublish-SISP.html)
 
 ---
+
 ### 🔗 Related Projects and Resources
-- **Cholangiocarcinoma Stem Cell Research**[Project page →](https://kuchikinamthip.github.io/projects/CSC/) 
-- **Computational Biology Portfolio**  
-  - **Phenomics – Coding × High-Throughput Imaging (2D/3D Models)** [Project page →](https://kuchikinamthip.github.io/projects/HT_imaging/)  
-    - The **3D multi-spheroid model** was central to both {% cite Kongtanawanich2024 %}, {% cite Kongtanawanich2025_SciAsia %} and {% cite Kongtanawanich2025_SciRep %}, with intensive quantitative analysis showcased in the latter.  
-    - This project also empowers wet-lab data from **three models (2D, 3D multi-spheroid, and 3D multicellular spheroid)** by integrating dry-lab coding pipelines to generate deeper insights into cancer biology.  
+
+- **Cholangiocarcinoma Stem Cell Research**[Project page →](https://kuchikinamthip.github.io/projects/CSC/)
+- **Computational Biology Portfolio**
+  - **Phenomics – Coding × High-Throughput Imaging (2D/3D Models)** [Project page →](https://kuchikinamthip.github.io/projects/HT_imaging/)
+    - The **3D multi-spheroid model** was central to both {% cite Kongtanawanich2024 %}, {% cite Kongtanawanich2025_SciAsia %} and {% cite Kongtanawanich2025_SciRep %}, with intensive quantitative analysis showcased in the latter.
+    - This project also empowers wet-lab data from **three models (2D, 3D multi-spheroid, and 3D multicellular spheroid)** by integrating dry-lab coding pipelines to generate deeper insights into cancer biology.
 
 ---
+
 ### 🧮 Citation
 
 If you use 3D-SiSP in your research, please cite:
 
-Kongtanawanich, K., Jamnongsong, S., Hokland, M. et al. High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures. *Sci Rep* 15, 31387 (2025). DOI: [10.1038/s41598-025-16144-9](https://doi.org/10.1038/s41598-025-16144-9)
+Kongtanawanich, K., Jamnongsong, S., Hokland, M. et al. High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures. _Sci Rep_ 15, 31387 (2025). DOI: [10.1038/s41598-025-16144-9](https://doi.org/10.1038/s41598-025-16144-9)
 
 ---
 
 ### 👩‍🔬 Contributors
+
 This project is developed and maintained by  
 **Namthip Krittiyabhorn Kongtanawanich** ([@KuchikiNamthip](https://kuchikinamthip.github.io/)) at the **Siriraj Center of Research Excellence for Precision Medicine and Systems Pharmacology**, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand:contentReference.

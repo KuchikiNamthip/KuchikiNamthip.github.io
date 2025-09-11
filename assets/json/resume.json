@@ -224,24 +224,13 @@
       "name": "Computational Biology",
       "level": "Master",
       "icon": "fa-solid fa-laptop",
-      "keywords": [
-        "Transcriptomics",
-        "Epigenomics",
-        "High Content & High Throughput Image Analysis for 2D/3D cell culture"
-      ]
+      "keywords": ["Transcriptomics", "Epigenomics", "High Content & High Throughput Image Analysis for 2D/3D cell culture"]
     },
     {
       "name": "Programming Languages & Tools",
       "level": "Master",
       "icon": "fa-solid fa-laptop",
-      "keywords": [
-        "R",
-        "Unix command line",
-        "Python",
-        "Docker",
-        "Git", 
-        "Nextflow"
-      ]
+      "keywords": ["R", "Unix command line", "Python", "Docker", "Git", "Nextflow"]
     }
   ],
   "languages": [
@@ -260,22 +249,12 @@
     {
       "name": "Cancer Biology",
       "icon": "fa-solid fa-laptop",
-      "keywords": [
-        "Cellular Plasticity",
-        "Cancer Stem Cell",
-        "Cancer Drug Resistance",
-        "Cancer Metastasis",
-        "Tumor Microenvironment"
-      ]
+      "keywords": ["Cellular Plasticity", "Cancer Stem Cell", "Cancer Drug Resistance", "Cancer Metastasis", "Tumor Microenvironment"]
     },
     {
       "name": "Computational Biology",
       "icon": "fa-solid fa-laptop",
-      "keywords": [
-        "Transcriptomics",
-        "Epigenetics",
-        "High Content & High Throughput Image Analysis"
-      ]
+      "keywords": ["Transcriptomics", "Epigenetics", "High Content & High Throughput Image Analysis"]
     }
   ],
   "references": [

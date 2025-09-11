@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  The Whispers of Biology
-description: Sharing my scientific thoughts, computational biology tricks, and other insights with scientific friends. I hope we can pursue our passion for science together.  
+title: The Whispers of Biology
+description: Sharing my scientific thoughts, computational biology tricks, and other insights with scientific friends. I hope we can pursue our passion for science together.
 img: assets/img/Whisper-logo1.png
 importance: 1
 category: Social/Volunteer
@@ -9,6 +9,7 @@ giscus_comments: true
 toc:
   sidebar: left
 ---
+
 ### About "The Whispers of Biology"
 
 <div class="row justify-content-center">
@@ -24,7 +25,7 @@ toc:
 
 ### Our Story
 
-The name *“The Whispers of Biology”* comes from a profound experience during the founder's Ph.D. studies. In research, the outcome of an experiment is often unpredictable, with many possible paths to follow. It was a favorite saying of the founder’s advisor that inspired the name: "It depends on where the biology leads us." This phrase perfectly captures the essence of scientific discovery—we simply follow the "whispers" of science and see where the journey takes us. This blog is a place to share the excitement and passion that comes from analyzing complex results and unraveling the mysteries of biology, particularly in the field of oncology.
+The name _“The Whispers of Biology”_ comes from a profound experience during the founder's Ph.D. studies. In research, the outcome of an experiment is often unpredictable, with many possible paths to follow. It was a favorite saying of the founder’s advisor that inspired the name: "It depends on where the biology leads us." This phrase perfectly captures the essence of scientific discovery—we simply follow the "whispers" of science and see where the journey takes us. This blog is a place to share the excitement and passion that comes from analyzing complex results and unraveling the mysteries of biology, particularly in the field of oncology.
 
 ### What We Do
 
@@ -36,52 +37,62 @@ Our target audience is anyone with a love for science, from students to seasoned
 
 > "When biology whispers to you, follow the path it leads."
 > \
-> *The Whispers of Biology*
+> _The Whispers of Biology_
 
 ### Find Us Here
-* [**LinkedIn:**](https://www.linkedin.com/in/kuchikinamthip/) This is the most update one!
-* [**X**](https://twitter.com/Kuchiki_Namthip)
-* [**Blog on my website**](https://kuchikinamthip.github.io/blog/) I will collect all post here.
-* [**Google Blog**](https://thewhispersofbiology.blogspot.com/) I will collect all post here.
-* [**Medium**](https://medium.com/@kuchikinamthip) 
-* [**GitHub Repo**](https://github.com/KuchikiNamthip?tab=repositories): For my technical note on computational biology.
-* [**YouTube:**](https://www.youtube.com/@TheWhispersofBiology) waiting for update
+
+- [**LinkedIn:**](https://www.linkedin.com/in/kuchikinamthip/) This is the most update one!
+- [**X**](https://twitter.com/Kuchiki_Namthip)
+- [**Blog on my website**](https://kuchikinamthip.github.io/blog/) I will collect all post here.
+- [**Google Blog**](https://thewhispersofbiology.blogspot.com/) I will collect all post here.
+- [**Medium**](https://medium.com/@kuchikinamthip)
+- [**GitHub Repo**](https://github.com/KuchikiNamthip?tab=repositories): For my technical note on computational biology.
+- [**YouTube:**](https://www.youtube.com/@TheWhispersofBiology) waiting for update
 
 ---
+
 ### 🧶Table of contents🧶
+
 ##### 🍭Cancer Genetics: History&Consequences
+
 - [Fight Against Cancer 1932](https://thewhispersofbiology.blogspot.com/2025/04/fight-against-cancer-1932.html)
 
 ##### 🍭Reproducibility Computational Biology
+
 - [🚀 Streamlining RStudio Server with Docker Compose!](https://thewhispersofbiology.blogspot.com/2025/08/streamlining-rstudio-server-with-docker.html)
 
 #### 🍭Follow the Scientists's footstep
+
 - [1st met Nobel Laureate (like met a Hollywood Star)](https://thewhispersofbiology.blogspot.com/2025/08/1st-met-nobel-laureate-like-hollywood.html)
-  
+
 ##### 🍭My ComBio Learning Path
+
 - [Vibe Coding: When everything in coding is thrown to AI 🤖](https://thewhispersofbiology.blogspot.com/2025/08/vibe-coding-when-everything-in-coding.html)
 
 ##### 🍭Others
+
 - [The Conference To End All Conferences: "Woodstock.Bio2 + Night Science"](https://thewhispersofbiology.blogspot.com/2025/08/the-conference-to-end-all-conferences.html)
 
 ---
+
 ### Acknowledgement
 
-*"The Whispers of Biology"* would not be possible without the incredible support and guidance of many mentors along the way including *Emeritus Professor M.R. Jisnuson Svasti*, *Prof. Dr. Apiwat Mutirangura*, *Assoc. Prof. Dr. Nakarin Kitkumthorn*, and *Asst. Prof. Dr. Worapong Phupong*. 
+_"The Whispers of Biology"_ would not be possible without the incredible support and guidance of many mentors along the way including _Emeritus Professor M.R. Jisnuson Svasti_, _Prof. Dr. Apiwat Mutirangura_, _Assoc. Prof. Dr. Nakarin Kitkumthorn_, and _Asst. Prof. Dr. Worapong Phupong_.
 
-🧩 I am especially grateful to [*Dr. Kriengsak Lirdprapamongkol*](https://www.cri.or.th/dr-kriengsak-lirdprapamongkol/) and [*Assoc. Prof. Dr. Jitbanjong Tangpong*](https://scholar.google.com/citations?user=kHV6NnkAAAAJ&hl=en) who have mentored me since high school, and to [*Assoc. Prof. Dr. Apichart Apiratin*](https://www.researchgate.net/profile/Apichart-Atipairin) who served as my Pharm.D. thesis advisor. 
+🧩 I am especially grateful to [_Dr. Kriengsak Lirdprapamongkol_](https://www.cri.or.th/dr-kriengsak-lirdprapamongkol/) and [_Assoc. Prof. Dr. Jitbanjong Tangpong_](https://scholar.google.com/citations?user=kHV6NnkAAAAJ&hl=en) who have mentored me since high school, and to [_Assoc. Prof. Dr. Apichart Apiratin_](https://www.researchgate.net/profile/Apichart-Atipairin) who served as my Pharm.D. thesis advisor.
 
-🧩 I would like to extend my heartfelt thanks to [*Dr. Ming (Tommy) Tang*](https://x.com/tangming2005) for his invaluable encouragement and the wealth of knowledge he has generously shared through his various online platforms. His tutorials, books, and blogs—each a masterclass in breaking down complex topics from foundational principles to advanced concepts—have been instrumental in making my journey into computational biology possible. Tommy's consistent encouragement to share my own experiences with others has been particularly impactful. It led me to connect with many friends in the community, and it is this spirit of sharing, conversing, and helping others that continues to inspire my own efforts in building a supportive community.
+🧩 I would like to extend my heartfelt thanks to [_Dr. Ming (Tommy) Tang_](https://x.com/tangming2005) for his invaluable encouragement and the wealth of knowledge he has generously shared through his various online platforms. His tutorials, books, and blogs—each a masterclass in breaking down complex topics from foundational principles to advanced concepts—have been instrumental in making my journey into computational biology possible. Tommy's consistent encouragement to share my own experiences with others has been particularly impactful. It led me to connect with many friends in the community, and it is this spirit of sharing, conversing, and helping others that continues to inspire my own efforts in building a supportive community.
 
-🧩 I would like to express my deepest gratitude especially to my Ph.D. advisor, [*Assoc.Prof.Dr. Siwanon Jirawatnotai*](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en), whose wisdom and insight helped me to navigate the complex world of scientific research. It was his phrase, "It depends on where the biology leads us," that sparked the idea for this project and taught me to embrace the unpredictable and beautiful journey of scientific discovery. Thank you for your belief in my potential and for showing me the true art of following the whispers of science.
+🧩 I would like to express my deepest gratitude especially to my Ph.D. advisor, [_Assoc.Prof.Dr. Siwanon Jirawatnotai_](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en), whose wisdom and insight helped me to navigate the complex world of scientific research. It was his phrase, "It depends on where the biology leads us," that sparked the idea for this project and taught me to embrace the unpredictable and beautiful journey of scientific discovery. Thank you for your belief in my potential and for showing me the true art of following the whispers of science.
 
 🎯 My Ph.D. advisor encourages me to write in Thai to connect with the local community [**(NO CANCER THAILAND)**](https://kuchikinamthip.github.io/projects/NoCancer/). \
-🎯 While Tommy cheers me on to write in English to reach a global audience [**(The Whispers of Biology)**](https://kuchikinamthip.github.io/projects/WhispersBiology/). 
+🎯 While Tommy cheers me on to write in English to reach a global audience [**(The Whispers of Biology)**](https://kuchikinamthip.github.io/projects/WhispersBiology/).
 
-**The result? I write in both!** 
+**The result? I write in both!**
 I am grateful for their support 🥰🥰, which has empowered me to share my experiences and insights with a wider audience, no matter the language.
 
 ---
-I'm very happy 🥰 that you are visiting my project and would be even happier if you could provide suggestions or feedback 🤩. 
+
+I'm very happy 🥰 that you are visiting my project and would be even happier if you could provide suggestions or feedback 🤩.
 
 You can contact me through various online platforms [here 📬](https://kuchikinamthip.github.io/) or leave a comment below using GitHub account. 👇🏼

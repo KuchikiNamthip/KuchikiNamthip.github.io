@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Write to Thrive - Growing Together in Ink
-description: My Personal Blog, where I share my perspective and lived experiences in Thai language. 
+title: Write to Thrive - Growing Together in Ink
+description: My Personal Blog, where I share my perspective and lived experiences in Thai language.
 img: assets/img/Write2Thrive.png
 importance: 5
 category: Social/Volunteer
@@ -9,6 +9,7 @@ giscus_comments: true
 toc:
   sidebar: left
 ---
+
 ### About "Write to Thrive - Growing Together in Ink"
 
 <div class="row justify-content-center">
@@ -37,30 +38,37 @@ Here, I share a variety of content—from personal reflections and life lessons 
 My primary audience is the Thai-speaking community. I aim to create a supportive and engaging environment where readers can find comfort, inspiration, and a sense of shared experience. I believe that by openly sharing our stories, we can all learn and thrive. I hope this blog becomes a trusted space for anyone looking for a friend in words, a place to reflect, and a community to grow with.
 
 ### Find Us Here
-* [**Facebook**](https://thewhispersofbiology.blogspot.com/) All posts are here without any categorization, but along the life time. It is alot till a friend said "I can collect it for a book!"
-* [**Google Blog**](https://thewhispersofbiology.blogspot.com/) I will collect all post from Facebook(from memories) here. You may have to wait a year for all those. 🤗
+
+- [**Facebook**](https://thewhispersofbiology.blogspot.com/) All posts are here without any categorization, but along the life time. It is alot till a friend said "I can collect it for a book!"
+- [**Google Blog**](https://thewhispersofbiology.blogspot.com/) I will collect all post from Facebook(from memories) here. You may have to wait a year for all those. 🤗
 
 ---
+
 ### 🧶Table of contents🧶
+
 ##### 🍭Namthip x งานวิจัยมะเร็ง
-- [ตอนที่ 0: สะเปะสะปะกว่าจะมาถึงเส้นทางวิจัย](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-0.html) 
-- [ตอนที่ 1: ค่ายไม่เล็กที่มีแต่ผู้ใหญ่ใจดีปูทางเด็กบ้านนอกสู่เส้นทางวิจัย](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-1.html) 
+
+- [ตอนที่ 0: สะเปะสะปะกว่าจะมาถึงเส้นทางวิจัย](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-0.html)
+- [ตอนที่ 1: ค่ายไม่เล็กที่มีแต่ผู้ใหญ่ใจดีปูทางเด็กบ้านนอกสู่เส้นทางวิจัย](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-1.html)
 - [ตอนที่ 2: ตรึงใจเด็ก ม.ปลาย เปิดโลกวิจัยที่สถาบันวิจัยจุฬาภรณ์](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-2.html)
 - [ตอนที่ 3: ตะลุยดงวิจัย ทำไมวิจัยมีมะเร็งมีหลายแบบจัง](https://write-2-thrive.blogspot.com/2021/09/Namthip-CancerRes-3.html)
-- [ตอนที่ 4: รู้จักมะเร็งแบบเหนือชั้น เหนือพันธุกรรมคืออะไร](https://write-2-thrive.blogspot.com/2024/09/Namthip-CancerRes-4.html) 
+- [ตอนที่ 4: รู้จักมะเร็งแบบเหนือชั้น เหนือพันธุกรรมคืออะไร](https://write-2-thrive.blogspot.com/2024/09/Namthip-CancerRes-4.html)
 - [ตอนที่ 5: เมื่อฉันรักวิทยาศาสตร์ อย่างที่ไม่สนมะรงมะเร็งอะไรทั้งนั้น](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-5.html)
-- [ตอนที่ 6: ปริญญาเอก วิชาหนังชีวิต Scientific Lineage และผู้ช่วยชีวิตอย่าง Mentor](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-6.html) 
+- [ตอนที่ 6: ปริญญาเอก วิชาหนังชีวิต Scientific Lineage และผู้ช่วยชีวิตอย่าง Mentor](https://write-2-thrive.blogspot.com/2025/02/Namthip-CancerRes-6.html)
 - [ตอนที่ 7: ถ้าเธอติ่ง GOT7 ฉันก็ติ่งนักวิทยาศาสตร์](https://write-2-thrive.blogspot.com/2025/06/CancerRes-07.html)
 - [ตอนพิเศษ: อะไรที่ดลจิตดลใจให้เดินไปหาปริญญาเอก](https://write-2-thrive.blogspot.com/2025/08/namthip-x.html)
 
 ##### 🍭เส้นทางสายเภสัชศาสตร์
+
 - [#นศภAndTheWard ตอน #มาม่าวันแม่ (1/2)](https://write-2-thrive.blogspot.com/2025/08/andtheward.html)
 - [#นศภAndTheWard #นศภAndTheDrugStore ตอน #มาม่าวันแม่ (2/2)](https://write-2-thrive.blogspot.com/2025/08/andtheward-andthedrugstore-22.html)
 
 ##### 🍭ทุกที่มีประวัติและเรื่องราว
+
 - [ภาพวาดของผู้ทรงศักดิ์ในหอสมุดศิริราชและเป็นที่มาของชื่อพิพิธภัณฑ์](https://write-2-thrive.blogspot.com/2025/08/blog-post_94.html)
 
 ##### 🍭Life Experience & Perspective
+
 - [พระคุณของคุณยายขายโตเกียวหน้าโรงเรียน](https://write-2-thrive.blogspot.com/2025/08/blog-post_10.html)
 - [วันนึงโตขึ้น เราจะไม่เป็นคนแบบนั้น คนแบบที่เราไม่ชอบ](https://write-2-thrive.blogspot.com/2025/08/blog-post.html): Written in March 21, 2019
 - [Productive ตอน 2](https://write-2-thrive.blogspot.com/2025/08/productive-2.html): Written in Aug 8, 2019
@@ -68,15 +76,17 @@ My primary audience is the Thai-speaking community. I aim to create a supportive
 - [ช่วงรอยต่อก่อนจะเรียนต่อปริญญาเอก📚](https://write-2-thrive.blogspot.com/2025/08/blog-post_13.html)
 
 ---
+
 ### Acknowledgement
 
-Thanks, mom and dad. They kept a ton of wonderful books in our home. 📚 
+Thanks, mom and dad. They kept a ton of wonderful books in our home. 📚
 
-📖 When I was young and had nothing to do, I *HAVE TO* read books (It is only thing in our house lol). 
+📖 When I was young and had nothing to do, I _HAVE TO_ read books (It is only thing in our house lol).
 
 📖 Because of this, I developed a love for reading, and consequently, for writing with beautiful Thai words! ✍️❤️
 
 ---
-I'm very happy 🥰 that you are visiting my project and would be even happier if you could provide suggestions or feedback 🤩. 
+
+I'm very happy 🥰 that you are visiting my project and would be even happier if you could provide suggestions or feedback 🤩.
 
 You can contact me through various online platforms [here 📬](https://kuchikinamthip.github.io/) or leave a comment below using GitHub account. 👇🏼

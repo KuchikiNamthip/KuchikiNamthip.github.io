@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  NO Cancer THAILAND
-description: Simplifying cancer science for the public, promoting understanding of cancer biology and precision medicine. 
+title: NO Cancer THAILAND
+description: Simplifying cancer science for the public, promoting understanding of cancer biology and precision medicine.
 img: assets/img/NoCancer/NoCancer.png
 importance: 2
 category: Social/Volunteer
@@ -9,6 +9,7 @@ giscus_comments: true
 toc:
   sidebar: left
 ---
+
 ### About "NO CANCER THAILAND"
 
 <div class="row justify-content-center">
@@ -34,15 +35,17 @@ We share stories about cancer research in a fun and easy-to-understand way. Our 
 
 ### Our Audience & Goal
 
-Our target audience is the Thai public that may be skeptical of modern medicine and scientific evidence, often turning to unproven remedies or misleading information. We believe that science communication is crucial. 
+Our target audience is the Thai public that may be skeptical of modern medicine and scientific evidence, often turning to unproven remedies or misleading information. We believe that science communication is crucial.
+
 > "No matter how brilliant science and research are, \
 > They are rendered meaningless \
 > If people continue to treat cancer with boiling unscientific leaves \
 > Instead of proven drugs." \
 > \
->   *"Namthip" Krittiyabhorn Kongtanawanich*
+>  _"Namthip" Krittiyabhorn Kongtanawanich_
 
 ### Find Us Here
+
 <div class="row justify-content-center">
   <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 100%;">
     {% include figure.liquid loading="eager" path="assets/img/NoCancer/FB_NoCancer.png" title="No CANCER THAILAND's Facebook Page" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 100%;" %}
@@ -52,65 +55,79 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
     <a href="https://www.nature.com/articles/s41598-024-73581-8/figures/7" target="_blank">The FB banner reflects our commitment to translating scientific knowledge🥸 into friendly communication👻. (Surely! with Fun!🤣🤣) </a>
 </div>
 
-* [**Facebook**](https://www.facebook.com/NoCancerTH) Here I mostly connect with the readers.
-* [**Instagram**](instagram.com/no_cancer_th)
-* [**Blockdit**](blockdit.com/no_cancer)
-* [**Google Blog**](https://nocancerth.blogspot.com) I will collect all post here.
-* [**TikTok**](tiktok.com/@no_cancer_th): waiting for update
-* [**YouTube**](youtube.com/%40NO-CANCER-THAILAND): waiting for update
+- [**Facebook**](https://www.facebook.com/NoCancerTH) Here I mostly connect with the readers.
+- [**Instagram**](instagram.com/no_cancer_th)
+- [**Blockdit**](blockdit.com/no_cancer)
+- [**Google Blog**](https://nocancerth.blogspot.com) I will collect all post here.
+- [**TikTok**](tiktok.com/@no_cancer_th): waiting for update
+- [**YouTube**](youtube.com/%40NO-CANCER-THAILAND): waiting for update
 
 ---
+
 ### 🧶Table of contents🧶
+
 ##### 🍭เครื่องมือวิจัยมะเร็ง
-- [สุราษฎร์ เกี่ยวอะไรกับงานวิจัยมะเร็ง](https://nocancerth.blogspot.com/2025/02/blog-post.html) 
+
+- [สุราษฎร์ เกี่ยวอะไรกับงานวิจัยมะเร็ง](https://nocancerth.blogspot.com/2025/02/blog-post.html)
 
 ##### 🍭ประวัติพันธุศาสตร์มะเร็ง
-- [ต่อสู้กับมะเร็ง กว่า 100 ปีจากภาพวาด](https://nocancerth.blogspot.com/2025/04/100.html) 
+
+- [ต่อสู้กับมะเร็ง กว่า 100 ปีจากภาพวาด](https://nocancerth.blogspot.com/2025/04/100.html)
 - ["Tony Hunter" ไม่ใช่ "Tony Hamster"](https://nocancerth.blogspot.com/2025/07/tony-hunter-tony-hamster.html)
 
 ##### 🍭มะเร็งเกมวิจัย แซ่บหลาย
-- [น้องกุมารโกโกวากับน้ำแดงของนาง (Ep.1)](https://nocancerth.blogspot.com/2025/07/ep1.html) 
+
+- [น้องกุมารโกโกวากับน้ำแดงของนาง (Ep.1)](https://nocancerth.blogspot.com/2025/07/ep1.html)
 - [โกโกวาสั่ง เซลล์มะเร็งก็ต้องเผ่นแล้ววว (Ep.2)](https://nocancerth.blogspot.com/2025/07/ep2.html)
 
 ##### 🍭 ยาเคโม
+
 - [เหรียญรางวัลโอลิมปิกในสงครามต่อสู้กับมะเร็ง🎗️](https://nocancerth.blogspot.com/2025/08/blog-post_12.html)
 
 ##### 🍭ยามะเร็งมุ่งเป้า (Targeted Therapy)
-- [ยามะเร็งมุ่งเป้า 2 ตำรับแรกของไทย](https://nocancerth.blogspot.com/2025/07/2.html) 
+
+- [ยามะเร็งมุ่งเป้า 2 ตำรับแรกของไทย](https://nocancerth.blogspot.com/2025/07/2.html)
 - [ยาเคโม Vs ยามะเร็งมุ่งเป้า 🎯](https://nocancerth.blogspot.com/2025/07/vs.html)
 - [อิมครานิบ (Imcranib) ยามุ่งเป้าแบบเม็ดของเจ้าฟ้าหญิงจุฬาภรณ์](https://nocancerth.blogspot.com/2025/07/imcranib.html)
 
 ##### 🍭ตามรอยนักวิทยาศาสตร์
+
 - [กระทบไหล่เจ้าของรางวัลโนเบลครั้งนึง ติดใจตลอดไปปปป (Prof.Ada Yonath)](https://nocancerth.blogspot.com/2025/08/1st-met-nobel-laureate-like-hollywood.html)
 
 ##### 🍭โค้ดก็ต้องเขียนวิจัยก็ต้องทำ
+
 - [Vibe Coding: เมื่อทุกสรรพสิ่งของ coding ถูกโยนให้ AI ทำ](https://nocancerth.blogspot.com/2025/08/vibe-coding-coding-ai.html)
 
 ##### 🍭Others
-- [เมื่อมะเร็งถูกควบคุมโดยหมูเด้งและพวก](https://nocancerth.blogspot.com/2025/04/blog-post.html) 
-- [งานประชุมวิชาการที่บ้าบอและเกรียนที่สุดในโลก](https://nocancerth.blogspot.com/2025/08/blog-post.html) 
+
+- [เมื่อมะเร็งถูกควบคุมโดยหมูเด้งและพวก](https://nocancerth.blogspot.com/2025/04/blog-post.html)
+- [งานประชุมวิชาการที่บ้าบอและเกรียนที่สุดในโลก](https://nocancerth.blogspot.com/2025/08/blog-post.html)
 
 ---
-### Acknowledgement
-🌸 I would like to thank my Ph.D. advisor, [Assoc.Prof.Dr. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. On the other side, I also I want to tell Thai people the knowledge I gain as a real-life cancer scientist. 
 
-🌸 I want to express my gratitude to [Dr. Namchai Chewawiwat](https://www.facebook.com/namchai.chewawiwat), who I consider one of Thailand's greatest science communicators. I first met him in 2009 at the 2nd Thai Science Camp when I was in high school. His presentations were so inspiring and easy to understand that I still recall many of them vividly. 
+### Acknowledgement
+
+🌸 I would like to thank my Ph.D. advisor, [Assoc.Prof.Dr. Siwanon Jirawatnotai](https://scholar.google.ca/citations?user=5nSlAnIAAAAJ&hl=en). Without him, I would not have discovered the exciting world of cancer biology. 🌞🌞 From that point, I expanded my interest to the -omic fields for a deeper understanding. On the other side, I also I want to tell Thai people the knowledge I gain as a real-life cancer scientist.
+
+🌸 I want to express my gratitude to [Dr. Namchai Chewawiwat](https://www.facebook.com/namchai.chewawiwat), who I consider one of Thailand's greatest science communicators. I first met him in 2009 at the 2nd Thai Science Camp when I was in high school. His presentations were so inspiring and easy to understand that I still recall many of them vividly.
 
 Becoming his fan and following his writing online fueled my passion for science and eventually led me to pursue my Ph.D. I believe that science communication is incredibly important. While research and new discoveries are vital for saving lives, it's just as critical for a layperson to understand the basics of science and apply critical thinking. After all, what good is groundbreaking research if people reject life-saving treatments for unscientific alternatives?
 
 🌸 I want to express my gratitude to my grandmother. Losing my grandmother to colorectal cancer during my Grade 8 year was a deeply impactful event that ignited my interest in cancer. In my grief, I sought to learn as much as possible about the disease, exploring everything from dietary approaches and herbal treatments to online resources and the inspiring work of Princess Chulabhorn reported in the royal news. This initial exploration eventually guided me towards the field of science and research.
 
-🌸 Lastly, I would like to express my sincere and deepest gratitude to [Professor Dr. Her Royal Highness Princess Chulabhorn Krom Phra Srisavangavadhana](https://www.cri.or.th/about-the-president/), who has been an unwavering role model and my highest source of inspiration. 
+🌸 Lastly, I would like to express my sincere and deepest gratitude to [Professor Dr. Her Royal Highness Princess Chulabhorn Krom Phra Srisavangavadhana](https://www.cri.or.th/about-the-president/), who has been an unwavering role model and my highest source of inspiration.
 
 I have followed news of her royal duties and her tireless dedication to cancer research since I was a high school student in 2006. It was her strong commitment that truly sparked my own journey into the world of cancer science and research.
 
 ### More Stories about my journey
+
 For more stories about my cancer research journey, please visit any of these. \
 📸 [**My Facebook album**](https://www.facebook.com/media/set/?vanity=kuchiki.namtip&set=a.10228063510800738) \
 🕹 [**My Ph.D. Acknowledgement Video**](https://youtu.be/nF-Zi4bwlnI?si=diS4tx-gR5hBM8X-) \
 📝 My Blog Series [**NamthipxCancerResearch**](https://write-2-thrive.blogspot.com/search/label/NamthipxCancerResearch).
 
 ---
-I'm very happy 🥰 that you are visiting my project and would be even happier if you could provide suggestions or feedback 🤩. 
+
+I'm very happy 🥰 that you are visiting my project and would be even happier if you could provide suggestions or feedback 🤩.
 
 You can contact me through various online platforms [here 📬](https://kuchikinamthip.github.io/) or leave a comment below using GitHub account. 👇🏼
