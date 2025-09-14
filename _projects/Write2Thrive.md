@@ -82,8 +82,8 @@ My primary audience is the Thai-speaking community. I aim to create a supportive
 ##### 🍭Life Experience & Perspective
 
 - [พระคุณของคุณยายขายโตเกียวหน้าโรงเรียน](https://write-2-thrive.blogspot.com/2025/08/blog-post_10.html)
-- [วันนึงโตขึ้น เราจะไม่เป็นคนแบบนั้น คนแบบที่เราไม่ชอบ](https://write-2-thrive.blogspot.com/2025/08/blog-post.html): Written in March 21, 2019
-- [Productive ตอน 2](https://write-2-thrive.blogspot.com/2025/08/productive-2.html): Written in Aug 8, 2019
+- [วันนึงโตขึ้น เราจะไม่เป็นคนแบบนั้น คนแบบที่เราไม่ชอบ](https://write-2-thrive.blogspot.com/2025/08/blog-post.html)
+- [Productive ตอน 2](https://write-2-thrive.blogspot.com/2025/08/productive-2.html)
 - [แนะนำการติดต่ออาจารย์ งานวิชาการชั้นปีและการทำหน้าที่☎️](https://write-2-thrive.blogspot.com/2025/08/blog-post_12.html)
 - [ช่วงรอยต่อก่อนจะเรียนต่อปริญญาเอก📚](https://write-2-thrive.blogspot.com/2025/08/blog-post_13.html)
 

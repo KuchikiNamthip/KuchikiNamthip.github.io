@@ -107,6 +107,7 @@ This project would not have been possible without the support of many people. My
 #### 🍭กิจกรรมทางกาย
 
 - [หอบหืด vs หอบแฮ่กๆ](https://missasthmath.blogspot.com/2025/07/vs.html)
+- [นาฬิกาวิ่งที่ผันตัวสำหรับดูแลสุขภาพ](https://missasthmath.blogspot.com/2025/09/blog-post.html)
 
 #### 🍭แผนปฏิบัติการหอบหืด (Asthma Action Plan)
 
