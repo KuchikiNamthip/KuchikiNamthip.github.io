@@ -4,6 +4,10 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - KuchikiNamthip/3D-SiSP
   - KuchikiNamthip/ComBio_Portfolio
   - KuchikiNamthip/RNA-seq_Analysis
   - KuchikiNamthip/ChIP-seq_Analysis
+  - KuchikiNamthip/DockerHub
+  - KuchikiNamthip/Learn_Programming_note
+  
