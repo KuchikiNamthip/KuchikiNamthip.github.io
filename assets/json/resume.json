@@ -186,9 +186,23 @@
       "issuer": "Galaxy Training Network",
       "url": "https://training.galaxyproject.org/",
       "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "General Course on Intellectual Property (DL-101)",
+      "date": "2025",
+      "issuer": "World Intellectual Property (WIPO)",
+      "url": "https://www.wipo.int/portal/en/index.html",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
+    {
+      "name": "High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures",
+      "publisher": "Scientific Reports",
+      "releaseDate": "2025-08-26",
+      "url": "https://doi.org/10.1038/s41598-025-16144-9",
+      "summary": "This study developed 3D-SiSP, a high-content confocal imaging and analysis pipeline for quantitatively profiling tumor growth, cancer stem cells, and drug responses in 3D cholangiocarcinoma spheroids, revealing that sub-lethal chemotherapy doses can enrich CSC populations."
+    },
     {
       "name": "Optimization of in vitro cell culture conditions suitable for the cholangiocarcinoma stem cell study",
       "publisher": "ScienceAsia",
@@ -231,6 +245,12 @@
       "level": "Master",
       "icon": "fa-solid fa-laptop",
       "keywords": ["R", "Unix command line", "Python", "Docker", "Git", "Nextflow"]
+    },
+    {
+      "name": "Intelletual Property",
+      "level": "Master",
+      "icon": "fa-solid fa-thumbtack",
+      "keywords": ["Patent", "Petty Patent"]
     }
   ],
   "languages": [
