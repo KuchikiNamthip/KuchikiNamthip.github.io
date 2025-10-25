@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-ที่ใดมีชีวิต-ที่นั่นมีความหวัง",
+            },{id: "post-i-started-coding-just-because-my-finger-pained",
+      
+        title: '💻 I started coding just because my finger pained <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "&amp;nbsp;I had to analyze data from 96- or 384-well plates — each exported as a CSV file with thousands of rows. Sounds familiar? Yes! 96 or 384 wells — the well plates from the wet lab. My data came from 2D cell culture imaging, where I had to analyze single-cell information.I opened each file, searched for specific values, and repeated the same thing again and again.What I faced were:- Finger pain 😂- Human weakness → human error after half a day of doing this- Forgetting to save → all work gone- Changing cut-offs → meant redoing everything from the start (and you know how often supervisors change them!)I realized all of this was just repetition. I knew every step — I just had to do it again for every well (or many plates).So I told my supervisor I wanted to use coding/programming to automate it. His answer? No. He wanted me to do it manually — “by eyes” — to get results faster.But I believed I could do more. So I decided to learn coding (R) secretly. I didn’t tell him — I just kept maintaining all the usual lab work, while learning programming on my own.It wasn’t easy. It took months of effort, but I had a goal: to make my research more efficient and reproducible.After some fast and furious learning, I wrote my own code, fixed bugs, and validated that it worked the same as manual analysis. The result? No human error, finished in a minute, and I could change the cut-off anytime by typing a new number. Beautiful!I finally applied it to other experiments too. My supervisor was impressed — finally! 😆A hidden benefit of programming is that it does what you already do — just faster and more accurately. If you’re curious how coding can help you, start by asking: 💡 “Which task repeats until my fingers hurt?”If you can answer that, you already have your first step into coding.🧬 Here’s my project about this: Phenomics – High-Throughput Imaging (https://lnkd.in/gX5nKNRp)=============Build a greater science together with me! Here is my blogs🌸 Thai language: NO CANCER FB page/Blogger (https://lnkd.in/gQa3apBc)🧬 English language: The Whispers of Biology (LinkedIn/Blogger) (https://lnkd.in/gRTnrpRz)#ScienceCommunication #Bioinformatics #ComputationalBiology #Rprogramming #LabAutomation #WomenInSTEM #NoCancerThailand #TheWhispersOfBiology",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://thewhispersofbiology.blogspot.com/2025/10/i-started-coding-just-because-my-finger.html", "_blank");
+        
+      },
+    },{id: "post-ที่ใดมีชีวิต-ที่นั่นมีความหวัง",
       
         title: 'ที่ใดมีชีวิต ที่นั่นมีความหวัง <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -107,17 +118,6 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://write-2-thrive.blogspot.com/2025/10/blog-post.html", "_blank");
-        
-      },
-    },{id: "post-i-started-coding-just-because-my-finger-pained",
-      
-        title: '💻 I started coding just because my finger pained <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "&amp;nbsp;I had to analyze data from 96- or 384-well plates — each exported as a CSV file with thousands of rows. Sounds familiar? Yes! 96 or 384 wells — the well plates from the wet lab. My data came from 2D cell culture imaging, where I had to analyze single-cell information.I opened each file, searched for specific values, and repeated the same thing again and again.What I faced were:- Finger pain 😂- Human weakness → human error after half a day of doing this- Forgetting to save → all work gone- Changing cut-offs → meant redoing everything from the start (and you know how often supervisors change them!)I realized all of this was just repetition. I knew every step — I just had to do it again for every well (or many plates).So I told my supervisor I wanted to use coding/programming to automate it. His answer? No. He wanted me to do it manually — “by eyes” — to get results faster.But I believed I could do more. So I decided to learn coding (R) secretly. I didn’t tell him — I just kept maintaining all the usual lab work, while learning programming on my own.It wasn’t easy. It took months of effort, but I had a goal: to make my research more efficient and reproducible.After some fast and furious learning, I wrote my own code, fixed bugs, and validated that it worked the same as manual analysis. The result? No human error, finished in a minute, and I could change the cut-off anytime by typing a new number. Beautiful!I finally applied it to other experiments too. My supervisor was impressed — finally! 😆A hidden benefit of programming is that it does what you already do — just faster and more accurately. If you’re curious how coding can help you, start by asking: 💡 “Which task repeats until my fingers hurt?”If you can answer that, you already have your first step into coding.🧬 Here’s my project about this: Phenomics – High-Throughput Imaging (https://lnkd.in/gX5nKNRp)=============Build a greater science together with me! Here is my blogs🌸 Thai language: NO CANCER FB page/Blogger (https://lnkd.in/gQa3apBc)🧬 English language: The Whispers of Biology (LinkedIn/Blogger) (https://lnkd.in/gRTnrpRz)#ScienceCommunication #Bioinformatics #ComputationalBiology #Rprogramming #LabAutomation #WomenInSTEM #NoCancerThailand #TheWhispersOfBiology",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://thewhispersofbiology.blogspot.com/2025/10/i-started-coding-just-because-my-finger.html", "_blank");
         
       },
     },{id: "post-nobel-prize-2025-t-rex-treg-the-peacekeeping-boss-of-the-immune-army",
