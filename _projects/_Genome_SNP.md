@@ -166,12 +166,23 @@ In modern genomics, people mostly use “variant” because not every DNA change
 
 ## 5️⃣ Conceptual Flow
 
-**🐚 UNIX (core bioinformatics)**
+### 🐚 UNIX (core bioinformatics)
 
 FASTQ ──▶ QC ──▶ Alignment ──▶ BAM ──▶ Variant Calling ──▶ VCF
 
+### 🧬 The different of Variant Calling (Allele Frequency Expectations): Germline vs Somatic
 
-**🐍 Python (data science layer)**
+
+| Feature                  | Germline Variant Calling              | Somatic Variant Calling                            |
+| :----------------------- | :------------------------------------ | :------------------------------------------------- |
+| Genome type              | Diploid                               | Mixed tumor subclones                              |
+| Expected # of alleles    | ≤ 2                                   | Many possible (due to subclones)                   |
+| Typical allele frequency | ~0.5 (heterozygous), 1.0 (homozygous) | Variable (0.05–0.9)                                |
+| Major challenge          | Simple genotypes                      | Distinguish real low-frequency variants from noise |
+| Tools                    | `GATK HaplotypeCaller`, `FreeBayes`   | `Mutect2`, `VarScan2`, `Strelka2`, `LoFreq`        |
+
+
+### 🐍 Python (data science layer)
 
 VCF ──▶ Filtering ──▶ Summary stats ──▶ Visualization ──▶ Report
 
@@ -203,18 +214,123 @@ There are so many details about the analysis such as
 I will start with a VCF files which were finished upstream process. 
 
 **✅ Good sources of public VCF files**
-1. [International Genome Sample Resource (IGSR)](https://www.internationalgenome.org/category/vcf) – Their site hosts VCFs from the 1000 Genomes Project (phase 3) and other human variation datasets. 
-internationalgenome.org
-2. [Personal Genome Project (PGP)](https://my.pgp-hms.org/public_genetic_data?data_type=other&utf8=%E2%9C%93&utm) – Contains VCF files of participants (e.g., exome or whole-genome VCFs) available for download. 
-my.pgp-hms.org
-3. [Germplasm & genetic data resources](https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genetic_variation_among_481_diverse_soybean_accessions/25212539) – For example the dataset from 481 diverse soybean accessions includes VCF files.
+Sure! Here’s the same style of writing for **ClinVar and other commonly used public VCF sources** 👇
 
 ---
 
-## 1. Data set 1:
-I want small VDF files, thus I will download it from [PGP](https://my.pgp-hms.org/public_genetic_data?data_type=other&utf8=%E2%9C%93&utm).
+**✅ Good sources of public VCF files**
 
-Step
+1. [ClinVar (NCBI)](https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/) – Provides curated **variant calls with clinical significance** (e.g., pathogenic, benign, uncertain significance) for the human genome (GRCh37 & GRCh38).
+   ftp.ncbi.nlm.nih.gov
+2. [gnomAD (Genome Aggregation Database)](https://gnomad.broadinstitute.org/downloads) – Contains **population-level allele frequencies** for millions of variants across exomes and genomes from diverse human -cohorts.
+   gnomad.broadinstitute.org
+3. [ExAC (Exome Aggregation Consortium)](https://gnomad.broadinstitute.org/downloads#exac-legacy) – The predecessor to gnomAD, focused on **exome sequencing data** from over 60,000 unrelated individuals.
+   gnomad.broadinstitute.org
+4. [1000 Genomes Project / IGSR](https://www.internationalgenome.org/category/vcf) – Hosts **genome-wide variant data** (phase 3) across multiple populations, often used as a standard reference dataset.
+   internationalgenome.org
+5. [Personal Genome Project (PGP)](https://my.pgp-hms.org/public_genetic_data?data_type=other&utf8=%E2%9C%93&utm) – Contains **public genomes of volunteer participants** with available VCFs (exome and whole-genome).
+   my.pgp-hms.org
+
+**✅ Database as reference catalogue (not provide individual information)**
+- [dbSNP (NCBI)](https://ftp.ncbi.nlm.nih.gov/snp/latest_release/VCF/) – A comprehensive catalog of **all known single nucleotide polymorphisms (SNPs)** and short indels reported across studies, organized by chromosome.
+   
+---
+
+## 1. Data set 1: 1000 Genome
+
+I will download it from [1000 Genome](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr1.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz)
+
+### Steps
+1. Download file from public resource and cut it to small file for demonstration.
+
+```bash
+# download
+cd /home/kk/Jupyter_docker/SNP_interview/input/1000genome
+wget https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr1.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz
+
+# get only first 500 lines
+zcat ALL.chr1.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz | grep '^#' > 1000genome_test.vcf
+zcat ALL.chr1.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz | grep -v '^#' | head -n 500 >> 1000genome_test.vcf
+
+# compress to .gz again
+bgzip 1000genome_test.vcf
+tabix -p vcf 1000genome_test.vcf.gz
+
+# change to .tsv
+zcat 1000genome_test.vcf.gz | grep '^#CHROM' | sed 's/^#//' > 1000genome_test.tsv
+zcat 1000genome_test.vcf.gz | grep -v '^#' | head -n 500 >> 1000genome_test.tsv
+```
+2. Inspect the fil: What’s inside a 1000G VCF
+
+Each row (variant record) summarizes one position in the genome and how it varies across individuals.
+
+**🧠 Columns (core meaning)**
+
+| Column                  | Example                               | Meaning                                            |   |                                                          |
+| ----------------------- | ------------------------------------- | -------------------------------------------------- | - | -------------------------------------------------------- |
+| **CHROM**               | 1                                     | Chromosome number                                  |   |                                                          |
+| **POS**                 | 10506                                 | Position (1-based) on that chromosome              |   |                                                          |
+| **ID**                  | rs12345                               | Variant ID (dbSNP rsID)                            |   |                                                          |
+| **REF**                 | T                                     | Reference allele from reference genome             |   |                                                          |
+| **ALT**                 | A                                     | Alternate allele (observed variant)                |   |                                                          |
+| **QUAL**                | 100                                   | Variant quality score (Phred-scaled likelihood)    |   |                                                          |
+| **FILTER**              | PASS                                  | Whether the variant passed QC filters              |   |                                                          |
+| **INFO**                | AC=5;AF=0.001;AN=5008;NS=2504;DP=8000 | **Summary stats** for that variant                 |   |                                                          |
+| **FORMAT**              | GT:DP                                 | Structure of genotype fields in each sample column |   |                                                          |
+| **HG00096, HG00097, …** | 0                                     | 1, 0                                               | 0 | Each person’s **genotype** (reference/alternate alleles) |
+
+**🧠 How to read the INFO field**
+
+Here’s what the 1000 Genomes INFO tags mean (Phase 3 standard):
+
+| INFO key                                   | Meaning                                                   | Example         | Interpretation                                                |
+| ------------------------------------------ | --------------------------------------------------------- | --------------- | ------------------------------------------------------------- |
+| **AC**                                     | *Allele Count* (number of ALT alleles across all samples) | `AC=5`          | 5 alternate alleles observed out of all chromosomes sequenced |
+| **AN**                                     | *Allele Number* (total chromosomes observed)              | `AN=5008`       | For 2504 diploid individuals, total alleles = 2×2504 = 5008   |
+| **AF**                                     | *Allele Frequency*                                        | `AF=0.001`      | Frequency = AC/AN = 0.001 → 0.1%                              |
+| **NS**                                     | *Number of Samples with Data*                             | `NS=2504`       | All samples were genotyped at this site                       |
+| **DP**                                     | *Total Depth* (sum of read depth across all samples)      | `DP=78015`      | Combined coverage                                             |
+| **EAS_AF, EUR_AF, AFR_AF, AMR_AF, SAS_AF** | *Per-population allele frequencies*                       | `EAS_AF=0.0002` | Subpopulation allele frequency                                |
+| **VT**                                     | *Variant Type*                                            | `VT=SNP`        | Indicates type: SNP, INDEL, etc.                              |
+| **AA**                                     | *Ancestral Allele*                                        | `AA=T`          | Original allele in ancestral genome                           |
+| **RS**                                     | *dbSNP rsID* (redundant with ID field sometimes)          | `RS=12345`      | dbSNP ID                                                      |
+| **MQ**                                     | *Mapping Quality*                                         | `MQ=60`         | Average mapping quality of reads supporting the call          |
+| **QD**                                     | *Quality by Depth*                                        | `QD=15`         | Normalized quality                                            |
+| **VQSLOD**                                 | *Variant Quality Score Log-Odds*                          | `VQSLOD=2.5`    | Used in recalibration (GATK)                                  |
+
+**🧭 Quick biological interpretation of common INFOs**
+
+| INFO tag   | Low value means                   | High value means      | Clinical relevance                         |
+| ---------- | --------------------------------- | --------------------- | ------------------------------------------ |
+| **AF**     | Rare variant                      | Common polymorphism   | Rare = possibly pathogenic (if in ClinVar) |
+| **QUAL**   | Unreliable call                   | Confident call        | Filter threshold often >30                 |
+| **DP**     | Low sequencing coverage           | High coverage         | Low DP variants may be false               |
+| **FILTER** | Failed QC                         | Passed QC             | Use only `PASS`                            |
+| **AC**     | Found in few alleles              | Found in many alleles | Helps compute frequency                    |
+| **AN**     | Poor coverage (missing genotypes) | All samples genotyped | Important for accuracy                     |
+
+
+---
+
+## 2. Data set 2:
+I will download it from [ClinVar (NCBI)](https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar_20251019.vcf.gz).
+
+```bash
+# get only first 500 lines
+zcat clinvar_20251019.vcf.gz | grep '^#' > clinvar_test.vcf
+zcat clinvar_20251019.vcf.gz | grep -v '^#' | head -n 500 >> clinvar_test.vcf
+
+# compress to .gz again
+bgzip clinvar_test.vcf
+tabix -p vcf clinvar_test.vcf.gz
+
+# change to .tsv
+zcat clinvar_test.vcf | grep '^#CHROM' | sed 's/^#//' > clinvar_test.tsv
+zcat clinvar_test.vcf | grep -v '^#' | head -n 500 >> clinvar_test.tsv
+```
+
+
+
 
 Then you can apply your pipeline: read the VCF with Python, filter by QUAL, count SNPs, plot distribution, etc.
 
