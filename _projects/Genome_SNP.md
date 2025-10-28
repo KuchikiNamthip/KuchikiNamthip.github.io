@@ -335,24 +335,12 @@ zcat clinvar_test.vcf | grep -v '^#' | head -n 500 >> clinvar_test.tsv
 Then you can apply your pipeline: read the VCF with Python, filter by QUAL, count SNPs, plot distribution, etc.
 
 If you want a bit more complexity, use a multi-sample VCF from IGSR (1000 Genomes) which allows you to do allele-frequency, sample-based filtering, etc.
-## 1. Data set 1: GSE66083 (CURRENTLY DEVELOP!)
-
-### 1.1 Analysis overview:
-
-#### 1.1.1 Analysis set 1: From FASTQ file to visualization
-
-
-
-### 1.2 Result Discussion
-
-### 1.3 What I have learned from this data set
 
 ---
 
 ## Other related posts
 
-- [My personal note about ChIP-seq analysis](https://github.com/KuchikiNamthip/ChIP-seq_Analysis)
-
+- 
 ---
 
 ## Acknowledgment
