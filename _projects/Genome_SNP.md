@@ -309,38 +309,57 @@ Here’s what the 1000 Genomes INFO tags mean (Phase 3 standard):
 | **AC**     | Found in few alleles              | Found in many alleles | Helps compute frequency                    |
 | **AN**     | Poor coverage (missing genotypes) | All samples genotyped | Important for accuracy                     |
 
+### Filtering by Python 
+1. Keep PASS variants only
+2. Keep SNPs (not INDELs → VT=SNP)
+3. Keep biallelic sites (len(ALT.split(',')) == 1)
+4. Apply QC filters (QUAL, DP, etc.)
+5. Remove common variants if searching for rare disease-causing ones (AF < 0.01)
+6. Keep variants in coding or regulatory regions
+7. Annotate with ClinVar, dbNSFP, or custom database
+8. Filtering according to annotation meaning.
+
+Here is [my Jupyter notebook](https://kuchikinamthip.github.io/ComBio_Portfolio/SNP/Data1_1000Genome/1000genome_VCF_tsv_filtering.html) from filtering process 1 to 6.
+
+### What I have learned from this data set
+This is SNP analysis for an individual person. The key filtering process is rare disease-causing ones (AF < 0.01).
+Therefore many SNPs still in the panel. We next have to filter by the annotation such as ClinVar.
+ClinVar will identify whether the SNP are pathogenic, benign, and uncertain significance.
+Other annotations are also identify diffedrent meaningful SNP such as exon, intron, framship, missense, etc.
 
 ---
 
-## 2. Data set 2:
-I will download it from [ClinVar (NCBI)](https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar_20251019.vcf.gz).
+## Other types of SNP analysis
+### Compare case (Disease) and control (healthy)
+The process:
+1. Get .VCF from both case and control
+2. Put the processed data to `PLINK` to identify the SNP that different between case and control.
+3. The final analysis result is 2 by 2 table.
 
-```bash
-# get only first 500 lines
-zcat clinvar_20251019.vcf.gz | grep '^#' > clinvar_test.vcf
-zcat clinvar_20251019.vcf.gz | grep -v '^#' | head -n 500 >> clinvar_test.vcf
+### 🧬 Statistical Analysis in SNP Studies
 
-# compress to .gz again
-bgzip clinvar_test.vcf
-tabix -p vcf clinvar_test.vcf.gz
+In SNP (Single Nucleotide Polymorphism) analysis, categorical comparison between groups (e.g., case vs. control) is a key component of statistical testing.
 
-# change to .tsv
-zcat clinvar_test.vcf | grep '^#CHROM' | sed 's/^#//' > clinvar_test.tsv
-zcat clinvar_test.vcf | grep -v '^#' | head -n 500 >> clinvar_test.tsv
-```
+1. Comparison Tests
+   - Chi-square test — used for categorical data with sufficient expected counts.
 
+   - Fisher’s exact test — applied when any cell in a 2×2 contingency table has an expected count < 5.
 
+  These tests evaluate the association between genotype (or allele) and phenotype using p-values to determine statistical significance.
 
+2. Predictive Modeling
 
-Then you can apply your pipeline: read the VCF with Python, filter by QUAL, count SNPs, plot distribution, etc.
+   - Logistic regression — used to assess the association between SNPs and binary outcomes (e.g., disease vs. healthy), adjusting for potential covariates such as age, sex, or population stratification.
 
-If you want a bit more complexity, use a multi-sample VCF from IGSR (1000 Genomes) which allows you to do allele-frequency, sample-based filtering, etc.
+3. Effect Size Estimation
+
+   - Report odds ratio (OR) and 95% confidence interval (CI) to quantify the strength and direction of the association between the SNP and the trait of interest.
 
 ---
+## Useful resources
+- [GWASTutorial](https://cloufield.github.io/GWASTutorial/) by The Laboratory of Complex Trait Genomics at the University of Tokyo
+- [GWA analysis](https://github.com/MareesAT/GWA_tutorial) by Andries Marees
 
-## Other related posts
-
-- 
 ---
 
 ## Acknowledgment
