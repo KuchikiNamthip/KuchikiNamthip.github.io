@@ -82,6 +82,9 @@ Our target audience is anyone with a love for science, from students to seasoned
 ##### 🍭Nobel Prize - Funny, Clearly explain!!
 - [🏅 Nobel Prize 2025 – T-Rex (Treg): The Peacekeeping Boss of the Immune Army](https://thewhispersofbiology.blogspot.com/2025/10/nobel-prize-2025-t-rex-treg.html)
 
+##### 🍭Academic vs Business
+
+- [🧬Research x 💰 Business : What change my perspective?](https://thewhispersofbiology.blogspot.com/2025/10/research-x-business-what-change-my.html)
 
 ##### 🍭Others
 

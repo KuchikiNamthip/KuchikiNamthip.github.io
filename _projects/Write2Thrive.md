@@ -89,6 +89,10 @@ My primary audience is the Thai-speaking community. I aim to create a supportive
 - [แนะนำการติดต่ออาจารย์ งานวิชาการชั้นปีและการทำหน้าที่☎️](https://write-2-thrive.blogspot.com/2025/08/blog-post_12.html)
 - [ช่วงรอยต่อก่อนจะเรียนต่อปริญญาเอก📚](https://write-2-thrive.blogspot.com/2025/08/blog-post_13.html)
 - [ที่ใดมีชีวิต ที่นั่นมีความหวัง](https://write-2-thrive.blogspot.com/2025/10/blog-post_5.html)
+
+##### 🍭Exercise is additive
+
+- [คลีทเสือหมอบ - Break The Limit!!!](https://write-2-thrive.blogspot.com/2025/10/break-limit.html)
 ---
 
 ### Acknowledgement
