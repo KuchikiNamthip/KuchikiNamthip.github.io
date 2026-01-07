@@ -65,7 +65,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-คลีทเสือหมอบ-break-the-limit",
+            },{id: "post-bryan-johnson-คือใคร-ทำไมถึงดังจนเป็น-netflix-ซีรี่ย์-don-39-t-die",
+      
+        title: 'Bryan Johnson คือใคร ทำไมถึงดังจนเป็น Netflix ซีรี่ย์ DON&#39;T DIE <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "&amp;nbsp;Bryan Johnson คือใคร ??ทำไมถึงดังจนเป็น Netflix ซีรี่ส์ DON&#39;T DIE.ช่วงปีที่ผ่านมากระแส Longevity ดังมากกกกกกกกกกก&amp;nbsp;กระทั่งมี Netflix ซีรี่ส์ออกมากันเลย.Bryan Johnson เป็นนักธุรกิจที่เคยใช้ชีวิตแบบไม่ดูแลสุขภาพมาก่อน เขาได้ผันตัวมาดูแลดูแลสุขภาพแบบสุดโต่งและอุทิศเพื่อการชะลอวัย.อุทิศเลยของจริง เพราะกินวิตามิน อาหารเสริม เป็นวันนึงเป็นร้อยเม็ดข้าวปลาไม่ต้องทานกันแล้ว เย้~~~แถมยังมีวิธีการวัดทางวิทยาศาสตร์สารพัดเพื่อติดตามว่าอายุร่างกายของตัวเองลดลงกลับเป็นหนุ่ม เอ๊าะๆหรือยัง&amp;nbsp;&amp;nbsp;.และนี่จริงเป็นที่มาของ &quot;Don’t Die&quot; เป็นซีรีส์สารคดีเผยให้เห็นการใช้ชีวิตที่อุทิศเพื่อการชะลอวัยของ Bryan Johnson นั่นเอง&amp;nbsp;.#สิ่งที่ Bryan Johnson ทำเพื่อชะลอวัยมันคือโปรเจกต์ชื่อว่า&amp;nbsp;Blueprint&amp;nbsp; ซึ่งประกอบด้วยยยยย✅ การกินอาหาร✅ ยาและอาหารเสริม✅ การนอน✅ การออกกำลังกาย✅ เทคโนโลยีและการบำบัดขั้นสูง.โพสหน้าเรามาว่าด้วยเรื่อง How to DON&#39;T DIE ฉบับ Bryan Johnson กันต่อกดติดตามไว้ได้เลยยยมาอายุยืนแบบมีคุณภาพกัน&amp;nbsp;ลุยยยยยย&amp;nbsp;#BryanJohnson#DontDie#NetflixSeries#Longevity#AntiAging#Blueprint#อายุยืน#ชะลอวัย#ดูแลสุขภาพ&amp;nbsp;&amp;nbsp;&amp;nbsp;",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://nocancerth.blogspot.com/2026/01/bryan-johnson-netflix-dont-die-16.html", "_blank");
+        
+      },
+    },{id: "post-ถ้าจะดูว่า-longevity-มั้ย-คงต้องรอว่าตุยเมื่อไหร่-ระหว่างนี้จะใช้อะไรเป็นตัววัด",
+      
+        title: 'ถ้าจะดูว่า Longevity มั้ย คงต้องรอว่าตุยเมื่อไหร่ ระหว่างนี้จะใช้อะไรเป็นตัววัด <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "&amp;nbsp;จะวัดว่าอายุยืนมั้ยคงต้องรอว่าตุยเมื่อไหร่&amp;nbsp;แล้วถ้าอยากรู้ตอนนี้เลยหล่ะ จะเอาอะไรมาวัด&amp;nbsp;.&amp;nbsp;Longevity คือศาสตร์ว่าด้วยเรื่องอายุยืนยาวที่กำลังฮิตกันตอนนี้&amp;nbsp;เอาจริงๆ เราก็อยากเด็กกว่าอายุตามหน้าบัตรประชาชน จริงมั้ย?&amp;nbsp;.เพราะอย่างนี้การดูอายุคนจึงแบ่งออกเป็น 2 แบบคือ&amp;nbsp;1. อายุตามปฏิทิน (Chronological Age)&amp;nbsp;2. อายุชีวภาพ (Biological Age)&amp;nbsp;.อายุตามชีวภาพเป็นสิ่งที่บอกอายุร่างกาย&amp;nbsp;ว่าเรายังฟิตอยู่มั้ย&amp;nbsp;อายุร่างกายนำหน้าอายุตามบัตรประชาชนแล้วหรือยัง&amp;nbsp;ซึ่งสิ่งที่สอดคล้องกับชีวิตยืนยาว (Longevity)&amp;nbsp;ก็คืออายุชีวภาพนั่นเอง&amp;nbsp;.#การวัดอายุชีวภาพ แบ่งได้เป็น 3 กลุ่มหลัก คือ!&amp;nbsp;.1. ตัววัดระดับโมเลกุล (The Molecular Clocks)&amp;nbsp;กลุ่มนี้ลึกที่สุด เพราะวัดจากระดับเซลล์และสารพันธุกรรม&amp;nbsp;เป็นตัวทำนายความแก่ที่แม่นยำมากในปัจจุบัน เช่น&amp;nbsp;- DNA Methylation (Epigenetic Clock)&amp;nbsp;- ความยาวเทโลเมียร์ (Telomere Length)&amp;nbsp;- ระดับ NAD+&amp;nbsp;.&amp;nbsp;2. ตัววัดทางกายภาพและสมรรถภาพ (Physical Function Biomarkers)&amp;nbsp;เช่น แรงบีบมือ, ความเร็วในการเดิน, VO2 Max&amp;nbsp;.&amp;nbsp;3. ตัววัดจากผลเลือด (Blood Biomarkers)&amp;nbsp;เช่น&amp;nbsp;- hs-CRP (วัดระดับการอักเสบในร่างกาย)&amp;nbsp;- HbA1c &amp;amp; Fasting Insulin&amp;nbsp;- ApoB&amp;nbsp;.#อั่ยย่ะ&amp;nbsp;ตอนต่อไปมาดูกันดีกว่าว่า Bryan Johnson&amp;nbsp;ใช้อะไรในการติดตามความฟิต ความอายุยืนของตัวเองบ้าง&amp;nbsp;.&amp;nbsp;#Longevity #อายุชีวภาพ #BiologicalAge #Healthspan #Epigenetics #EpigeneticClock #ดูแลสุขภาพเชิงลึก #ชะลอวัยอย่างมีวิทยาศาสตร์ #PreventiveMedicine #WellnessScience #Biohacking #อายุยืนอย่างมีคุณภาพ &amp;nbsp;",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://nocancerth.blogspot.com/2026/01/longevity.html", "_blank");
+        
+      },
+    },{id: "post-ร่างทรงวงการวิทยาศาสตร์-ประทับร่างเนียนกรุบกริบ-งานวิจัยออกรัวๆ",
+      
+        title: 'ร่างทรงวงการวิทยาศาสตร์ ประทับร่างเนียนกรุบกริบ งานวิจัยออกรัวๆ <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "ร่างทรงในชนเผ่านักวิทยาศาสตร์/นักวิจัยไม่ได้บอกหวยเป็นตัวๆ แต่บอกกันเป็นปึกๆ ของงานวิจัย.&amp;nbsp;ร่างทรงจาก เกม ROV ที่เป็นข่าวฉาวเมื่อไม่กี่วันก่อนโดยมีการเชื่อมต่อให้คนอื่นเข้ามาเล่นเเทนตัวเอง.&amp;nbsp;เรื่องนี้ทำให้แอดนึกถึง ฮิคารุ เซียนโกะขึ้นมาทันทีเลยซึ่งฮิคารุเป็นนักเล่นโกะที่เก่งมาก แต่ความเก่งมากนั้นมาจากพรายกระซิบล้วนๆทั้งสไตล์การเล่นแบบโบราณและความเก่งชั่วข้ามคืน&amp;nbsp;ทำให้ฮิคารุถูกตั้งคำถามมาโดยตลอด.เทคโนโลยีนำพาให้เรื่องนี้เกิดขึ้นในโลกความจริงกับกีฬาที่มีม้าทรงได้อย่างอีสปอร์ต.ในวงการวิทยาศาสตร์เรื่องการทรง&amp;nbsp;หรือจะเรียกว่าการโกงงานวิจัยแบบตีเนียนก็มีเหมือนกันแถมมีชื่อเรียกด้วยนะ.เทพผู้มาทรง = Ghost author&amp;nbsp;= นักเขียนผี / นักเขียนเงา= นักวิจัยที่ทำงานจริงแต่ไม่มีชื่อปรากฏเป็นผู้ทำงาน.ความสุดของร่างทรงในวงการวิจัยหลายๆคนน่าจะได้ยินผ่านหูบ้างแหละนั่นคือการซื้อขายงานวิจัย.คือคนขาย เขียนเกือบตาย ไม่มีชื่อคนซื้อ จ่ายตังค์จบ ใส่ชื่อตัวเองรัวๆ.การมีชื่อในงานตีพิมพ์วิชาการมีผลต่อหลายอย่างทั้งชื่อเสียงในวงการและการขอตำแหน่งวิชาการ ผศ. รศ. ศ..คิดง่ายๆเลยว่าคนที่ ได้&amp;nbsp;ผศ. รศ. ศ. มาประดับหน้าชื่อแต่ตัวเองไม่ได้ทำงานเลย ซื้อเค้ามาทั้งนั้น.นี่เป็นเรื่องใหญ่ในวงการวิชาการที่ก่อนหน้านี้เป็นข่าวดัง มหาวิทยาลัยต้องออกมาชี้แจงเจ้าตัวที่ทำผิดต้องลาออก&amp;nbsp;.&amp;nbsp;ในวงการวิจัยคนที่ทำวิจัยจริงผ่านเกณฑ์ (เกณฑ์สากล&amp;nbsp; ชื่อ ICMJE)&amp;nbsp;ของการเป็นผู้เขียน/ผู้ประพันธ์งานวิจัยควรจะได้ชื่อในผลงานวิจัยนั้นด้วยเหตุผลหลายๆ อย่าง เช่น1. ความโปร่งใส: ต้องรู้ว่าใครมีอิทธิพลต่อเนื้อหา เช่น ถ้าบทความเข้าข้างบริษัทยามากๆ โดยไม่รู้ว่าใครคือคนเขียนจริง อันนี้ก็เดาไม่ออกว่าเค้ามีเหตุจริงๆ หรือมีผลประโยชน์ทับซ้อน2. Conflict of interest ถูกซ่อน โดยเฉพาะเรื่องการรักษา/ยา3. ผิดจริยธรรมผู้เขียน.ร่างทรงในวงการวิทยาศาสตร์/วิชาการยังมีอีกหลายกรณี ซึ่งไม่ควรจะเกิดขึ้น ตัวนักวิจัยเองก็ต้องระวังบางครั้งไม่ได้เกิดจากความตั้งใจเลย.แอดเองทำงานสายวิเคราะห์ข้อมูล (bioinformatics)ก็ต้องระวังเรื่องนี้มากๆ&amp;nbsp;บ่อยครั้งมีคนให้ช่วยงาน โดยการว่าจ้างแอดจะต้องทำหน้าที่เป็นแค่คนรันโค้ดถ้าเมื่อไหร่ที่แอดเข้าไปช่วยวางแผนงาน วิเคราะห์งานในลักษณะที่ตีความ หรือคิดอะไรให้เหมาะแก่บริบทการวิจัยนั้นๆ แอดจะข้องเกี่ยวกับการเป็นผู้ประพันธ์งานวิจัยทันที&amp;nbsp;#ROV #Esports #อีสปอร์ต #SEAgames&amp;nbsp;#SEAgames2025&amp;nbsp;&amp;nbsp;",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://nocancerth.blogspot.com/2025/12/blog-post.html", "_blank");
+        
+      },
+    },{id: "post-คลีทเสือหมอบ-break-the-limit",
       
         title: 'คลีทเสือหมอบ - Break The Limit!!! <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -824,17 +857,6 @@ ninja.data = [{
           window.open("https://nocancerth.blogspot.com/2025/04/blog-post.html", "_blank");
         
       },
-    },{id: "post-ต่อสู้กับมะเร็ง-กว่า-100-ปีจากภาพวาด",
-      
-        title: 'ต่อสู้กับมะเร็ง กว่า 100 ปีจากภาพวาด <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "ต่อสู้กับมะเร็ง กว่า 100 ปีจากภาพวาด&amp;nbsp;ภาพคนนี้เป็นภาพเก่าตั้งแต่ปี 1932 นี่มันมหากาพย์ของการต่อสู้ของมนุษย์กับมะเร็งชัดๆ.นักรบสีแดงถือดาบและโล่ห์เผชิญหน้ากับกลุ่มหนวดสีดำจำนวนมาก(มะเร็ง) ภาพอันทรงพลังนี้เป็นสัญลักษณ์ของการต่อสู้กับมะเร็ง .ภาพนี้นอกจากจะเป็นปกงานประชุม Cancer Genetics: History &amp;amp; Consequence ยังถูกใช้ในวารสาร Science Transnational Medicine เมื่อปี 2011 อีกด้วย.บทความในวารสาร Science ฉบับนั้นคือ &quot;Integrating Cancer Control into Global Health&quot;พูดถึงบทบาทของ National Cancer Institute&#39;s (NCI) ในการแก้ไขปัญหาภาระมะเร็งที่เพิ่มขึ้นในประเทศกำลังพัฒนา (รวมถึงไทยด้วย) ว่าโดยเน้นย้ำถึงความสำคัญของการวิจัย ความร่วมมือ และอื่นๆ.มหากาพย์มะเร็งทั่วโลกที่มีมานานจะมีการศึกาายังไงต่อ รอติดตามที่เพจ NO CANCER ได้เลยยย.ข้อมูลภาพศิลปะTitle: Original Vintage Poster Fight Against CancerPublisher: France (1932)Illustrator: Marc Saint-Saens#มะเร็ง #งานวิจัยมะเร็ง #ยารักษามะเร็ง #Cancer #NoCancer",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://nocancerth.blogspot.com/2025/04/100.html", "_blank");
-        
-      },
     },{id: "post-fight-against-cancer-1932",
       
         title: 'Fight Against Cancer 1932 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -888,17 +910,6 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://missasthmath.blogspot.com/2025/02/1.html", "_blank");
-        
-      },
-    },{id: "post-สุราษฎร์-เกี่ยวอะไรกับงานวิจัยมะเร็ง",
-      
-        title: 'สุราษฎร์ เกี่ยวอะไรกับงานวิจัยมะเร็ง <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "สุราษฎร์ object เกี่ยวอิหยังกับงานวิจัยมะเร็งหรือเพราะหอยใหญ่ ไข่แดง แหล่งธรรมะคือที่จริงฝรั่งเค้าออกเสียงว่า &quot;ซูรัด (Seurat)&quot;แต่คือนักวิจัยสาวชาวนครศรีธรรมราชอย่างเราก็คิดเป็นอื่นไม่ได้อีกเลยจ้าาา สุราษฎร์หิวไข่ดาวเค็ม 5555555.งานวิจัยมะเร็งเนี่ยมันมีการวิเคราะห์กันระดับเซลล์เดี่ยวๆ (Single cell) เลยแล้วเครื่องมือที่วิเคราะห์มันชื่อ สุราษฎร์ (Seurat)ปกติเนี่ยชื่อเครื่องมือมันจะมีที่มาไอเราก็สงสัยว่าคนคิดเกิดที่สุราษฎร์ ชอบกินไข่เค็มไชยาเคยมาสวนโมกข์หรือยังไงนะ.คนคิดค้นเค้าก็ไม่ได้บอกชัดเจนแต่มีจุดเชื่อมโยงที่น่าสนใจอย่างนึงถ้าค้นคำว่า Seurat ในกูเกิ้ลนี่อย่างแรกที่เจอคือ ภาพสีๆที่ทำมาจากจุดๆ.นั่นคือผลงานศิลปะชาวฝรั่งเศสของ Georges Seurat (อ่านว่า เซอรา).ก็เลยไปเปิดเว็บไซด์ของแลปวิจัยที่พัฒนาเครื่องมือ Seurat ดูไปเจอรูปเมืองกลางคืนที่ภาพแตกๆเป็นจุดๆกลมๆซึ่งภาพนี้แอดเคยแอบบ่นในใจว่าทำไมแลปดังๆเอารูปแตกๆมาขึ้นเว็บนะแต่ก็ยังแอบสะกิดใจว่า ภาพไม่ชัดแต่ดันไม่ชัดแบบเป็นวงกลม น่าจะแตกเป็นสี่เหลี่ยมดิ.ซึ่งมันจริงงงงงงงงงงแรงบันดาลของชื่อเครื่องมือวิเคราะห์นี้จะต้องมาจากผลงานศิลปะของ Georges Seurat แน่ๆ.คือที่เราต้องสนใจเซลล์เดี่ยวขนาดนี้เนี่ยเพราะว่ามีเรื่องของความแตกต่างของแต่ละเซลล์ในมะเร็งก้อนเดียวกันหรือ Tumor Heterogeneityภาพเซลล์แต่ละเซลล์เนี่ยมันจะโดนนำเสนอด้วยจุด เห็นจุดคนละสีในกราฟมั้ยนั่นเลยยยย แต่ละกลุ่มคือคนละพวก.นึกภาพง่ายๆเลยนะ เราให้เคโมก้อนยุบ เฮ้ยแบบนี้มันต้องตายเกลี้ยงแน่ๆวันดีคืนร้ายอยู่ๆนังมะเร็งมันโผล่กลับมาแล้วมันมาจากไหนแว๊~~~~~~มันมาจากนังเซลล์ที่ไม่ตายตอนแรกแล้วออกลูกออกหลานนี่เราเลยต้องศึกษาระดับเซลล์เดี่ยวเพื่อเข้าใจมันให้หมดจะได้หาวิธีจัดการมันต่อไป จะได้ตายเกลี้ยงๆไม่ต้องโผล่กลับมาอีกต่อปายยยยยยยยยยยย",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://nocancerth.blogspot.com/2025/02/blog-post.html", "_blank");
         
       },
     },{id: "post-namthip-x-งานวิจัยมะเร็ง-ตอนที่-6",
