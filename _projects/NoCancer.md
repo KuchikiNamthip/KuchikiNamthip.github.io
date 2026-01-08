@@ -115,6 +115,7 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 ##### 🍭 LONGEVITY-DON'T DIE ฉบับ Bryan Johnson
 - [ถ้าจะดูว่า Longevity มั้ย คงต้องรอว่าตุยเมื่อไหร่ ระหว่างนี้จะใช้อะไรเป็นตัววัด](https://nocancerth.blogspot.com/2026/01/longevity.html)
 - [Bryan Johnson คือใคร ทำไมถึงดังจนเป็น Netflix ซีรี่ย์ DON'T DIE](https://nocancerth.blogspot.com/2026/01/bryan-johnson-netflix-dont-die-16.html)
+- [How to "DON'T DIE" ฉบับ Bryan Johnson - LONGEVITY ตอน 1 ว่าด้วยเรื่องอาหารการกิน](https://nocancerth.blogspot.com/2026/01/how-to-dont-die-bryan-johnson-longevity.html)
 
 ##### 🍭Others
 
