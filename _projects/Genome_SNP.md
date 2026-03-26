@@ -14,9 +14,9 @@ toc:
 
 My passion for disease biology has led me to systematically investigate the multilayered mechanisms of gene regulation. I've already established a deep understanding of the regulatory landscape through my prior work:
 
-🎨 *Epigenomics (ChIP-seq)*: Analyzing the dynamic blueprint of the epigenome [(see my Epigenomic portfolio).](https://kuchikinamthip.github.io/projects/Epigenome_ChIP/)
+🎨 _Epigenomics (ChIP-seq)_: Analyzing the dynamic blueprint of the epigenome [(see my Epigenomic portfolio).](https://kuchikinamthip.github.io/projects/Epigenome_ChIP/)
 
-🎨 *Transcriptomics*: Investigating the functional output of gene expression [(see my Transcriptomics portfolio)](https://kuchikinamthip.github.io/projects/Transcriptome/).
+🎨 _Transcriptomics_: Investigating the functional output of gene expression [(see my Transcriptomics portfolio)](https://kuchikinamthip.github.io/projects/Transcriptome/).
 
 However, a fundamental piece of the puzzle has been missing: Genomics. To achieve a truly holistic view—moving beyond how the code is regulated to encompass the primary variations within the code itself—I must delve into the DNA sequence.
 
@@ -25,7 +25,9 @@ This portfolio marks my entry into the essential world of genomics, focusing spe
 I am extremely fortunate to be mentored in this new domain by [Dr. Metha Yaikwawong](https://www.researchgate.net/profile/Metha-Yaikwawong), a respected expert in SNP analysis. Under his guidance, I am committed to bridging the gap between underlying genetic variation, epigenetic control, and resulting transcriptomic profiles, thereby contributing a complete picture to the field of precision medicine.
 
 ---
+
 # Overview of Genome Analysis
+
 Firstly, I would like to clarify that ”genome analysis” ≠ only “variant analysis”,
 but variant analysis (detecting mutations) is one major branch within it.
 And SNPs analysis is under variant analysis!
@@ -42,12 +44,10 @@ Genome analysis is a big umbrella — it includes:
 | **Epigenomic analysis**                 | Looks at DNA methylation, histone modification                            |
 | **Metagenomics**                        | Sequences all DNA from an environment or microbiome                       |
 
-
-
 ## 2️⃣ Variant (Mutation) Analysis — the Core Idea
 
 When people say they “detect mutations” from sequencing data, what they really mean is they find differences between a sample genome and a reference genome.
-*These differences are your "variants" or "mutations".*
+_These differences are your "variants" or "mutations"._
 
 ### 🧬 The different between "mutations" and "variants"
 
@@ -55,8 +55,6 @@ When people say they “detect mutations” from sequencing data, what they real
 | :----------- | :-------------------------------------------------------------------------- | :------------------------------ |
 | **Variant**  | Any change in DNA sequence compared to a reference genome                   | **Neutral** (just a difference) |
 | **Mutation** | A change in DNA that may **alter biological function** or cause **disease** | **Value-loaded** (often “bad”)  |
-
-
 
 In modern genomics, people mostly use “variant” because not every DNA change is harmful.
 
@@ -69,16 +67,14 @@ In modern genomics, people mostly use “variant” because not every DNA change
 | **Benign variant**                          | Non-disease variant      | Clinical reports      |
 | **VUS (Variant of Uncertain Significance)** | Unknown mutation effect  | Genetic testing       |
 
-
-
 ## 3️⃣ Main Types of Variants
 
 | Variant Type                             | Description                                                        | Example                |   Size   |
 | :--------------------------------------- | :----------------------------------------------------------------- | :--------------------- | :------: |
 | **SNP (Single Nucleotide Polymorphism)** | One base changes                                                   | A → G                  |   1 bp   |
-| **Indel (Insertion/Deletion)**           | Few bases added or removed                                         | +AT or -TG             |  1–50 bp |
-| **CNV (Copy Number Variation)**          | Gene/region duplicated or deleted                                  | 2 copies → 1 copy      |   >1 kb  |
-| **SV (Structural Variant)**              | Rearrangements: inversion, translocation, large insertion/deletion | Chromosome breakpoints |   >1 kb  |
+| **Indel (Insertion/Deletion)**           | Few bases added or removed                                         | +AT or -TG             | 1–50 bp  |
+| **CNV (Copy Number Variation)**          | Gene/region duplicated or deleted                                  | 2 copies → 1 copy      |  >1 kb   |
+| **SV (Structural Variant)**              | Rearrangements: inversion, translocation, large insertion/deletion | Chromosome breakpoints |  >1 kb   |
 | **Somatic Mutation**                     | Found only in cancer or tissue cells                               | e.g., KRAS G12D        | any size |
 
 <div class="row justify-content-center">
@@ -102,6 +98,7 @@ In modern genomics, people mostly use “variant” because not every DNA change
 </div>
 
 ## 4️⃣ Variant Calling Workflow
+
 <div class="row justify-content-center">
   <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 100%;">
     {% include figure.liquid loading="eager" path="assets/img/SNP/Full_variant calling_pipeline.png" title="Types of variant" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 40%;" %}
@@ -112,48 +109,48 @@ In modern genomics, people mostly use “variant” because not every DNA change
 </div>
 
 1. Sample → DNA Extraction → Sequencing (FASTQ) \
-  🎯Goal: high-quality reads for alignment \
-  🧩Input: paired-end FASTQ files (sample_R1.fastq, sample_R2.fastq) \
-  ⚙️Tools: Illumina sequencer, Nanopore, PacBio \
-   ↓ 
+   🎯Goal: high-quality reads for alignment \
+   🧩Input: paired-end FASTQ files (sample_R1.fastq, sample_R2.fastq) \
+   ⚙️Tools: Illumina sequencer, Nanopore, PacBio \
+    ↓
 2. Quality Control (QC) \
-  🎯Goal: Check read quality, adapter contamination, GC content. \
-  ⚙️Tools: Adapter trimming (Trimmomatic, Cutadapt),QC report (FastQC, MultiQC) \
-  🧩Output: cleaned FASTQ files \
-   ↓ 
+   🎯Goal: Check read quality, adapter contamination, GC content. \
+   ⚙️Tools: Adapter trimming (Trimmomatic, Cutadapt),QC report (FastQC, MultiQC) \
+   🧩Output: cleaned FASTQ files \
+    ↓
 3. Alignment to Reference Genome (BAM) \
-  🎯Goal:Map reads to a reference genome (e.g., hg38 for human). \
-  ⚙️Tools: BWA-MEM, Bowtie2, HISAT2 \
-  🧩Output: SAM → convert to BAM (samtools view -b) \
-   ↓ 
+   🎯Goal:Map reads to a reference genome (e.g., hg38 for human). \
+   ⚙️Tools: BWA-MEM, Bowtie2, HISAT2 \
+   🧩Output: SAM → convert to BAM (samtools view -b) \
+    ↓
 4. Post-processing of BAM (Sorting, Duplicate removal, Recalibration) \
-  🎯Goal: Sort reads, mark PCR duplicates, and perform base quality recalibration. \
-  ⚙️Tools: samtools sort, Picard MarkDuplicates, GATK BaseRecalibrator \
-  🧩Output: cleaned and indexed BAM file (sample.bam, sample.bai) \
-   ↓ 
+   🎯Goal: Sort reads, mark PCR duplicates, and perform base quality recalibration. \
+   ⚙️Tools: samtools sort, Picard MarkDuplicates, GATK BaseRecalibrator \
+   🧩Output: cleaned and indexed BAM file (sample.bam, sample.bai) \
+    ↓
 5. SNP Calling (VCF) \
-  🎯Goal: Compare aligned reads to the reference genome → find positions with base changes. \
-  ⚙️Tools: GATK HaplotypeCaller, bcftools mpileup + call, FreeBayes \
-  🧩Output: VCF (Variant Call Format) file \   
-   ↓ 
+   🎯Goal: Compare aligned reads to the reference genome → find positions with base changes. \
+   ⚙️Tools: GATK HaplotypeCaller, bcftools mpileup + call, FreeBayes \
+   🧩Output: VCF (Variant Call Format) file \  
+    ↓
 6. Variant Filtering & Quality Control \
-  🎯Goal: Remove false positives and low-quality SNPs. \
-  ⚙️Tools: GATK VariantFiltration, vcftools, bcftools filter \
-  🧩Output: high-confidence VCF 
-  🎯Filtering criteria: \
-      - Depth (DP) > 10 \
-      - Quality (QUAL) > 30 \
-      - Variant allele frequency (VAF) threshold \
-↓ 
+    🎯Goal: Remove false positives and low-quality SNPs. \
+    ⚙️Tools: GATK VariantFiltration, vcftools, bcftools filter \
+    🧩Output: high-confidence VCF
+   🎯Filtering criteria: \
+    - Depth (DP) > 10 \
+    - Quality (QUAL) > 30 \
+    - Variant allele frequency (VAF) threshold \
+   ↓
 7. SNP Annotation (gene, function, dbSNP ID) \
-  🎯Goal: Add biological meaning to each SNP: gene name, transcript, coding effect, dbSNP ID, clinical significance. \
-  ⚙️Tools: ANNOVAR, VEP (Variant Effect Predictor), SnpEff \
-  🎯Databases used: \
+    🎯Goal: Add biological meaning to each SNP: gene name, transcript, coding effect, dbSNP ID, clinical significance. \
+    ⚙️Tools: ANNOVAR, VEP (Variant Effect Predictor), SnpEff \
+    🎯Databases used: \
     - dbSNP (known SNPs) \
     - ClinVar (pathogenicity) \
     - gnomAD (population frequency) \
     - RefSeq / Ensembl gene models \
-↓ 
+   ↓
 8. Downstream / Biological Interpretation (depends on purpose) \
 
 | Application                   | Example analysis               | Tools                            |
@@ -163,7 +160,6 @@ In modern genomics, people mostly use “variant” because not every DNA change
 | **Phylogenetics / evolution** | SNP distance, tree             | `IQ-TREE`, `SNPhylo`             |
 | **Clinical genomics**         | Pathogenic variant report      | `ClinVar`, `gnomAD`, `VarSome`   |
 
-
 ## 5️⃣ Conceptual Flow
 
 ### 🐚 UNIX (core bioinformatics)
@@ -171,7 +167,6 @@ In modern genomics, people mostly use “variant” because not every DNA change
 FASTQ ──▶ QC ──▶ Alignment ──▶ BAM ──▶ Variant Calling ──▶ VCF
 
 ### 🧬 The different of Variant Calling (Allele Frequency Expectations): Germline vs Somatic
-
 
 | Feature                  | Germline Variant Calling              | Somatic Variant Calling                            |
 | :----------------------- | :------------------------------------ | :------------------------------------------------- |
@@ -181,7 +176,6 @@ FASTQ ──▶ QC ──▶ Alignment ──▶ BAM ──▶ Variant Calling �
 | Major challenge          | Simple genotypes                      | Distinguish real low-frequency variants from noise |
 | Tools                    | `GATK HaplotypeCaller`, `FreeBayes`   | `Mutect2`, `VarScan2`, `Strelka2`, `LoFreq`        |
 
-
 ### 🐍 Python (data science layer)
 
 VCF ──▶ Filtering ──▶ Summary stats ──▶ Visualization ──▶ Report
@@ -190,8 +184,8 @@ VCF ──▶ Filtering ──▶ Summary stats ──▶ Visualization ──�
 
 # 🧬 Full SNP Analysis Pipeline with Tool Mapping
 
-| Step                                    | Purpose                             | UNIX / Command Line Tools                                      | Python Libraries / Packages                                          |
-| :-------------------------------------- | :---------------------------------- | :------------------------------------------------------------- | :------------------------------------------------------------------- |
+| Step                                   | Purpose                             | UNIX / Command Line Tools                                      | Python Libraries / Packages                                           |
+| :------------------------------------- | :---------------------------------- | :------------------------------------------------------------- | :-------------------------------------------------------------------- |
 | **1️⃣ Raw data QC**                     | Check sequencing read quality       | `fastqc`, `multiqc`, `trimmomatic`, `cutadapt`                 | ⚪ (rarely in Python) – can wrap tools using `subprocess`             |
 | **2️⃣ Alignment**                       | Map reads to reference genome       | `bwa mem`, `bowtie2`, `hisat2`                                 | ⚪ `pysam` can read alignment files (BAM/SAM)                         |
 | **3️⃣ SAM → BAM conversion**            | Compress and sort alignment files   | `samtools view`, `samtools sort`, `samtools index`             | ✅ `pysam` (Python bindings for samtools)                             |
@@ -201,17 +195,20 @@ VCF ──▶ Filtering ──▶ Summary stats ──▶ Visualization ──�
 | **7️⃣ Variant statistics**              | Ts/Tv ratio, allele frequency       | `vcftools --TsTv-summary`, `bcftools stats`                    | ✅ `scikit-allel`, `pandas`                                           |
 | **8️⃣ Variant annotation**              | Add gene, effect, dbSNP ID          | `VEP`, `ANNOVAR`, `SnpEff`                                     | ⚪ Can parse output in Python for summary                             |
 | **9️⃣ Data visualization**              | Plot SNP density, allele frequency  | —                                                              | ✅ `matplotlib`, `seaborn`, `plotly`, `scikit-allel`                  |
-| **🔟 Population analysis (optional)**   | PCA, diversity, Fst, GWAS           | `plink`, `vcftools`, `ADMIXTURE`                               | ✅ `scikit-allel`, `numpy`, `scipy`, `pandas`                         |
-| **1️⃣1️⃣ Reporting**                    | Summarize and export tables         | `awk`, `sed`, `grep`, `Rscript`                                | ✅ `pandas`, `xlsxwriter`, `csv`, `matplotlib`                        |
+| **🔟 Population analysis (optional)**  | PCA, diversity, Fst, GWAS           | `plink`, `vcftools`, `ADMIXTURE`                               | ✅ `scikit-allel`, `numpy`, `scipy`, `pandas`                         |
+| **1️⃣1️⃣ Reporting**                     | Summarize and export tables         | `awk`, `sed`, `grep`, `Rscript`                                | ✅ `pandas`, `xlsxwriter`, `csv`, `matplotlib`                        |
 
 ## NOTE
+
 There are so many details about the analysis such as
+
 - Germline and somatic variant calling is different, thus tools and setting are different.
 
-
 ---
+
 # My SNPs analysis
-I will start with a VCF files which were finished upstream process. 
+
+I will start with a VCF files which were finished upstream process.
 
 **✅ Good sources of public VCF files**
 Sure! Here’s the same style of writing for **ClinVar and other commonly used public VCF sources** 👇
@@ -232,8 +229,9 @@ Sure! Here’s the same style of writing for **ClinVar and other commonly used p
    my.pgp-hms.org
 
 **✅ Database as reference catalogue (not provide individual information)**
+
 - [dbSNP (NCBI)](https://ftp.ncbi.nlm.nih.gov/snp/latest_release/VCF/) – A comprehensive catalog of **all known single nucleotide polymorphisms (SNPs)** and short indels reported across studies, organized by chromosome.
-   
+
 ---
 
 ## 1. Data set 1: 1000 Genome
@@ -241,6 +239,7 @@ Sure! Here’s the same style of writing for **ClinVar and other commonly used p
 I will download it from [1000 Genome](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr1.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz)
 
 ### Steps
+
 1. Download file from public resource and cut it to small file for demonstration.
 
 ```bash
@@ -260,24 +259,25 @@ tabix -p vcf 1000genome_test.vcf.gz
 zcat 1000genome_test.vcf.gz | grep '^#CHROM' | sed 's/^#//' > 1000genome_test.tsv
 zcat 1000genome_test.vcf.gz | grep -v '^#' | head -n 500 >> 1000genome_test.tsv
 ```
+
 2. Inspect the fil: What’s inside a 1000G VCF
 
 Each row (variant record) summarizes one position in the genome and how it varies across individuals.
 
 **🧠 Columns (core meaning)**
 
-| Column                  | Example                               | Meaning                                            |   |                                                          |
-| ----------------------- | ------------------------------------- | -------------------------------------------------- | - | -------------------------------------------------------- |
-| **CHROM**               | 1                                     | Chromosome number                                  |   |                                                          |
-| **POS**                 | 10506                                 | Position (1-based) on that chromosome              |   |                                                          |
-| **ID**                  | rs12345                               | Variant ID (dbSNP rsID)                            |   |                                                          |
-| **REF**                 | T                                     | Reference allele from reference genome             |   |                                                          |
-| **ALT**                 | A                                     | Alternate allele (observed variant)                |   |                                                          |
-| **QUAL**                | 100                                   | Variant quality score (Phred-scaled likelihood)    |   |                                                          |
-| **FILTER**              | PASS                                  | Whether the variant passed QC filters              |   |                                                          |
-| **INFO**                | AC=5;AF=0.001;AN=5008;NS=2504;DP=8000 | **Summary stats** for that variant                 |   |                                                          |
-| **FORMAT**              | GT:DP                                 | Structure of genotype fields in each sample column |   |                                                          |
-| **HG00096, HG00097, …** | 0                                     | 1, 0                                               | 0 | Each person’s **genotype** (reference/alternate alleles) |
+| Column                  | Example                               | Meaning                                            |     |                                                          |
+| ----------------------- | ------------------------------------- | -------------------------------------------------- | --- | -------------------------------------------------------- |
+| **CHROM**               | 1                                     | Chromosome number                                  |     |                                                          |
+| **POS**                 | 10506                                 | Position (1-based) on that chromosome              |     |                                                          |
+| **ID**                  | rs12345                               | Variant ID (dbSNP rsID)                            |     |                                                          |
+| **REF**                 | T                                     | Reference allele from reference genome             |     |                                                          |
+| **ALT**                 | A                                     | Alternate allele (observed variant)                |     |                                                          |
+| **QUAL**                | 100                                   | Variant quality score (Phred-scaled likelihood)    |     |                                                          |
+| **FILTER**              | PASS                                  | Whether the variant passed QC filters              |     |                                                          |
+| **INFO**                | AC=5;AF=0.001;AN=5008;NS=2504;DP=8000 | **Summary stats** for that variant                 |     |                                                          |
+| **FORMAT**              | GT:DP                                 | Structure of genotype fields in each sample column |     |                                                          |
+| **HG00096, HG00097, …** | 0                                     | 1, 0                                               | 0   | Each person’s **genotype** (reference/alternate alleles) |
 
 **🧠 How to read the INFO field**
 
@@ -285,18 +285,18 @@ Here’s what the 1000 Genomes INFO tags mean (Phase 3 standard):
 
 | INFO key                                   | Meaning                                                   | Example         | Interpretation                                                |
 | ------------------------------------------ | --------------------------------------------------------- | --------------- | ------------------------------------------------------------- |
-| **AC**                                     | *Allele Count* (number of ALT alleles across all samples) | `AC=5`          | 5 alternate alleles observed out of all chromosomes sequenced |
-| **AN**                                     | *Allele Number* (total chromosomes observed)              | `AN=5008`       | For 2504 diploid individuals, total alleles = 2×2504 = 5008   |
-| **AF**                                     | *Allele Frequency*                                        | `AF=0.001`      | Frequency = AC/AN = 0.001 → 0.1%                              |
-| **NS**                                     | *Number of Samples with Data*                             | `NS=2504`       | All samples were genotyped at this site                       |
-| **DP**                                     | *Total Depth* (sum of read depth across all samples)      | `DP=78015`      | Combined coverage                                             |
-| **EAS_AF, EUR_AF, AFR_AF, AMR_AF, SAS_AF** | *Per-population allele frequencies*                       | `EAS_AF=0.0002` | Subpopulation allele frequency                                |
-| **VT**                                     | *Variant Type*                                            | `VT=SNP`        | Indicates type: SNP, INDEL, etc.                              |
-| **AA**                                     | *Ancestral Allele*                                        | `AA=T`          | Original allele in ancestral genome                           |
-| **RS**                                     | *dbSNP rsID* (redundant with ID field sometimes)          | `RS=12345`      | dbSNP ID                                                      |
-| **MQ**                                     | *Mapping Quality*                                         | `MQ=60`         | Average mapping quality of reads supporting the call          |
-| **QD**                                     | *Quality by Depth*                                        | `QD=15`         | Normalized quality                                            |
-| **VQSLOD**                                 | *Variant Quality Score Log-Odds*                          | `VQSLOD=2.5`    | Used in recalibration (GATK)                                  |
+| **AC**                                     | _Allele Count_ (number of ALT alleles across all samples) | `AC=5`          | 5 alternate alleles observed out of all chromosomes sequenced |
+| **AN**                                     | _Allele Number_ (total chromosomes observed)              | `AN=5008`       | For 2504 diploid individuals, total alleles = 2×2504 = 5008   |
+| **AF**                                     | _Allele Frequency_                                        | `AF=0.001`      | Frequency = AC/AN = 0.001 → 0.1%                              |
+| **NS**                                     | _Number of Samples with Data_                             | `NS=2504`       | All samples were genotyped at this site                       |
+| **DP**                                     | _Total Depth_ (sum of read depth across all samples)      | `DP=78015`      | Combined coverage                                             |
+| **EAS_AF, EUR_AF, AFR_AF, AMR_AF, SAS_AF** | _Per-population allele frequencies_                       | `EAS_AF=0.0002` | Subpopulation allele frequency                                |
+| **VT**                                     | _Variant Type_                                            | `VT=SNP`        | Indicates type: SNP, INDEL, etc.                              |
+| **AA**                                     | _Ancestral Allele_                                        | `AA=T`          | Original allele in ancestral genome                           |
+| **RS**                                     | _dbSNP rsID_ (redundant with ID field sometimes)          | `RS=12345`      | dbSNP ID                                                      |
+| **MQ**                                     | _Mapping Quality_                                         | `MQ=60`         | Average mapping quality of reads supporting the call          |
+| **QD**                                     | _Quality by Depth_                                        | `QD=15`         | Normalized quality                                            |
+| **VQSLOD**                                 | _Variant Quality Score Log-Odds_                          | `VQSLOD=2.5`    | Used in recalibration (GATK)                                  |
 
 **🧭 Quick biological interpretation of common INFOs**
 
@@ -309,7 +309,8 @@ Here’s what the 1000 Genomes INFO tags mean (Phase 3 standard):
 | **AC**     | Found in few alleles              | Found in many alleles | Helps compute frequency                    |
 | **AN**     | Poor coverage (missing genotypes) | All samples genotyped | Important for accuracy                     |
 
-### Filtering by Python 
+### Filtering by Python
+
 1. Keep PASS variants only
 2. Keep SNPs (not INDELs → VT=SNP)
 3. Keep biallelic sites (len(ALT.split(',')) == 1)
@@ -322,6 +323,7 @@ Here’s what the 1000 Genomes INFO tags mean (Phase 3 standard):
 Here is [my Jupyter notebook](https://kuchikinamthip.github.io/ComBio_Portfolio/SNP/Data1_1000Genome/1000genome_VCF_tsv_filtering.html) from filtering process 1 to 6.
 
 ### What I have learned from this data set
+
 This is SNP analysis for an individual person. The key filtering process is rare disease-causing ones (AF < 0.01).
 Therefore many SNPs still in the panel. We next have to filter by the annotation such as ClinVar.
 ClinVar will identify whether the SNP are pathogenic, benign, and uncertain significance.
@@ -330,8 +332,11 @@ Other annotations are also identify diffedrent meaningful SNP such as exon, intr
 ---
 
 ## Other types of SNP analysis
+
 ### Compare case (Disease) and control (healthy)
+
 The process:
+
 1. Get .VCF from both case and control
 2. Put the processed data to `PLINK` to identify the SNP that different between case and control.
 3. The final analysis result is 2 by 2 table.
@@ -341,11 +346,12 @@ The process:
 In SNP (Single Nucleotide Polymorphism) analysis, categorical comparison between groups (e.g., case vs. control) is a key component of statistical testing.
 
 1. Comparison Tests
+
    - Chi-square test — used for categorical data with sufficient expected counts.
 
    - Fisher’s exact test — applied when any cell in a 2×2 contingency table has an expected count < 5.
 
-  These tests evaluate the association between genotype (or allele) and phenotype using p-values to determine statistical significance.
+These tests evaluate the association between genotype (or allele) and phenotype using p-values to determine statistical significance.
 
 2. Predictive Modeling
 
@@ -356,7 +362,9 @@ In SNP (Single Nucleotide Polymorphism) analysis, categorical comparison between
    - Report odds ratio (OR) and 95% confidence interval (CI) to quantify the strength and direction of the association between the SNP and the trait of interest.
 
 ---
+
 ## Useful resources
+
 - [GWASTutorial](https://cloufield.github.io/GWASTutorial/) by The Laboratory of Complex Trait Genomics at the University of Tokyo
 - [GWA analysis](https://github.com/MareesAT/GWA_tutorial) by Andries Marees
 

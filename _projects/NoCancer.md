@@ -68,12 +68,12 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 
 #### 🍭มะเร็งแบบสะดุดตา
 
-- [โรมิโอจูจุ๊บลูเลียต💋 เกี่ยวอะไรกับมะเร็ง](https://nocancerth.blogspot.com/2025/09/blog-post_12.html) 
+- [โรมิโอจูจุ๊บลูเลียต💋 เกี่ยวอะไรกับมะเร็ง](https://nocancerth.blogspot.com/2025/09/blog-post_12.html)
 
 ##### 🍭ดาบพิฆาตมะเร็ง
 
 - [💊โรงงานยามะเร็งไร้ขอบเขต🏯✨](https://nocancerth.blogspot.com/2025/09/blog-post_11.html)
-- [ดาบพิฆาตมะเร็ง: HERDARA ปราณมุ่งเป้า 🔥](https://nocancerth.blogspot.com/2025/08/herdara_14.html)  
+- [ดาบพิฆาตมะเร็ง: HERDARA ปราณมุ่งเป้า 🔥](https://nocancerth.blogspot.com/2025/08/herdara_14.html)
 - [🔥เมื่อ “เสาหลักแห่งดาบพิฆาตอสูร” ต้องสู้กับ “อสูรมะเร็ง”](https://nocancerth.blogspot.com/2025/09/blog-post.html)
 
 ##### 🍭เครื่องมือวิจัยมะเร็ง
@@ -103,7 +103,7 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 ##### 🍭ตามรอยนักวิทยาศาสตร์
 
 - [กระทบไหล่เจ้าของรางวัลโนเบลครั้งนึง ติดใจตลอดไปปปป (Prof.Ada Yonath)](https://nocancerth.blogspot.com/2025/08/1st-met-nobel-laureate-like-hollywood.html)
-- [เราคิดถึงคุณดิ๊กกกก (อ่านชื่อแล้วคิดดีไม่ได้เลย)](https://nocancerth.blogspot.com/2025/08/blog-post_16.html) 
+- [เราคิดถึงคุณดิ๊กกกก (อ่านชื่อแล้วคิดดีไม่ได้เลย)](https://nocancerth.blogspot.com/2025/08/blog-post_16.html)
 - [R.I.P. ศ.ดร.เดวิด บัลติมอร์ ผู้ค้นพบเอนไซม์ Reverse Transcriptase](https://nocancerth.blogspot.com/2025/09/reverse-transcriptase.html)
 - [หมอทางเดินอาหาร ที่ซดแบคทีเรียจนได้รางวัลโนเบล](https://nocancerth.blogspot.com/2025/10/blog-post.html)
 - [🧬งานวิจัย vs 💰บริษัท: เมื่อเรื่องราวของ Nobel Prize เปลี่ยนมุมมองเรื่องนี้ไปสิ้นเชิง](https://nocancerth.blogspot.com/2025/10/vs-nobel-prize.html)
@@ -113,6 +113,7 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 - [Vibe Coding: เมื่อทุกสรรพสิ่งของ coding ถูกโยนให้ AI ทำ](https://nocancerth.blogspot.com/2025/08/vibe-coding-coding-ai.html)
 
 ##### 🍭 LONGEVITY-DON'T DIE ฉบับ Bryan Johnson
+
 - [ถ้าจะดูว่า Longevity มั้ย คงต้องรอว่าตุยเมื่อไหร่ ระหว่างนี้จะใช้อะไรเป็นตัววัด](https://nocancerth.blogspot.com/2026/01/longevity.html)
 - [Bryan Johnson คือใคร ทำไมถึงดังจนเป็น Netflix ซีรี่ย์ DON'T DIE](https://nocancerth.blogspot.com/2026/01/bryan-johnson-netflix-dont-die-16.html)
 - [How to "DON'T DIE" ฉบับ Bryan Johnson - LONGEVITY ตอน 1 ว่าด้วยเรื่องอาหารการกิน](https://nocancerth.blogspot.com/2026/01/how-to-dont-die-bryan-johnson-longevity.html)

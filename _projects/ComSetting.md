@@ -20,7 +20,7 @@ This project is a big challenge for me as a pharmacist. Without good friends and
 ## Contents
 
 1. <a href="https://kuchikinamthip.github.io/blog/2024/Comp1_OS/">Operating System using Linux</a> \
-    💡 Unix Trick: <a href="https://kuchikinamthip.github.io/blog/2024/CompUnix1_Screen/">`Screen` to Maintain Terminal Screen</a>
+   💡 Unix Trick: <a href="https://kuchikinamthip.github.io/blog/2024/CompUnix1_Screen/">`Screen` to Maintain Terminal Screen</a>
 2. <a href="https://kuchikinamthip.github.io/blog/2024/Comp2_Docker/">Containerization using Docker</a>
 3. <a href="https://kuchikinamthip.github.io/blog/2024/Comp3_nf/">Reproducible Computational Biology Workflow by nf-core</a>
 4. <a href="https://kuchikinamthip.github.io/blog/2025/Comp4_R/">Popular Computational Biology Language with R and R Studio</a>

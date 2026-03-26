@@ -52,9 +52,10 @@ Our target audience is anyone with a love for science, from students to seasoned
 ---
 
 ### 🧶Table of contents🧶
+
 ##### 🍭Infinity Oncology
 
-- [Demon Slayer: Hashira x Cancer-killing strategies](https://thewhispersofbiology.blogspot.com/2025/09/demon-slayer-hashira-x-cancer-killing.html)   
+- [Demon Slayer: Hashira x Cancer-killing strategies](https://thewhispersofbiology.blogspot.com/2025/09/demon-slayer-hashira-x-cancer-killing.html)
 - [💊The Infinity Cancer Drug Factory🏯✨](https://thewhispersofbiology.blogspot.com/2025/09/infinity-cancer-drug-factory.html)
 
 ##### 🍭Cancer Genetics: History&Consequences
@@ -69,17 +70,18 @@ Our target audience is anyone with a love for science, from students to seasoned
 
 - [1st met Nobel Laureate (like met a Hollywood Star)](https://thewhispersofbiology.blogspot.com/2025/08/1st-met-nobel-laureate-like-hollywood.html)
 - [R.I.P David Baltimore - Noble Laureate 1975](https://thewhispersofbiology.blogspot.com/2025/09/blog-post.html)
-- [Who is Dick? on the top of CalTech Library](https://thewhispersofbiology.blogspot.com/2025/08/who-is-dick-on-top-of-caltech-library.html) 
+- [Who is Dick? on the top of CalTech Library](https://thewhispersofbiology.blogspot.com/2025/08/who-is-dick-on-top-of-caltech-library.html)
 
 ##### 🍭My ComBio Learning Path
 
 - [Vibe Coding: When everything in coding is thrown to AI 🤖](https://thewhispersofbiology.blogspot.com/2025/08/vibe-coding-when-everything-in-coding.html)
-- [The Whispers of Biology’s Mascot](https://thewhispersofbiology.blogspot.com/2025/09/the-whispers-of-biologys-mascot.html) 
-- [How to remember commands/code?](https://thewhispersofbiology.blogspot.com/2025/09/how-to-remember-commandscode.html)   
-- [From Cell line to Command Line & The most Headachest person 🤣](https://thewhispersofbiology.blogspot.com/2025/08/from-cell-line-to-command-line-most.html) 
+- [The Whispers of Biology’s Mascot](https://thewhispersofbiology.blogspot.com/2025/09/the-whispers-of-biologys-mascot.html)
+- [How to remember commands/code?](https://thewhispersofbiology.blogspot.com/2025/09/how-to-remember-commandscode.html)
+- [From Cell line to Command Line & The most Headachest person 🤣](https://thewhispersofbiology.blogspot.com/2025/08/from-cell-line-to-command-line-most.html)
 - [💻 I started coding just because my finger pained](https://thewhispersofbiology.blogspot.com/2025/10/i-started-coding-just-because-my-finger.html)
 
 ##### 🍭Nobel Prize - Funny, Clearly explain!!
+
 - [🏅 Nobel Prize 2025 – T-Rex (Treg): The Peacekeeping Boss of the Immune Army](https://thewhispersofbiology.blogspot.com/2025/10/nobel-prize-2025-t-rex-treg.html)
 
 ##### 🍭Academic vs Business
