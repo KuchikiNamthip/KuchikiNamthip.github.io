@@ -88,6 +88,13 @@
   ],
   "awards": [
     {
+      "title": "EMBO | EMBL Symposium: AI and Biology",
+      "date": "2026",
+      "awarder": "EMBL Corporate Partnership Programme and EMBO",
+      "url": "",
+      "summary": "Awarded a full fee waiver for the conference."
+    },
+    {
       "title": "Microscopy data analysis: machine learning and the BioImage Archive 2025 Course",
       "date": "2025",
       "awarder": "European Bioinformatics Institute (EMBL-EBI)",
