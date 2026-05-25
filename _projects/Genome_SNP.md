@@ -138,19 +138,19 @@ In modern genomics, people mostly use “variant” because not every DNA change
     ⚙️Tools: GATK VariantFiltration, vcftools, bcftools filter \
     🧩Output: high-confidence VCF
    🎯Filtering criteria: \
-    - Depth (DP) > 10 \
-    - Quality (QUAL) > 30 \
-    - Variant allele frequency (VAF) threshold \
-   ↓
+   - Depth (DP) > 10 \
+   - Quality (QUAL) > 30 \
+   - Variant allele frequency (VAF) threshold \
+     ↓
 7. SNP Annotation (gene, function, dbSNP ID) \
     🎯Goal: Add biological meaning to each SNP: gene name, transcript, coding effect, dbSNP ID, clinical significance. \
     ⚙️Tools: ANNOVAR, VEP (Variant Effect Predictor), SnpEff \
     🎯Databases used: \
-    - dbSNP (known SNPs) \
-    - ClinVar (pathogenicity) \
-    - gnomAD (population frequency) \
-    - RefSeq / Ensembl gene models \
-   ↓
+   - dbSNP (known SNPs) \
+   - ClinVar (pathogenicity) \
+   - gnomAD (population frequency) \
+   - RefSeq / Ensembl gene models \
+     ↓
 8. Downstream / Biological Interpretation (depends on purpose) \
 
 | Application                   | Example analysis               | Tools                            |
