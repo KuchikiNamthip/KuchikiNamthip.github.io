@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Namthip - The Best Poster🎉 - PTST 2026 
+title: Namthip - The Best Poster🎉 - PTST 2026
 description:
 tags:
 giscus_comments: true
