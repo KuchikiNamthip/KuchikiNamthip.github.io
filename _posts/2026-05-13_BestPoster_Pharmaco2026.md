@@ -8,7 +8,7 @@ date: 2026-05-13
 related_posts: false
 categories:
 featured: false
-thumbnail: assets/img/post2025/KK-defense_FBpost.png
+thumbnail: assets/img/PTST2026/PTST_wt_advisor.jpg
 
 authors:
   - name: Krittiyabhorn (Namthip) Kongtanawanich
