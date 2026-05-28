@@ -8,7 +8,7 @@ date: 2026-05-13
 related_posts: false
 categories:
 featured: false
-thumbnail: /assets/img/PTST2026/PTST_wt_advisor.jpg
+thumbnail: assets/img/PTST2026/PTST_wt_advisor.jpg
 
 authors:
   - name: Krittiyabhorn (Namthip) Kongtanawanich
@@ -23,7 +23,7 @@ I am incredibly honored to share that I have received the PTST Award for Excelle
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/PTST2026/PTST_wt_advisor.jpg" title="wi Advisor" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PTST2026/PTST_wt_advisor.jpg" title="wi Advisor" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
