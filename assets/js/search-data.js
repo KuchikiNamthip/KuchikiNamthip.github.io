@@ -65,7 +65,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-nutty-pudding-คืออะไร-ทำไมเป็น-functional-food-ชะลอวัย",
+            },{id: "post-namthip-1st-prize-at-grf-2026",
+      
+        title: "Namthip - 1st Prize at GRF 2026🎉",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/1stPrize_GRF2026/";
+        
+      },
+    },{id: "post-namthip-the-best-poster-ptst-2026",
+      
+        title: "Namthip - The Best Poster🎉 - PTST 2026",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/BestPoster_Pharmaco2026/";
+        
+      },
+    },{id: "post-nutty-pudding-คืออะไร-ทำไมเป็น-functional-food-ชะลอวัย",
       
         title: 'Nutty Pudding คืออะไร ทำไมเป็น Functional Food ชะลอวัย <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -1097,6 +1119,17 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://write-2-thrive.blogspot.com/2024/09/Namthip-CancerRes-4.html", "_blank");
+        
+      },
+    },{id: "post-test",
+      
+        title: "test",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/test/";
         
       },
     },{id: "news-my-combio-portfolio-my-computer-workbench-format-changes-smile-easy-to-read",
