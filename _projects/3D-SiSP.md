@@ -45,7 +45,7 @@ toc:
       </p>
 
       <p>
-        On this page, we provide two key resources linked to our <b>Scientific Reports (2025)</b> publication {% cite Kongtanawanich2025_SciRep %}:
+        On this page, we provide two key resources linked to our <b>Scientific Reports (2025)</b> publication {% cite Kongtanawanich2025_SciRep %} and poster presentation {% cite Kongtanawanich2024Poster %}:
       </p>
 
       <ul>
@@ -147,4 +147,4 @@ Kongtanawanich, K., Jamnongsong, S., Hokland, M. et al. High-content confocal an
 ### 👩‍🔬 Contributors
 
 This project is developed and maintained by  
-**Namthip Krittiyabhorn Kongtanawanich** ([@KuchikiNamthip](https://kuchikinamthip.github.io/)) at the **Siriraj Center of Research Excellence for Precision Medicine and Systems Pharmacology**, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand:contentReference.
+**Namthip Krittiyabhorn Kongtanawanich** ([@KuchikiNamthip](https://kuchikinamthip.github.io/)) at the **Siriraj Center of Research Excellence for Precision Medicine and Systems Pharmacology**, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand.
