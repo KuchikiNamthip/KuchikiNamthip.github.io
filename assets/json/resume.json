@@ -30,7 +30,9 @@
       "startDate": "2018-08-01",
       "endDate": "2025",
       "summary": "Ph.D. candidate under supervise of Assoc. Prof. Siwanon Jirawatnotai",
-      "highlights": ["Project: Cholangiocarcinoma stem cell mediated drug resistance"]
+      "highlights": [
+        "Project: Cholangiocarcinoma stem cell mediated drug resistance"
+      ]
     }
   ],
   "volunteer": [
@@ -42,7 +44,9 @@
       "startDate": "2017",
       "endDate": "",
       "summary": "Lead organizer advocates for physical activities and mutual support for Thai patients.",
-      "highlights": ["Join running activities organized by Thai Cancer Society"]
+      "highlights": [
+        "Join running activities organized by Thai Cancer Society"
+      ]
     },
     {
       "organization": "NO CANCER THAILAND",
@@ -83,10 +87,26 @@
       "studyType": "Doctor of Pharmacy (Pharm.D.)",
       "startDate": "2011",
       "endDate": "2016",
-      "highlights": ["First-class honors in Doctor of Pharmacy (Pharm.D.)"]
+      "highlights": [
+        "First-class honors in Doctor of Pharmacy (Pharm.D.)"
+      ]
     }
   ],
   "awards": [
+    {
+      "title": "The Distinguished Oral Presentation Award (The 1st Prize)",
+      "date": "2026",
+      "awarder": "Graduate Research Forum (GRF), Post-Graduate Education Division, Faculty of Medicine Siriraj Hospital, Mahidol University",
+      "url": "",
+      "summary": "Topic: 'Characterization of Cholangiocarcinoma Stem Cell Dynamics and Resistance via Live-Cell Biosensing and High-Content 3D Spheroid Analysis'"
+    },
+    {
+      "title": "PTST Award: Excellent Poster Presentation (The 1st Prize)",
+      "date": "2026",
+      "awarder": "The 47th Pharmacological and Therapeutic Society of Thailand Annual Meeting",
+      "url": "",
+      "summary": "Topic: 'Adaptive Plasticity and Steady-State Dynamics of Cholangiocarcinoma Stem Cells under Therapeutic Stress'"
+    },
     {
       "title": "EMBO | EMBL Symposium: AI and Biology",
       "date": "2026",
@@ -245,19 +265,33 @@
       "name": "Computational Biology",
       "level": "Master",
       "icon": "fa-solid fa-laptop",
-      "keywords": ["Transcriptomics", "Epigenomics", "High Content & High Throughput Image Analysis for 2D/3D cell culture"]
+      "keywords": [
+        "Transcriptomics",
+        "Epigenomics",
+        "High Content & High Throughput Image Analysis for 2D/3D cell culture"
+      ]
     },
     {
       "name": "Programming Languages & Tools",
       "level": "Master",
       "icon": "fa-solid fa-laptop",
-      "keywords": ["R", "Unix command line", "Python", "Docker", "Git", "Nextflow"]
+      "keywords": [
+        "R",
+        "Unix command line",
+        "Python",
+        "Docker",
+        "Git",
+        "Nextflow"
+      ]
     },
     {
       "name": "Intelletual Property",
       "level": "Master",
       "icon": "fa-solid fa-thumbtack",
-      "keywords": ["Patent", "Petty Patent"]
+      "keywords": [
+        "Patent",
+        "Petty Patent"
+      ]
     }
   ],
   "languages": [
@@ -276,12 +310,22 @@
     {
       "name": "Cancer Biology",
       "icon": "fa-solid fa-laptop",
-      "keywords": ["Cellular Plasticity", "Cancer Stem Cell", "Cancer Drug Resistance", "Cancer Metastasis", "Tumor Microenvironment"]
+      "keywords": [
+        "Cellular Plasticity",
+        "Cancer Stem Cell",
+        "Cancer Drug Resistance",
+        "Cancer Metastasis",
+        "Tumor Microenvironment"
+      ]
     },
     {
       "name": "Computational Biology",
       "icon": "fa-solid fa-laptop",
-      "keywords": ["Transcriptomics", "Epigenetics", "High Content & High Throughput Image Analysis"]
+      "keywords": [
+        "Transcriptomics",
+        "Epigenetics",
+        "High Content & High Throughput Image Analysis"
+      ]
     }
   ],
   "references": [
@@ -300,7 +344,9 @@
     {
       "name": "Cholangiocarcinoma Stem Cell",
       "summary": "This research introduces a live single-cell reporter system that reveals the drug-induced plasticity of a cancer stem cell-like population in cholangiocarcinoma. The findings offer valuable insights into the mechanisms underlying resistance to cancer treatment. ",
-      "highlights": ["Ph.D. Thesis"],
+      "highlights": [
+        "Ph.D. Thesis"
+      ],
       "startDate": "2018",
       "endDate": "2025",
       "url": ""
