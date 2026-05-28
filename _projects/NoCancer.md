@@ -60,7 +60,7 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 - [**Blockdit**](https://blockdit.com/no_cancer)
 - [**Google Blog**](https://nocancerth.blogspot.com) I will collect all post here.
 - [**TikTok**](https://tiktok.com/@no_cancer_th): waiting for update
-- [**YouTube**](https://youtube.com/NO-CANCER-THAILAND): waiting for update
+- [**YouTube**](https://www.youtube.com/@NO-CANCER-THAILAND): waiting for update
 
 ---
 

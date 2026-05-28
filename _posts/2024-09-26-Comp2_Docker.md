@@ -24,7 +24,7 @@ toc:
 
 ## Introduction
 
-For this part of [My Computer Workbench](https://kuchikinamthip.github.io/projects/ComBio), I would like to explain the concept of containers and their benefits in computational biology.
+For this part of [My Computer Workbench](https://kuchikinamthip.github.io/projects/ComBio_Portfolio), I would like to explain the concept of containers and their benefits in computational biology.
 
 ## Containerize (Docker)
 

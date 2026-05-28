@@ -32,5 +32,3 @@ It was a privilege to present my research, "Adaptive Plasticity and Steady-State
 A heartfelt thank you to my mentor, Assoc. Prof. Siwanon Jirawatnotai, and my esteemed advisors—Assoc.Prof.Methichit Wattanapanitch, Prof. Emerita Marianne Hokland, Assoc.Prof. Adisak Wongkajornsilp, and Prof. Uraiwan Panich —along with the Department of Pharmacology at Mahidol University, for their unwavering support and guidance throughout this journey.
 
 Moreover, a major highlight of the conference was attending the keynote address by Prof. Lijun Liu. Having cited her foundational research extensively throughout my thesis, getting the opportunity to actually present my own work to her was an absolute honor. Discussing my findings with someone whose expertise has so deeply shaped my own studies truly felt like meeting a scientific superstar!
-
-#PTST2026 #Pharmacology #CancerResearch #Cholangiocarcinoma #StemCells #Bioinformatics
