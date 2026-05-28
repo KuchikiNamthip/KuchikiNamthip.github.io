@@ -8,7 +8,7 @@ date: 2026-05-13
 related_posts: false
 categories:
 featured: false
-thumbnail: assets/img/PTST2026/PTST_wt_advisor.jpg
+thumbnail: /assets/img/PTST2026/PTST_wt_advisor.jpg
 
 authors:
   - name: Krittiyabhorn (Namthip) Kongtanawanich
