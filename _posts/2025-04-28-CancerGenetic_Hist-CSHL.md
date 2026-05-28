@@ -35,6 +35,6 @@ The buzz from other attendees in [the interview clips](https://www.youtube.com/w
 ## Let's talk cancer research!
 
 I believe in the power of sharing. Blogging & sharing thoughts helps me learn & stay inspired. \
-🧬 [The Whispers of Biology](kuchikinamthip.github.io/projects/WhispersBiology/): (EN) \
-🚫 [NO CANCER THAILAND](kuchikinamthip.github.io/projects/NoCancer/)(TH) \
+🧬 [The Whispers of Biology](https://kuchikinamthip.github.io/projects/WhispersBiology/): (EN) \
+🚫 [NO CANCER THAILAND](https://kuchikinamthip.github.io/projects/NoCancer/)(TH) \
 All are welcome! 😁😁😁

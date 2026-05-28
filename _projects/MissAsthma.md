@@ -56,8 +56,8 @@ Our target audience is the Thai public and especially those living with asthma. 
 
 - [**Facebook**](https://www.facebook.com/MissAsthmaTH/) Here I mostly connect with asthmatic friends.
 - [**Instagram**](https://www.instagram.com/miss_asthma_th?utm_source=ig_web_button_share_sheet&igsh=aDFxZjl5MWdqcXFp)
-- [**Blockdit**](blockdit.com/pages/659808504c08e3aca839fc71)
-- [**Google Blog**](missasthmath.blogspot.com) I will collect all post here.
+- [**Blockdit**](https://blockdit.com/pages/659808504c08e3aca839fc71)
+- [**Google Blog**](https://missasthmath.blogspot.com) I will collect all post here.
 - **TikTok:** waiting for update
 - **YouTube:** waiting for update
 

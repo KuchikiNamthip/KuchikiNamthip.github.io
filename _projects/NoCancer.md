@@ -56,11 +56,11 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 </div>
 
 - [**Facebook**](https://www.facebook.com/NoCancerTH) Here I mostly connect with the readers.
-- [**Instagram**](instagram.com/no_cancer_th)
-- [**Blockdit**](blockdit.com/no_cancer)
+- [**Instagram**](https://instagram.com/no_cancer_th)
+- [**Blockdit**](https://blockdit.com/no_cancer)
 - [**Google Blog**](https://nocancerth.blogspot.com) I will collect all post here.
-- [**TikTok**](tiktok.com/@no_cancer_th): waiting for update
-- [**YouTube**](youtube.com/%40NO-CANCER-THAILAND): waiting for update
+- [**TikTok**](https://tiktok.com/@no_cancer_th): waiting for update
+- [**YouTube**](https://youtube.com/NO-CANCER-THAILAND): waiting for update
 
 ---
 
