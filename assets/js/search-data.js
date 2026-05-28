@@ -65,9 +65,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-namthip-1st-prize-at-grf-2026",
+            },{id: "post-namthip-received-the-1st-prize-oral-presentation-at-grf-2026",
       
-        title: "Namthip - 1st Prize at GRF 2026🎉",
+        title: "Namthip received the 1st prize Oral Presentation at GRF 2026🎉",
       
       description: "",
       section: "Posts",
@@ -76,9 +76,9 @@ ninja.data = [{
           window.location.href = "/blog/2026/1stPrize_GRF2026/";
         
       },
-    },{id: "post-namthip-the-best-poster-ptst-2026",
+    },{id: "post-namthip-received-the-1st-prize-poster-presentation-at-ptst-2026",
       
-        title: "Namthip - The Best Poster🎉 - PTST 2026",
+        title: "Namthip received the 1st prize Poster Presentation at PTST 2026🎉",
       
       description: "",
       section: "Posts",
