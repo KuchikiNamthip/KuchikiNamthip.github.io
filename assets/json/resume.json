@@ -24,12 +24,21 @@
   },
   "work": [
     {
-      "name": "Siriraj Center of Research Excellence for Systems Pharmacology, Mahidol University",
-      "position": "Ph.D. in Pharmacology",
+      "name": "Siriraj Center of Research Excellence for Precision Medicine and Systems Pharmacology, Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand",
+      "position": "Postdocterol Researcher in System Pharmacology",
+      "url": "https://www.sisyspharm.org/",
+      "startDate": "2025-01-27",
+      "endDate": "",
+      "summary": "Under supervise of Assoc. Prof. Siwanon Jirawatnotai",
+      "highlights": ["Computational analysis of epigenetics and transcriptomics data"]
+    },  
+    {
+      "name": "Siriraj Center of Research Excellence for Precision Medicine and Systems Pharmacology, Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand",
+      "position": "Ph.D. candidate in SystemPharmacology",
       "url": "https://www.sisyspharm.org/",
       "startDate": "2018-08-01",
-      "endDate": "2025",
-      "summary": "Ph.D. candidate under supervise of Assoc. Prof. Siwanon Jirawatnotai",
+      "endDate": "2025-01-27",
+      "summary": "Under supervise of Assoc. Prof. Siwanon Jirawatnotai",
       "highlights": ["Project: Cholangiocarcinoma stem cell mediated drug resistance"]
     }
   ],
@@ -72,8 +81,8 @@
       "url": "https://www2.si.mahidol.ac.th/department/pharmacology/",
       "area": "System Pharmacology (CGPA 4.00)",
       "studyType": "Doctor of Philosophy (Ph.D.)",
-      "startDate": "2018",
-      "endDate": "2025"
+      "startDate": "2018-08-01",
+      "endDate": "2025-01-27"
     },
     {
       "institution": "School of Pharmacy, Walailak University, Thailand",
