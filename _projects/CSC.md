@@ -68,9 +68,3 @@ This project has yielded significant results, including:
 ---
 
 This integrated framework of wet-lab innovation and computational biology pipelines supports both mechanistic discovery in CSC biology and the translational development of new therapeutic strategies for cholangiocarcinoma.
-
----
-
-### 📚 Presentation
-
-- [Link](https://docs.google.com/document/d/1srk7c2HrDcM7UrB7PfVR5bIMLhlGGOXcDPhXA-StCII/edit?usp=sharing)
