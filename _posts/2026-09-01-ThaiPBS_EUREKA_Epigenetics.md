@@ -1,13 +1,13 @@
 ---
 layout: distill
 title: "Namthip on Thai PBS EUREKA: Epigenetics for Longevity and Cancer 🧬"
-description:
+description: Invited speaker on Thai PBS Podcast – EUREKA (2 episodes, September 2026)
 tags:
 giscus_comments: true
 date: 2026-09-01
 related_posts: false
 categories:
-featured: false
+featured: true
 thumbnail: assets/img/ThaiPBS2026/EUREKA_Epigenetics_EP1.jpg
 
 authors:
