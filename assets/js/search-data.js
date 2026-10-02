@@ -69,7 +69,7 @@ ninja.data = [{
       
         title: "Namthip on Thai PBS EUREKA: Epigenetics for Longevity and Cancer 🧬",
       
-      description: "",
+      description: "Invited speaker on Thai PBS Podcast – EUREKA (2 episodes, September 2026)",
       section: "Posts",
       handler: () => {
         
@@ -1180,6 +1180,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-my-ph-d-thesis-study-of-cholangiocarcinoma-stem-cells-mediated-drug-resistance-received-the-excellent-thesis-award-doctoral-degree-level-in-the-distinguished-thesis-awards-fy2026-faculty-of-graduate-studies-mahidol-university-read-more",
           title: '🏆 My Ph.D. thesis “Study of Cholangiocarcinoma Stem Cells-Mediated Drug Resistance” received the...',
+          description: "",
+          section: "News",},{id: "news-️-i-was-an-invited-speaker-on-thai-pbs-podcast-eureka-talking-about-epigenetics-for-longevity-and-cancer-in-two-episodes-september-2026-watch-amp-amp-read-more",
+          title: '🎙️ I was an invited speaker on Thai PBS Podcast – EUREKA, talking...',
           description: "",
           section: "News",},{id: "projects-3d-sisp-for-3d-multi-spheroid-quantitative-analysis",
           title: '3D-SiSP for 3D multi-spheroid quantitative analysis',
