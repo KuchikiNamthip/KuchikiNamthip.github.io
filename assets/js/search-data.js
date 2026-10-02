@@ -65,7 +65,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-namthip-received-the-1st-prize-oral-presentation-at-grf-2026",
+            },{id: "post-namthip-on-thai-pbs-eureka-epigenetics-for-longevity-and-cancer",
+      
+        title: "Namthip on Thai PBS EUREKA: Epigenetics for Longevity and Cancer 🧬",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/ThaiPBS_EUREKA_Epigenetics/";
+        
+      },
+    },{id: "post-namthip-received-the-excellent-thesis-award-ph-d-level-from-mahidol-university",
+      
+        title: "Namthip received the Excellent Thesis Award (Ph.D. level) from Mahidol University 🏆",
+      
+      description: "Distinguished Thesis Awards FY2026, Faculty of Graduate Studies, Mahidol University",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/ExcellentThesisAward_MU2026/";
+        
+      },
+    },{id: "post-namthip-joined-the-panel-discussion-at-tbrn-2026",
+      
+        title: "Namthip joined the panel discussion at TBRN 2026 🧬✨",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/TBRN2026_Panel/";
+        
+      },
+    },{id: "post-namthip-received-the-1st-prize-oral-presentation-at-grf-2026",
       
         title: "Namthip received the 1st prize Oral Presentation at GRF 2026🎉",
       
@@ -1121,17 +1154,6 @@ ninja.data = [{
           window.open("https://write-2-thrive.blogspot.com/2024/09/Namthip-CancerRes-4.html", "_blank");
         
       },
-    },{id: "post-test",
-      
-        title: "test",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/test/";
-        
-      },
     },{id: "news-my-combio-portfolio-my-computer-workbench-format-changes-smile-easy-to-read",
           title: 'My ComBio Portfolio: My Computer Workbench format changes :smile: easy to read!',
           description: "",
@@ -1152,6 +1174,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-my-combio-portfolio-phenomics-coding-x-high-throughput-imaging-2d-3d-models-was-fully-updated",
           title: 'My ComBio Portfolio: “Phenomics - Coding x High-Throughput Imaging (2D/3D Models)” was fully...',
+          description: "",
+          section: "News",},{id: "news-joined-the-panel-discussion-reproducibility-uncertainty-and-responsibility-standards-ethics-and-data-governance-in-bioinformatics-at-the-3rd-thailand-bioinformatics-research-network-conference-tbrn-2026-khon-kaen-representing-genfosis-co-ltd-read-more",
+          title: '🧬 Joined the panel discussion “Reproducibility, Uncertainty, and Responsibility: Standards, Ethics, and Data...',
+          description: "",
+          section: "News",},{id: "news-my-ph-d-thesis-study-of-cholangiocarcinoma-stem-cells-mediated-drug-resistance-received-the-excellent-thesis-award-doctoral-degree-level-in-the-distinguished-thesis-awards-fy2026-faculty-of-graduate-studies-mahidol-university-read-more",
+          title: '🏆 My Ph.D. thesis “Study of Cholangiocarcinoma Stem Cells-Mediated Drug Resistance” received the...',
           description: "",
           section: "News",},{id: "projects-3d-sisp-for-3d-multi-spheroid-quantitative-analysis",
           title: '3D-SiSP for 3D multi-spheroid quantitative analysis',
