@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: "Thai PBS EUREKA ท่องโลกวิทยาการ: Epigenetics กุญแจสู่อายุยืนยาว โอกาสใหม่รับมือมะเร็ง 🧬"
+title: "Namthip on Thai PBS EUREKA: Epigenetics for Longevity and Cancer 🧬"
 description:
 tags:
 giscus_comments: true
@@ -19,13 +19,13 @@ authors:
 bibliography: 2018-12-22-distill.bib
 ---
 
-รายการ **EUREKA ท่องโลกวิทยาการ** ตอน **Epigenetics กุญแจสู่อายุยืนยาว โอกาสใหม่รับมือมะเร็ง** 🧬
+I was invited to talk about **epigenetics, longevity, and new opportunities in the fight against cancer** on **EUREKA**, a science podcast series by Thai PBS Podcast. 🧬
 
-ติดตามดูได้ที่ [Thai PBS](https://www.facebook.com/ThaiPBS) และรับชมย้อนหลังได้ทาง YouTube ของ Thai PBS Podcast ด้านล่างนี้เลยค่ะ
+You can follow [Thai PBS](https://www.facebook.com/ThaiPBS) or watch both episodes on YouTube below (in Thai).
 
-### EP.1 Epigenetics กุญแจสู่อายุยืนยาว และโอกาสใหม่รับมือมะเร็ง
+### EP.1 Epigenetics: The Key to Longevity and New Opportunities Against Cancer
 
-เผยแพร่ 1 ก.ย. 2026
+Released on September 1, 2026
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,9 +35,9 @@ bibliography: 2018-12-22-distill.bib
     </div>
 </div>
 
-### EP.2 Epigenetics เมื่อร่างกายของคุณไม่ได้แก่ตามปฏิทิน
+### EP.2 Epigenetics: When Your Body Doesn't Age by the Calendar
 
-เผยแพร่ 8 ก.ย. 2026
+Released on September 8, 2026
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -47,9 +47,9 @@ bibliography: 2018-12-22-distill.bib
     </div>
 </div>
 
-ติดตามต่อได้ที่ [NO Cancer: เพราะวิจัยมะเร็งนั้นลึกซึ้ง](https://www.facebook.com/NoCancerTH)
+For more cancer science stories, follow [NO CANCER THAILAND](https://www.facebook.com/NoCancerTH).
 
-ขอบพระคุณ
+With gratitude to:
 
-- อ.[บัญชา ธนบุญสมบัติ](https://www.facebook.com/buncha2509) ที่ชวนมาแชร์เรื่องราวดีดีค่ะ
-- อ.[Siwanon Jirawatnotai](https://www.facebook.com/siwanon.jirawatnotai) ที่กรุณาให้คำแนะนำค่ะ
+- [Dr. Buncha Thanaboonsombut](https://www.facebook.com/buncha2509), for inviting me to share these stories
+- [Assoc. Prof. Siwanon Jirawatnotai](https://www.facebook.com/siwanon.jirawatnotai), for his kind advice

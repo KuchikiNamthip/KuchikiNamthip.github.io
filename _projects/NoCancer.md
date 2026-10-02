@@ -64,18 +64,18 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 
 ### 📺 NO Cancer on Media
 
-- **Thai PBS Podcast – EUREKA ท่องโลกวิทยาการ** ตอน Epigenetics กุญแจสู่อายุยืนยาว โอกาสใหม่รับมือมะเร็ง (ก.ย. 2026) — [EP.1 กุญแจสู่อายุยืนยาว และโอกาสใหม่รับมือมะเร็ง](https://youtu.be/dqZghMscgKs) | [EP.2 เมื่อร่างกายของคุณไม่ได้แก่ตามปฏิทิน](https://youtu.be/Z8uXi2kw2Jo) | [อ่านเพิ่มเติม](https://kuchikinamthip.github.io/blog/2026/ThaiPBS_EUREKA_Epigenetics/)
+- **Thai PBS Podcast – EUREKA** (September 2026): Invited speaker on _Epigenetics for Longevity and Cancer_ — [EP.1: The Key to Longevity and New Opportunities Against Cancer](https://youtu.be/dqZghMscgKs) | [EP.2: When Your Body Doesn't Age by the Calendar](https://youtu.be/Z8uXi2kw2Jo) | [Read more](https://kuchikinamthip.github.io/blog/2026/ThaiPBS_EUREKA_Epigenetics/)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ThaiPBS2026/EUREKA_Epigenetics_EP1.jpg" title="EUREKA EP.1: Epigenetics กุญแจสู่อายุยืนยาว โอกาสใหม่รับมือมะเร็ง" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ThaiPBS2026/EUREKA_Epigenetics_EP1.jpg" title="EUREKA EP.1: The Key to Longevity and New Opportunities Against Cancer" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ThaiPBS2026/EUREKA_Epigenetics_EP2.jpg" title="EUREKA EP.2: Epigenetics เมื่อร่างกายของคุณไม่ได้แก่ตามปฏิทิน" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ThaiPBS2026/EUREKA_Epigenetics_EP2.jpg" title="EUREKA EP.2: When Your Body Doesn't Age by the Calendar" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Thai PBS Podcast — EUREKA ท่องโลกวิทยาการ (September 2026)
+    Thai PBS Podcast — EUREKA: Epigenetics for Longevity and Cancer (September 2026)
 </div>
 
 ---
