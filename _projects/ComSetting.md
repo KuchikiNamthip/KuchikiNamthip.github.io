@@ -26,6 +26,8 @@ This project is a big challenge for me as a pharmacist. Without good friends and
 4. <a href="https://kuchikinamthip.github.io/blog/2025/Comp4_R/">Popular Computational Biology Language with R and R Studio</a>
 5. <a href="https://kuchikinamthip.github.io/blog/2024/Comp5_Git/">Tracking versions of code with Git Version Control</a>
 
+💬 **Related talk:** Reproducibility is also the theme of my panel discussion _“Reproducibility, Uncertainty, and Responsibility: Standards, Ethics, and Data Governance in Bioinformatics”_ at [TBRN 2026](https://kuchikinamthip.github.io/blog/2026/TBRN2026_Panel/).
+
 ---
 
 ## Acknowledgment

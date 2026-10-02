@@ -49,6 +49,23 @@ Our target audience is anyone with a love for science, from students to seasoned
 - [**GitHub Repo**](https://github.com/KuchikiNamthip?tab=repositories): For my technical note on computational biology.
 - [**YouTube:**](https://www.youtube.com/@TheWhispersofBiology) waiting for update
 
+### 🎙️ Talks & Media
+
+- **Thai PBS Podcast – EUREKA ท่องโลกวิทยาการ** (September 2026): Invited speaker on _Epigenetics for Longevity and Cancer_ — [EP.1 กุญแจสู่อายุยืนยาว และโอกาสใหม่รับมือมะเร็ง](https://youtu.be/dqZghMscgKs) | [EP.2 เมื่อร่างกายของคุณไม่ได้แก่ตามปฏิทิน](https://youtu.be/Z8uXi2kw2Jo) | [Blog post](https://kuchikinamthip.github.io/blog/2026/ThaiPBS_EUREKA_Epigenetics/)
+- **The 3rd Thailand Bioinformatics Research Network Conference (TBRN 2026)** (June 2026): Discussion panelist on _Reproducibility, Uncertainty, and Responsibility: Standards, Ethics, and Data Governance in Bioinformatics_ — [Blog post](https://kuchikinamthip.github.io/blog/2026/TBRN2026_Panel/)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ThaiPBS2026/EUREKA_Epigenetics_EP1.jpg" title="EUREKA EP.1: Epigenetics กุญแจสู่อายุยืนยาว โอกาสใหม่รับมือมะเร็ง" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ThaiPBS2026/EUREKA_Epigenetics_EP2.jpg" title="EUREKA EP.2: Epigenetics เมื่อร่างกายของคุณไม่ได้แก่ตามปฏิทิน" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Thai PBS Podcast — EUREKA ท่องโลกวิทยาการ (September 2026)
+</div>
+
 ---
 
 ### 🧶Table of contents🧶

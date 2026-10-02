@@ -19,27 +19,71 @@
         "network": "Twitter",
         "username": "KuchikiNamthip",
         "url": "https://x.com/KuchikiNamthip"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "kuchikinamthip",
+        "url": "https://www.linkedin.com/in/kuchikinamthip/"
       }
     ]
   },
   "work": [
     {
-      "name": "Siriraj Center of Research Excellence for Precision Medicine and Systems Pharmacology, Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand",
-      "position": "Postdocterol Researcher in System Pharmacology",
-      "url": "https://www.sisyspharm.org/",
-      "startDate": "2025-01-27",
+      "name": "Genfosis Co., Ltd., Thailand",
+      "position": "Freelance Bioinformatician",
+      "url": "",
+      "startDate": "2026",
       "endDate": "",
-      "summary": "Under supervise of Assoc. Prof. Siwanon Jirawatnotai",
-      "highlights": ["Computational analysis of epigenetics and transcriptomics data"]
+      "summary": "Genomic and epigenetic data analysis for personalized health",
+      "highlights": [
+        "Direct genetic analysis workflows for personalized health initiatives, processing genomic data via Whole Exome Sequencing (WES) and SNP arrays",
+        "Develop and execute epigenetic analysis pipelines to evaluate epigenetic clock profiles",
+        "Discussion panelist representing Genfosis at the 3rd Thailand Bioinformatics Research Network Conference (TBRN 2026)"
+      ]
     },
     {
       "name": "Siriraj Center of Research Excellence for Precision Medicine and Systems Pharmacology, Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand",
-      "position": "Ph.D. candidate in SystemPharmacology",
+      "position": "Postdoctoral Researcher in Systems Pharmacology",
+      "url": "https://www.sisyspharm.org/",
+      "startDate": "2025-01-27",
+      "endDate": "",
+      "summary": "Under the direction of Assoc. Prof. Dr. Siwanon Jirawatnotai",
+      "highlights": ["Computational analysis of epigenetics, transcriptomics, proteomics and phenomics"]
+    },
+    {
+      "name": "Siriraj Center of Research Excellence for Precision Medicine and Systems Pharmacology, Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand",
+      "position": "Doctoral Researcher (Ph.D. candidate) in Systems Pharmacology",
       "url": "https://www.sisyspharm.org/",
       "startDate": "2018-08-01",
       "endDate": "2025-01-27",
-      "summary": "Under supervise of Assoc. Prof. Siwanon Jirawatnotai",
-      "highlights": ["Project: Cholangiocarcinoma stem cell mediated drug resistance"]
+      "summary": "Department of Pharmacology, under the direction of Assoc. Prof. Dr. Siwanon Jirawatnotai",
+      "highlights": [
+        "Project: Study of Cholangiocarcinoma Stem Cells-Mediated Drug Resistance",
+        "Excellent Thesis Award (Doctoral degree level), Faculty of Graduate Studies, Mahidol University (2026)"
+      ]
+    },
+    {
+      "name": "eXta Plus Drugstore, C.P. ALL Public Company Limited, Thailand",
+      "position": "Pharmacist",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Qualified pharmacy accreditation",
+      "highlights": []
+    },
+    {
+      "name": "Walailak University, Chulalongkorn University and Chulabhorn Research Institute, Thailand",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2012",
+      "endDate": "2015",
+      "summary": "Research assistant in pharmaceutical sciences, natural products and cancer molecular genetics",
+      "highlights": [
+        "Construction of genome library of Streptomyces sp. KB1; analytical method validation and stability of extemporaneous quinine sulfate oral suspension; enhanced sildenafil solubility by solid dispersion (School of Pharmacy, Walailak University; Assoc. Prof. Dr. Apichart Atipairin)",
+        "Center of Excellence in Molecular Genetics of Cancer and Human Diseases, Faculty of Medicine, Chulalongkorn University (Prof. Dr. Apiwat Mutirangura, 2014)",
+        "Visitor at the Laboratory of Biochemistry, Chulabhorn Research Institute (Prof. Dr. M.R. Jisnuson Svasti and Dr. Kriengsak Lirdprapamongkol, 2013)",
+        "Utilization of Natural Products Research Unit, Walailak University (Assoc. Prof. Dr. Worrapong Phupong, 2012-2014)"
+      ]
     }
   ],
   "volunteer": [
@@ -48,10 +92,10 @@
       "location": "Bangkok, Thailand",
       "position": "Founder",
       "url": "https://www.facebook.com/groups/1118228731648914/?rdid=hK6u009AOJUfww61&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F8duUkQvoX8EXRZV6%2F",
-      "startDate": "2017",
+      "startDate": "2018",
       "endDate": "",
       "summary": "Lead organizer advocates for physical activities and mutual support for Thai patients.",
-      "highlights": ["Join running activities organized by Thai Cancer Society"]
+      "highlights": ["Join running activities organized by Thai Cancer Society", "Around 800 members in the online group"]
     },
     {
       "organization": "NO CANCER THAILAND",
@@ -61,7 +105,7 @@
       "startDate": "2020",
       "endDate": "",
       "summary": "Simplifying and promoting cancer science and precision medicine for the public understanding.",
-      "highlights": ""
+      "highlights": ["Invited speaker, Thai PBS Podcast EUREKA ท่องโลกวิทยาการ: Epigenetics for Longevity and Cancer (2026)"]
     },
     {
       "organization": "MISS ASTHMA THAILAND",
@@ -72,42 +116,67 @@
       "endDate": "",
       "summary": "Helping as an asthmatic friend for fostering a supportive environment and promoting awareness",
       "highlights": ""
+    },
+    {
+      "organization": "The Next-Gen Seq Squad",
+      "location": "International (online)",
+      "position": "Co-founder",
+      "url": "https://kuchikinamthip.github.io/NamthipService/TheNextGenSeqSquad/Main.html",
+      "summary": "An international computational biology community to facilitate global networking, open science, and collaborative knowledge sharing among bioinformatics professionals.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand",
+      "institution": "Department of Pharmacology, Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand",
       "location": "Bangkok, Thailand",
       "url": "https://www2.si.mahidol.ac.th/department/pharmacology/",
-      "area": "System Pharmacology (CGPA 4.00)",
+      "area": "Pharmacology (International Program), focusing on Systems Pharmacology and New Drug Development (CGPA 4.00/4.00)",
       "studyType": "Doctor of Philosophy (Ph.D.)",
       "startDate": "2018-08-01",
-      "endDate": "2025-01-27"
+      "endDate": "2025-01-27",
+      "courses": [
+        "Thesis: Study of Cholangiocarcinoma Stem Cells-Mediated Drug Resistance",
+        "Excellent Thesis Award (Doctoral degree level), Faculty of Graduate Studies, Mahidol University (2026)",
+        "Thesis defense: January 27, 2025"
+      ]
     },
     {
       "institution": "School of Pharmacy, Walailak University, Thailand",
       "location": "NST, Thailand",
       "url": "https://pharmacy.wu.ac.th/en",
-      "area": "Pharmaceutical Science (GPAX 3.59)",
+      "area": "Pharmaceutical Science (GPAX 3.59/4.00)",
       "studyType": "Doctor of Pharmacy (Pharm.D.)",
       "startDate": "2011",
       "endDate": "2016",
-      "highlights": ["First-class honors in Doctor of Pharmacy (Pharm.D.)"]
+      "highlights": ["First-class honors in Doctor of Pharmacy (Pharm.D.)"],
+      "courses": [
+        "First-class honors in Doctor of Pharmacy (Pharm.D.)",
+        "Thesis: Construction of Genomic Library of Streptomyces sp. KB1",
+        "Graduation date: March 30, 2017"
+      ]
     }
   ],
   "awards": [
     {
+      "title": "Excellent Thesis Award (Doctoral degree level)",
+      "date": "2026",
+      "awarder": "Distinguished Thesis Awards, Fiscal Year 2026 (Group 1: Biological Sciences), Faculty of Graduate Studies, Mahidol University",
+      "url": "https://kuchikinamthip.github.io/blog/2026/ExcellentThesisAward_MU2026/",
+      "summary": "Thesis: 'Study of Cholangiocarcinoma Stem Cells-Mediated Drug Resistance' (awarded on July 19, 2026)"
+    },
+    {
       "title": "The Distinguished Oral Presentation Award (The 1st Prize)",
       "date": "2026",
       "awarder": "Graduate Research Forum (GRF), Post-Graduate Education Division, Faculty of Medicine Siriraj Hospital, Mahidol University",
-      "url": "",
+      "url": "https://kuchikinamthip.github.io/blog/2026/1stPrize_GRF2026/",
       "summary": "Topic: 'Characterization of Cholangiocarcinoma Stem Cell Dynamics and Resistance via Live-Cell Biosensing and High-Content 3D Spheroid Analysis'"
     },
     {
       "title": "PTST Award: Excellent Poster Presentation (The 1st Prize)",
       "date": "2026",
       "awarder": "The 47th Pharmacological and Therapeutic Society of Thailand Annual Meeting",
-      "url": "",
+      "url": "https://kuchikinamthip.github.io/blog/2026/BestPoster_Pharmaco2026/",
       "summary": "Topic: 'Adaptive Plasticity and Steady-State Dynamics of Cholangiocarcinoma Stem Cells under Therapeutic Stress'"
     },
     {
@@ -134,8 +203,8 @@
     {
       "title": "The Best Poster Presentation Award",
       "date": "2021",
-      "awarder": "Pharmacological and Therapeutic Society",
-      "url": "",
+      "awarder": "The 42nd Pharmacological and Therapeutic Society of Thailand Meeting",
+      "url": "https://kuchikinamthip.github.io/blog/2025/KK_2021BestPoster/",
       "summary": "Topic: 'Differentiation potential of cholangiocarcinoma stem cells evaluated by live-biosensor'"
     },
     {
@@ -172,7 +241,7 @@
       "name": "Single-cell RNA-seq analysis",
       "date": "2025-02",
       "issuer": "University of Cambridge",
-      "url": "https://www.training.cam.ac.uk/event/5553150",
+      "url": "https://training.csx.cam.ac.uk/bioinformatics/event/5553150?past=50",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
@@ -223,9 +292,58 @@
       "issuer": "World Intellectual Property (WIPO)",
       "url": "https://www.wipo.int/portal/en/index.html",
       "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Google Certified Gemini Educator",
+      "date": "",
+      "issuer": "Google for Education",
+      "url": "https://edu.google.accredible.com/970dba46-22a6-4d14-938d-beb325d0736d#acc.t8J2q0WC",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "UI Fundamental",
+      "date": "",
+      "issuer": "Skooldio",
+      "url": "https://www.skooldio.com/",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Dashboard Design Principles",
+      "date": "",
+      "issuer": "Skooldio",
+      "url": "https://www.skooldio.com/",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Introduction to User Experience (UX) Design",
+      "date": "",
+      "issuer": "Skooldio",
+      "url": "https://www.skooldio.com/",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Cancer Genomics and Precision Cancer Medicine",
+      "date": "",
+      "issuer": "Faculty of Pharmacy, Silpakorn University, Thailand",
+      "url": "",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Connecting Knowledge to Practice: Cancer Variant Interpretation",
+      "date": "",
+      "issuer": "Siriraj Genomics, Faculty of Medicine Siriraj Hospital, Mahidol University",
+      "url": "",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
+    {
+      "name": "The StatQuest Illustrated Guide to Statistics: With hands-on examples in Python and R!!!",
+      "publisher": "StatQuest Publications (Starmer J.)",
+      "releaseDate": "2026",
+      "url": "https://www.amazon.com/StatQuest-Illustrated-Guide-Statistics-hands/dp/B0GMP7Z9ZL",
+      "summary": "Technical Editor"
+    },
     {
       "name": "High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures",
       "publisher": "Scientific Reports",
@@ -246,6 +364,13 @@
       "releaseDate": "2024-12-01",
       "url": "https://doi.org/10.1038/s41598-024-73581-8",
       "summary": "This study presents a live single-cell reporter system that uncovers the drug-induced plasticity of a cancer stem cell-like population in cholangiocarcinoma, providing insights into the mechanisms of cancer treatment resistance."
+    },
+    {
+      "name": "Pharmacy Student's Dream",
+      "publisher": "Ideal Vaccine, 7th Thailand Vaccine Conference, National Vaccine Institute",
+      "releaseDate": "2015-07",
+      "url": "",
+      "summary": "In: Muangchana C, editor. Ideal Vaccine. 7th Thailand Vaccine Conference; 2015 July 7-9; Bangkok, Thailand. Nonthaburi: National Vaccine Institute; 2015. p. 20."
     }
   ],
   "skills": [
@@ -268,7 +393,15 @@
       "name": "Computational Biology",
       "level": "Master",
       "icon": "fa-solid fa-laptop",
-      "keywords": ["Transcriptomics", "Epigenomics", "High Content & High Throughput Image Analysis for 2D/3D cell culture"]
+      "keywords": [
+        "Transcriptomics",
+        "Epigenomics",
+        "High Content & High Throughput Image Analysis for 2D/3D cell culture",
+        "Genomics (WES & SNP arrays)",
+        "Epigenetic Clock Analysis",
+        "Proteomics",
+        "Phenomics"
+      ]
     },
     {
       "name": "Programming Languages & Tools",
@@ -277,7 +410,7 @@
       "keywords": ["R", "Unix command line", "Python", "Docker", "Git", "Nextflow"]
     },
     {
-      "name": "Intelletual Property",
+      "name": "Intellectual Property",
       "level": "Master",
       "icon": "fa-solid fa-thumbtack",
       "keywords": ["Patent", "Petty Patent"]
@@ -304,7 +437,24 @@
     {
       "name": "Computational Biology",
       "icon": "fa-solid fa-laptop",
-      "keywords": ["Transcriptomics", "Epigenetics", "High Content & High Throughput Image Analysis"]
+      "keywords": ["Transcriptomics", "Epigenetics", "High Content & High Throughput Image Analysis", "Epigenetic Aging & Longevity"]
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-music",
+      "keywords": [
+        "Flute and Cello",
+        "Flutist and conductor, Walailak University Ensemble",
+        "Chairperson of Walailak University Ensemble Committee (2015)"
+      ]
+    },
+    {
+      "name": "Sports",
+      "icon": "fa-solid fa-person-biking",
+      "keywords": [
+        "Basketball, badminton, running, climbing and cycling",
+        "Two-time Audax 200 km Brevets Randonneurs Mondiaux finisher (Trang and Ayutthaya; Audax Randonneurs Thailand, certified by Audax Club Parisien)"
+      ]
     }
   ],
   "references": [
@@ -314,7 +464,7 @@
       "reference": "Ph.D. Advisor (Pharmacology), Mahidol University"
     },
     {
-      "name": "Assoc. Prof. Apichart Atipirin",
+      "name": "Assoc. Prof. Apichart Atipairin",
       "icon": "fa-solid fa-clipboard-check",
       "reference": "Pharm.D. Advisor (Pharmaceutical Science), Walailak University"
     }
@@ -323,10 +473,10 @@
     {
       "name": "Cholangiocarcinoma Stem Cell",
       "summary": "This research introduces a live single-cell reporter system that reveals the drug-induced plasticity of a cancer stem cell-like population in cholangiocarcinoma. The findings offer valuable insights into the mechanisms underlying resistance to cancer treatment. ",
-      "highlights": ["Ph.D. Thesis"],
+      "highlights": ["Ph.D. Thesis", "Excellent Thesis Award (Doctoral degree level), Faculty of Graduate Studies, Mahidol University (2026)"],
       "startDate": "2018",
       "endDate": "2025",
-      "url": ""
+      "url": "https://kuchikinamthip.github.io/projects/CSC/"
     }
   ]
 }

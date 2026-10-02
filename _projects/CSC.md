@@ -40,6 +40,8 @@ The **3D multi-spheroids model** formed the foundation of our recent publication
 
 This project has yielded significant results, including:
 
+- Ph.D. thesis
+  - _“Study of Cholangiocarcinoma Stem Cells-Mediated Drug Resistance”_ [awarded **Excellent Thesis Award (Doctoral degree level)**](https://kuchikinamthip.github.io/blog/2026/ExcellentThesisAward_MU2026/) in the Distinguished Thesis Awards, Fiscal Year 2026, Faculty of Graduate Studies, Mahidol University {% cite Kongtanawanich2026Thesis %}.
 - Original research articles
   - Kongtanawanich K, Jamnongsong S, Hokland M, Wattanapanitch M, Jirawatnotai S. High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures. Sci Rep. 2025;15(1):31387. {% cite Kongtanawanich2025_SciRep %}
   - Kongtanawanich K, Likasitwanakul P, Wattanapanitch M, Jirawatnotai S. Optimization of in vitro cell culture conditions suitable for the cholangiocarcinoma stem cell study. Sci Asia. 2025;51(4):1-8. {% cite Kongtanawanich2025_SciAsia %}
