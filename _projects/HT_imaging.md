@@ -133,6 +133,7 @@ The 3D multi-spheroid model was established to overcome the limitations of large
 #### 2.2 Key Applications:
 
 - **In vitro tumorigenicity**: 3D-SiSP allowed more precise measurement of tumor-forming ability than traditional length-based methods. It could detect significant CSC-driven spheroid formation even at very low seeding densities.
+
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3D-SiSP/wet-proc1.png" title="Schematic diagram of the in vitro tumorigenesis assessment by the 3D-SiSP." class="img-fluid rounded z-depth-1" %}
@@ -152,6 +153,7 @@ The 3D multi-spheroid model was established to overcome the limitations of large
 </div>
 
 - **Size and differentiation**: Tracking GFP signals showed that larger spheroids tended to keep more CSCs, while smaller ones often lost stemness and differentiated. This revealed a direct link between spheroid size and cell state.
+
 <div class="row">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/HT_Imaging/Fig2_Diff_3D-new.png" title="Observation of a Phenotypic Change (Differentiation) in a 3D Multi-Spheroid System" class="img-fluid rounded z-depth-1" %}
@@ -171,6 +173,7 @@ The 3D multi-spheroid model was established to overcome the limitations of large
 </div>
 
 - **Drug response**: The method quantified both cell killing and CSC enrichment in response to chemotherapy. Interestingly, sublethal doses of 5-fluorouracil and gemcitabine caused paradoxical increases in CSC content.
+
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3D-SiSP/wet-proc2.png" title="Schematic diagram of the 3D multi-spheroid model for evaluating anti-cancer drugs in CCA CSCs" class="img-fluid rounded z-depth-1" %}
@@ -197,6 +200,7 @@ The 3D multi-spheroid model was established to overcome the limitations of large
 </div>
 
 - **Drug comparison**: By comparing CSC enrichment across different drugs within the same range of spheroid viability, 3D-SiSP highlighted that 5-fluorouracil induced stronger CSC enrichment than gemcitabine.
+
 <div class="row justify-content-center">
   <div class="col-sm mt-3 mt-md-0 content-center" style="max-width: 35%;">
         {% include figure.liquid loading="eager" path="assets/img/3D-SiSP/drug-compare.png" title="Comparing CSC enrichment across different drugs" class="img-fluid rounded z-depth-1 mx-auto" style="max-width: 35%;" %}

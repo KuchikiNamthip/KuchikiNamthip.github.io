@@ -112,43 +112,43 @@ In modern genomics, people mostly use “variant” because not every DNA change
    🎯Goal: high-quality reads for alignment \
    🧩Input: paired-end FASTQ files (sample_R1.fastq, sample_R2.fastq) \
    ⚙️Tools: Illumina sequencer, Nanopore, PacBio \
-    ↓
+   ↓
 2. Quality Control (QC) \
    🎯Goal: Check read quality, adapter contamination, GC content. \
    ⚙️Tools: Adapter trimming (Trimmomatic, Cutadapt),QC report (FastQC, MultiQC) \
    🧩Output: cleaned FASTQ files \
-    ↓
+   ↓
 3. Alignment to Reference Genome (BAM) \
    🎯Goal:Map reads to a reference genome (e.g., hg38 for human). \
    ⚙️Tools: BWA-MEM, Bowtie2, HISAT2 \
    🧩Output: SAM → convert to BAM (samtools view -b) \
-    ↓
+   ↓
 4. Post-processing of BAM (Sorting, Duplicate removal, Recalibration) \
    🎯Goal: Sort reads, mark PCR duplicates, and perform base quality recalibration. \
    ⚙️Tools: samtools sort, Picard MarkDuplicates, GATK BaseRecalibrator \
    🧩Output: cleaned and indexed BAM file (sample.bam, sample.bai) \
-    ↓
+   ↓
 5. SNP Calling (VCF) \
    🎯Goal: Compare aligned reads to the reference genome → find positions with base changes. \
    ⚙️Tools: GATK HaplotypeCaller, bcftools mpileup + call, FreeBayes \
-   🧩Output: VCF (Variant Call Format) file \  
-    ↓
+   🧩Output: VCF (Variant Call Format) file \
+   ↓
 6. Variant Filtering & Quality Control \
-    🎯Goal: Remove false positives and low-quality SNPs. \
-    ⚙️Tools: GATK VariantFiltration, vcftools, bcftools filter \
-    🧩Output: high-confidence VCF
+   🎯Goal: Remove false positives and low-quality SNPs. \
+   ⚙️Tools: GATK VariantFiltration, vcftools, bcftools filter \
+   🧩Output: high-confidence VCF \
    🎯Filtering criteria: \
-   - Depth (DP) > 10 \
-   - Quality (QUAL) > 30 \
+   - Depth (DP) > 10
+   - Quality (QUAL) > 30
    - Variant allele frequency (VAF) threshold \
      ↓
 7. SNP Annotation (gene, function, dbSNP ID) \
-    🎯Goal: Add biological meaning to each SNP: gene name, transcript, coding effect, dbSNP ID, clinical significance. \
-    ⚙️Tools: ANNOVAR, VEP (Variant Effect Predictor), SnpEff \
-    🎯Databases used: \
-   - dbSNP (known SNPs) \
-   - ClinVar (pathogenicity) \
-   - gnomAD (population frequency) \
+   🎯Goal: Add biological meaning to each SNP: gene name, transcript, coding effect, dbSNP ID, clinical significance. \
+   ⚙️Tools: ANNOVAR, VEP (Variant Effect Predictor), SnpEff \
+   🎯Databases used: \
+   - dbSNP (known SNPs)
+   - ClinVar (pathogenicity)
+   - gnomAD (population frequency)
    - RefSeq / Ensembl gene models \
      ↓
 8. Downstream / Biological Interpretation (depends on purpose) \

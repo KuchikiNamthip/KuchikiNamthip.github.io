@@ -41,7 +41,7 @@ Our target audience is the Thai public and especially those living with asthma. 
 > but it's not a cute or simple disease. \
 > It can be fatal." \
 > \
->  _Miss Asthma Thailand_
+> _Miss Asthma Thailand_
 
 ### Find Us Here
 

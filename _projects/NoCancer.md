@@ -42,7 +42,7 @@ Our target audience is the Thai public that may be skeptical of modern medicine 
 > If people continue to treat cancer with boiling unscientific leaves \
 > Instead of proven drugs." \
 > \
->  _"Namthip" Krittiyabhorn Kongtanawanich_
+> _"Namthip" Krittiyabhorn Kongtanawanich_
 
 ### Find Us Here
 

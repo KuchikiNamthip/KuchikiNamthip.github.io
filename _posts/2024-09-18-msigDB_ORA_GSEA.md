@@ -35,6 +35,7 @@ toc:
 3.  Kyoto Encyclopedia of Genes and Genomes (KEGG)
 4.  Over-Representation Analysis (ORA)
 5.  Gene Set Enrichment Analysis (GSEA)
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/post2024/GSEAcover.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -85,6 +86,7 @@ Other sources of gene set:
 
 - ORA is a statistical method used to determine if a set of genes (e.g., differentially expressed genes) contains a higher proportion of genes associated with specific biological functions or pathways than would be expected by chance. This method often uses databases like GO and KEGG to assess enrichment.
 - In ORA, researchers might input a list of differentially expressed genes to see if they are over-represented in specific GO terms or KEGG pathways.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/post2024/ORA.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -99,6 +101,7 @@ Other sources of gene set:
 - GSEA evaluates whether predefined sets of genes show statistically significant differences between two biological states (e.g., treated vs. untreated). Unlike ORA, GSEA considers all genes in the dataset and ranks them based on expression levels, allowing it to detect subtle changes across entire gene sets.
 - In GSEA, the entire list of ranked genes can be assessed against the same or similar sets from msigDB, allowing for a broader understanding of the biological implications of expression changes.
 - For more information regarding GSEA issue, please read [a post from Ming (Tommy) Tang](https://github.com/crazyhottommy/RNA-seq-analysis/blob/master/GSEA_explained.md).
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/post2024/ORAvsGSEA.png" title="example image" class="img-fluid rounded z-depth-1" %}

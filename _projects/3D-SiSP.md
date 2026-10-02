@@ -72,6 +72,7 @@ toc:
 The protocols were published in [protocol.io](https://www.protocols.io/) in the colletion name [3D-SiSP: High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures](https://www.protocols.io/private/ECE27AC5049811EFBE540A58A9FEAC02)
 
 1. [Evaluating the in vitro tumorigenicity of cancer stem cell candidate using the 3D multi-spheroid model.](https://www.protocols.io/private/94571B42046A11EFBE540A58A9FEAC02)
+
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/3D-SiSP/wet-proc1.png" title="Schematic diagram of the in vitro tumorigenesis assessment by the 3D-SiSP." class="img-fluid rounded z-depth-1" %}
@@ -83,6 +84,7 @@ The protocols were published in [protocol.io](https://www.protocols.io/) in the 
 </div>
 
 2. [Evaluating CSC content and cytotoxicity under anti-cancer drug treatments for the 3D multi-spheroid model.](https://www.protocols.io/private/CED0FA6187C711F0B2120A58A9FEAC02)
+
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/3D-SiSP/wet-proc2.png" title="Schematic diagram of the 3D multi-spheroid model for evaluating anti-cancer drugs in CCA CSCs" class="img-fluid rounded z-depth-1" %}
@@ -100,7 +102,7 @@ The protocols were published in [protocol.io](https://www.protocols.io/) in the 
 #### ⚙️ Installation requirements
 
 **R (≥ 4.3.3)** and RStudio  
- See [R installation guide](https://rstudio-education.github.io/hopr/starting.html).
+See [R installation guide](https://rstudio-education.github.io/hopr/starting.html).
 
 #### 🔬 Analysis Modules
 

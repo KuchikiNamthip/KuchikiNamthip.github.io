@@ -100,7 +100,11 @@ screen
 
 This is the terminal after adding the `.screenrc` file and ran the `screen` command.
 
-<center> ![](pic/screen_command.jpeg){width=50%} </center> \
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ComSetting/screen_command.jpeg" title="screen command" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Useful command and shortcuts for screen
 
@@ -120,6 +124,6 @@ After you open the screen as shown in the picture, these are the useful commands
 `Ctrl+a` `0` : Switch to window 0 (by number). \
 `Ctrl+a` `X` : Close the current region. \
 `Ctrl+a` `d` : Detach the screen section. \
-`Ctrl+a` `k` : Kill the screen section. \
+`Ctrl+a` `k` : Kill the screen section.
 
 Please note that after the computer is shut down, all screens will be terminated. If you are running something on the screen, such as Dockerized R Studio, don't forget to close it properly. Otherwise, it might affect your files.
